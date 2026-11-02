@@ -1,0 +1,2418 @@
+{
+ "source": "https://www.twc.texas.gov/data-reports/warn-notice",
+ "rows": 2276,
+ "employees": 205681,
+ "organizations": 1325,
+ "counties": 136,
+ "first": "2020-01-03",
+ "last": "2026-10-27",
+ "ytd_cutoff": "Oct 27",
+ "yearly": [
+  {
+   "year": 2020,
+   "notices": 1206,
+   "employees": 90990.0,
+   "avg": 75.6,
+   "median": 47.0,
+   "organizations": 708,
+   "ytd_notices": 1120,
+   "ytd_employees": 84711.0
+  },
+  {
+   "year": 2021,
+   "notices": 123,
+   "employees": 13413.0,
+   "avg": 109.0,
+   "median": 67.0,
+   "organizations": 83,
+   "ytd_notices": 111,
+   "ytd_employees": 11984.0
+  },
+  {
+   "year": 2022,
+   "notices": 86,
+   "employees": 7303.0,
+   "avg": 84.9,
+   "median": 59.5,
+   "organizations": 66,
+   "ytd_notices": 74,
+   "ytd_employees": 6162.0
+  },
+  {
+   "year": 2023,
+   "notices": 224,
+   "employees": 24000.0,
+   "avg": 107.1,
+   "median": 65.5,
+   "organizations": 142,
+   "ytd_notices": 200,
+   "ytd_employees": 21712.0
+  },
+  {
+   "year": 2024,
+   "notices": 237,
+   "employees": 27627.0,
+   "avg": 116.6,
+   "median": 45.0,
+   "organizations": 161,
+   "ytd_notices": 202,
+   "ytd_employees": 25133.0
+  },
+  {
+   "year": 2025,
+   "notices": 289,
+   "employees": 26630.0,
+   "avg": 92.5,
+   "median": 59.5,
+   "organizations": 178,
+   "ytd_notices": 252,
+   "ytd_employees": 21151.0
+  },
+  {
+   "year": 2026,
+   "notices": 111,
+   "employees": 15718.0,
+   "avg": 141.6,
+   "median": 88.0,
+   "organizations": 86,
+   "ytd_notices": 111,
+   "ytd_employees": 15718.0
+  }
+ ],
+ "monthly": [
+  {
+   "month": "2020-01",
+   "notices": 19,
+   "employees": 2438.0
+  },
+  {
+   "month": "2020-02",
+   "notices": 15,
+   "employees": 2025.0
+  },
+  {
+   "month": "2020-03",
+   "notices": 591,
+   "employees": 35408.0
+  },
+  {
+   "month": "2020-04",
+   "notices": 312,
+   "employees": 23674.0
+  },
+  {
+   "month": "2020-05",
+   "notices": 34,
+   "employees": 4815.0
+  },
+  {
+   "month": "2020-06",
+   "notices": 26,
+   "employees": 4860.0
+  },
+  {
+   "month": "2020-07",
+   "notices": 52,
+   "employees": 4513.0
+  },
+  {
+   "month": "2020-08",
+   "notices": 27,
+   "employees": 2951.0
+  },
+  {
+   "month": "2020-09",
+   "notices": 31,
+   "employees": 1812.0
+  },
+  {
+   "month": "2020-10",
+   "notices": 20,
+   "employees": 3217.0
+  },
+  {
+   "month": "2020-11",
+   "notices": 37,
+   "employees": 1180.0
+  },
+  {
+   "month": "2020-12",
+   "notices": 42,
+   "employees": 4097.0
+  },
+  {
+   "month": "2021-01",
+   "notices": 16,
+   "employees": 1130.0
+  },
+  {
+   "month": "2021-02",
+   "notices": 15,
+   "employees": 3773.0
+  },
+  {
+   "month": "2021-03",
+   "notices": 12,
+   "employees": 1112.0
+  },
+  {
+   "month": "2021-04",
+   "notices": 21,
+   "employees": 1646.0
+  },
+  {
+   "month": "2021-05",
+   "notices": 9,
+   "employees": 1167.0
+  },
+  {
+   "month": "2021-06",
+   "notices": 8,
+   "employees": 347.0
+  },
+  {
+   "month": "2021-07",
+   "notices": 12,
+   "employees": 1045.0
+  },
+  {
+   "month": "2021-08",
+   "notices": 10,
+   "employees": 1131.0
+  },
+  {
+   "month": "2021-09",
+   "notices": 7,
+   "employees": 473.0
+  },
+  {
+   "month": "2021-10",
+   "notices": 2,
+   "employees": 294.0
+  },
+  {
+   "month": "2021-11",
+   "notices": 5,
+   "employees": 435.0
+  },
+  {
+   "month": "2021-12",
+   "notices": 6,
+   "employees": 860.0
+  },
+  {
+   "month": "2022-01",
+   "notices": 3,
+   "employees": 606.0
+  },
+  {
+   "month": "2022-02",
+   "notices": 1,
+   "employees": 84.0
+  },
+  {
+   "month": "2022-03",
+   "notices": 8,
+   "employees": 593.0
+  },
+  {
+   "month": "2022-04",
+   "notices": 1,
+   "employees": 202.0
+  },
+  {
+   "month": "2022-05",
+   "notices": 1,
+   "employees": 81.0
+  },
+  {
+   "month": "2022-06",
+   "notices": 7,
+   "employees": 1093.0
+  },
+  {
+   "month": "2022-07",
+   "notices": 13,
+   "employees": 1095.0
+  },
+  {
+   "month": "2022-08",
+   "notices": 14,
+   "employees": 1023.0
+  },
+  {
+   "month": "2022-09",
+   "notices": 6,
+   "employees": 459.0
+  },
+  {
+   "month": "2022-10",
+   "notices": 21,
+   "employees": 976.0
+  },
+  {
+   "month": "2022-11",
+   "notices": 9,
+   "employees": 562.0
+  },
+  {
+   "month": "2022-12",
+   "notices": 2,
+   "employees": 529.0
+  },
+  {
+   "month": "2023-01",
+   "notices": 16,
+   "employees": 3719.0
+  },
+  {
+   "month": "2023-02",
+   "notices": 25,
+   "employees": 1823.0
+  },
+  {
+   "month": "2023-03",
+   "notices": 8,
+   "employees": 2559.0
+  },
+  {
+   "month": "2023-04",
+   "notices": 10,
+   "employees": 1124.0
+  },
+  {
+   "month": "2023-05",
+   "notices": 17,
+   "employees": 1981.0
+  },
+  {
+   "month": "2023-06",
+   "notices": 15,
+   "employees": 1627.0
+  },
+  {
+   "month": "2023-07",
+   "notices": 28,
+   "employees": 1080.0
+  },
+  {
+   "month": "2023-08",
+   "notices": 28,
+   "employees": 2505.0
+  },
+  {
+   "month": "2023-09",
+   "notices": 13,
+   "employees": 1424.0
+  },
+  {
+   "month": "2023-10",
+   "notices": 43,
+   "employees": 3976.0
+  },
+  {
+   "month": "2023-11",
+   "notices": 13,
+   "employees": 1021.0
+  },
+  {
+   "month": "2023-12",
+   "notices": 8,
+   "employees": 1161.0
+  },
+  {
+   "month": "2024-01",
+   "notices": 22,
+   "employees": 2851.0
+  },
+  {
+   "month": "2024-02",
+   "notices": 12,
+   "employees": 1281.0
+  },
+  {
+   "month": "2024-03",
+   "notices": 10,
+   "employees": 683.0
+  },
+  {
+   "month": "2024-04",
+   "notices": 8,
+   "employees": 3248.0
+  },
+  {
+   "month": "2024-05",
+   "notices": 21,
+   "employees": 4262.0
+  },
+  {
+   "month": "2024-06",
+   "notices": 53,
+   "employees": 6716.0
+  },
+  {
+   "month": "2024-07",
+   "notices": 17,
+   "employees": 1605.0
+  },
+  {
+   "month": "2024-08",
+   "notices": 40,
+   "employees": 2137.0
+  },
+  {
+   "month": "2024-09",
+   "notices": 10,
+   "employees": 1283.0
+  },
+  {
+   "month": "2024-10",
+   "notices": 13,
+   "employees": 1703.0
+  },
+  {
+   "month": "2024-11",
+   "notices": 25,
+   "employees": 860.0
+  },
+  {
+   "month": "2024-12",
+   "notices": 6,
+   "employees": 998.0
+  },
+  {
+   "month": "2025-01",
+   "notices": 14,
+   "employees": 1335.0
+  },
+  {
+   "month": "2025-02",
+   "notices": 20,
+   "employees": 2885.0
+  },
+  {
+   "month": "2025-03",
+   "notices": 30,
+   "employees": 3496.0
+  },
+  {
+   "month": "2025-04",
+   "notices": 19,
+   "employees": 1732.0
+  },
+  {
+   "month": "2025-05",
+   "notices": 45,
+   "employees": 1939.0
+  },
+  {
+   "month": "2025-06",
+   "notices": 19,
+   "employees": 2175.0
+  },
+  {
+   "month": "2025-07",
+   "notices": 48,
+   "employees": 3722.0
+  },
+  {
+   "month": "2025-08",
+   "notices": 17,
+   "employees": 594.0
+  },
+  {
+   "month": "2025-09",
+   "notices": 17,
+   "employees": 2068.0
+  },
+  {
+   "month": "2025-10",
+   "notices": 37,
+   "employees": 2164.0
+  },
+  {
+   "month": "2025-11",
+   "notices": 14,
+   "employees": 3581.0
+  },
+  {
+   "month": "2025-12",
+   "notices": 9,
+   "employees": 939.0
+  },
+  {
+   "month": "2026-01",
+   "notices": 11,
+   "employees": 1079.0
+  },
+  {
+   "month": "2026-02",
+   "notices": 12,
+   "employees": 1050.0
+  },
+  {
+   "month": "2026-03",
+   "notices": 13,
+   "employees": 1848.0
+  },
+  {
+   "month": "2026-04",
+   "notices": 19,
+   "employees": 4420.0
+  },
+  {
+   "month": "2026-05",
+   "notices": 6,
+   "employees": 1322.0
+  },
+  {
+   "month": "2026-06",
+   "notices": 9,
+   "employees": 1160.0
+  },
+  {
+   "month": "2026-07",
+   "notices": 13,
+   "employees": 1121.0
+  },
+  {
+   "month": "2026-08",
+   "notices": 10,
+   "employees": 1036.0
+  },
+  {
+   "month": "2026-09",
+   "notices": 11,
+   "employees": 2448.0
+  },
+  {
+   "month": "2026-10",
+   "notices": 7,
+   "employees": 234.0
+  }
+ ],
+ "org_top": [
+  {
+   "organization": "Halliburton",
+   "notices": 11,
+   "employees": 5664.0,
+   "years": "2020",
+   "n_years": 1,
+   "sites": 8,
+   "sector": "Energy & oilfield",
+   "first": "2020-03-18",
+   "last": "2020-12-15"
+  },
+  {
+   "organization": "Zachry",
+   "notices": 8,
+   "employees": 4536.0,
+   "years": "2024",
+   "n_years": 1,
+   "sites": 4,
+   "sector": "Energy & oilfield",
+   "first": "2024-06-03",
+   "last": "2024-06-30"
+  },
+  {
+   "organization": "Walmart",
+   "notices": 7,
+   "employees": 3324.0,
+   "years": "2021, 2023, 2024",
+   "n_years": 3,
+   "sites": 5,
+   "sector": "Retail",
+   "first": "2021-03-09",
+   "last": "2024-05-21"
+  },
+  {
+   "organization": "American Airlines",
+   "notices": 10,
+   "employees": 3284.0,
+   "years": "2021, 2024",
+   "n_years": 2,
+   "sites": 2,
+   "sector": "Airlines & aviation",
+   "first": "2021-02-05",
+   "last": "2024-01-30"
+  },
+  {
+   "organization": "Pappas Restaurants",
+   "notices": 54,
+   "employees": 3195.0,
+   "years": "2020",
+   "n_years": 1,
+   "sites": 11,
+   "sector": "Restaurants & bars",
+   "first": "2020-03-26",
+   "last": "2020-04-22"
+  },
+  {
+   "organization": "Aramark",
+   "notices": 16,
+   "employees": 3175.0,
+   "years": "2020, 2021, 2023, 2024",
+   "n_years": 4,
+   "sites": 12,
+   "sector": "Restaurants & bars",
+   "first": "2020-03-16",
+   "last": "2024-05-02"
+  },
+  {
+   "organization": "Hooters",
+   "notices": 53,
+   "employees": 3025.0,
+   "years": "2020",
+   "n_years": 1,
+   "sites": 45,
+   "sector": "Restaurants & bars",
+   "first": "2020-03-23",
+   "last": "2020-03-23"
+  },
+  {
+   "organization": "Tesla",
+   "notices": 2,
+   "employees": 2738.0,
+   "years": "2024, 2025",
+   "n_years": 2,
+   "sites": 1,
+   "sector": "Manufacturing",
+   "first": "2024-04-23",
+   "last": "2025-05-07"
+  },
+  {
+   "organization": "Cinemark",
+   "notices": 44,
+   "employees": 2509.0,
+   "years": "2020",
+   "n_years": 1,
+   "sites": 38,
+   "sector": "Hotels & leisure",
+   "first": "2020-03-26",
+   "last": "2020-03-26"
+  },
+  {
+   "organization": "Southwest Key Programs",
+   "notices": 28,
+   "employees": 2096.0,
+   "years": "2023, 2024, 2025",
+   "n_years": 3,
+   "sites": 12,
+   "sector": "Government, education & nonprofit",
+   "first": "2023-01-09",
+   "last": "2025-10-02"
+  },
+  {
+   "organization": "Tyson Foods",
+   "notices": 2,
+   "employees": 2036.0,
+   "years": "2025",
+   "n_years": 1,
+   "sites": 2,
+   "sector": "Manufacturing",
+   "first": "2025-06-18",
+   "last": "2025-11-26"
+  },
+  {
+   "organization": "Republic National Distributing",
+   "notices": 5,
+   "employees": 1903.0,
+   "years": "2026",
+   "n_years": 1,
+   "sites": 5,
+   "sector": "Transportation & logistics",
+   "first": "2026-04-23",
+   "last": "2026-04-23"
+  },
+  {
+   "organization": "YMCA",
+   "notices": 2,
+   "employees": 1806.0,
+   "years": "2020, 2021",
+   "n_years": 2,
+   "sites": 2,
+   "sector": "Hotels & leisure",
+   "first": "2020-04-07",
+   "last": "2021-11-04"
+  },
+  {
+   "organization": "Sodexo",
+   "notices": 15,
+   "employees": 1783.0,
+   "years": "2020, 2021, 2022, 2024, 2025, 2026",
+   "n_years": 6,
+   "sites": 11,
+   "sector": "Restaurants & bars",
+   "first": "2020-07-20",
+   "last": "2026-04-30"
+  },
+  {
+   "organization": "Management & Training Corp (MTC)",
+   "notices": 18,
+   "employees": 1769.0,
+   "years": "2021, 2022, 2023, 2024, 2025",
+   "n_years": 5,
+   "sites": 16,
+   "sector": "Government, education & nonprofit",
+   "first": "2021-07-27",
+   "last": "2025-07-09"
+  },
+  {
+   "organization": "Hilton",
+   "notices": 14,
+   "employees": 1714.0,
+   "years": "2020, 2021, 2026",
+   "n_years": 3,
+   "sites": 5,
+   "sector": "Hotels & leisure",
+   "first": "2020-03-20",
+   "last": "2026-06-09"
+  },
+  {
+   "organization": "Hyatt",
+   "notices": 12,
+   "employees": 1704.0,
+   "years": "2020, 2026",
+   "n_years": 2,
+   "sites": 6,
+   "sector": "Hotels & leisure",
+   "first": "2020-03-25",
+   "last": "2026-03-31"
+  },
+  {
+   "organization": "Southwest Airlines",
+   "notices": 13,
+   "employees": 1683.0,
+   "years": "2020, 2024, 2025",
+   "n_years": 3,
+   "sites": 4,
+   "sector": "Airlines & aviation",
+   "first": "2020-11-06",
+   "last": "2025-02-19"
+  },
+  {
+   "organization": "FedEx",
+   "notices": 6,
+   "employees": 1638.0,
+   "years": "2023, 2025",
+   "n_years": 2,
+   "sites": 4,
+   "sector": "Transportation & logistics",
+   "first": "2023-06-08",
+   "last": "2025-12-29"
+  },
+  {
+   "organization": "Spirit Airlines",
+   "notices": 6,
+   "employees": 1555.0,
+   "years": "2020, 2022, 2025, 2026",
+   "n_years": 4,
+   "sites": 4,
+   "sector": "Airlines & aviation",
+   "first": "2020-07-30",
+   "last": "2026-05-02"
+  },
+  {
+   "organization": "JCPenney",
+   "notices": 6,
+   "employees": 1470.0,
+   "years": "2020, 2025",
+   "n_years": 2,
+   "sites": 5,
+   "sector": "Retail",
+   "first": "2020-07-16",
+   "last": "2025-06-03"
+  },
+  {
+   "organization": "Gaylord Texan (Marriott)",
+   "notices": 1,
+   "employees": 1426.0,
+   "years": "2020",
+   "n_years": 1,
+   "sites": 1,
+   "sector": "Hotels & leisure",
+   "first": "2020-06-04",
+   "last": "2020-06-04"
+  },
+  {
+   "organization": "Turner Industries",
+   "notices": 7,
+   "employees": 1336.0,
+   "years": "2020, 2021, 2025",
+   "n_years": 3,
+   "sites": 3,
+   "sector": "Energy & oilfield",
+   "first": "2020-04-02",
+   "last": "2025-07-31"
+  },
+  {
+   "organization": "MV Transportation",
+   "notices": 2,
+   "employees": 1178.0,
+   "years": "2023",
+   "n_years": 1,
+   "sites": 1,
+   "sector": "Transportation & logistics",
+   "first": "2023-10-25",
+   "last": "2023-10-25"
+  },
+  {
+   "organization": "ExxonMobil",
+   "notices": 13,
+   "employees": 1178.0,
+   "years": "2020, 2024",
+   "n_years": 2,
+   "sites": 5,
+   "sector": "Energy & oilfield",
+   "first": "2020-12-02",
+   "last": "2024-11-25"
+  }
+ ],
+ "org_recent": [
+  {
+   "organization": "Zachry",
+   "notices": 8,
+   "employees": 4536.0,
+   "sector": "Energy & oilfield"
+  },
+  {
+   "organization": "Walmart",
+   "notices": 6,
+   "employees": 3107.0,
+   "sector": "Retail"
+  },
+  {
+   "organization": "Tesla",
+   "notices": 2,
+   "employees": 2738.0,
+   "sector": "Manufacturing"
+  },
+  {
+   "organization": "Southwest Key Programs",
+   "notices": 28,
+   "employees": 2096.0,
+   "sector": "Government, education & nonprofit"
+  },
+  {
+   "organization": "Tyson Foods",
+   "notices": 2,
+   "employees": 2036.0,
+   "sector": "Manufacturing"
+  },
+  {
+   "organization": "Republic National Distributing",
+   "notices": 5,
+   "employees": 1903.0,
+   "sector": "Transportation & logistics"
+  },
+  {
+   "organization": "FedEx",
+   "notices": 6,
+   "employees": 1638.0,
+   "sector": "Transportation & logistics"
+  },
+  {
+   "organization": "Aramark",
+   "notices": 11,
+   "employees": 1628.0,
+   "sector": "Restaurants & bars"
+  },
+  {
+   "organization": "Management & Training Corp (MTC)",
+   "notices": 16,
+   "employees": 1377.0,
+   "sector": "Government, education & nonprofit"
+  },
+  {
+   "organization": "Spirit Airlines",
+   "notices": 4,
+   "employees": 1183.0,
+   "sector": "Airlines & aviation"
+  },
+  {
+   "organization": "MV Transportation",
+   "notices": 2,
+   "employees": 1178.0,
+   "sector": "Transportation & logistics"
+  },
+  {
+   "organization": "Accenture",
+   "notices": 3,
+   "employees": 1118.0,
+   "sector": "Tech, telecom & BPO"
+  },
+  {
+   "organization": "Conifer Health Solutions",
+   "notices": 1,
+   "employees": 1037.0,
+   "sector": "Healthcare"
+  },
+  {
+   "organization": "Texas Children's Hospital",
+   "notices": 1,
+   "employees": 997.0,
+   "sector": "Healthcare"
+  },
+  {
+   "organization": "Sodexo",
+   "notices": 9,
+   "employees": 988.0,
+   "sector": "Restaurants & bars"
+  },
+  {
+   "organization": "Genpact",
+   "notices": 1,
+   "employees": 964.0,
+   "sector": "Tech, telecom & BPO"
+  },
+  {
+   "organization": "GoldStar Transit",
+   "notices": 3,
+   "employees": 930.0,
+   "sector": "Transportation & logistics"
+  },
+  {
+   "organization": "Ryder",
+   "notices": 2,
+   "employees": 911.0,
+   "sector": "Transportation & logistics"
+  },
+  {
+   "organization": "Southwest General Hospital",
+   "notices": 1,
+   "employees": 827.0,
+   "sector": "Healthcare"
+  },
+  {
+   "organization": "Chevron",
+   "notices": 4,
+   "employees": 775.0,
+   "sector": "Energy & oilfield"
+  },
+  {
+   "organization": "David's Bridal",
+   "notices": 24,
+   "employees": 731.0,
+   "sector": "Retail"
+  },
+  {
+   "organization": "Southwest Airlines",
+   "notices": 2,
+   "employees": 723.0,
+   "sector": "Airlines & aviation"
+  },
+  {
+   "organization": "Yellow Corp",
+   "notices": 6,
+   "employees": 705.0,
+   "sector": "Transportation & logistics"
+  },
+  {
+   "organization": "Chewy Inc. Fullfillment Center",
+   "notices": 1,
+   "employees": 674.0,
+   "sector": "Transportation & logistics"
+  },
+  {
+   "organization": "LUKE",
+   "notices": 5,
+   "employees": 666.0,
+   "sector": "Other / unclassified"
+  }
+ ],
+ "org_by_year": {
+  "2020": [
+   {
+    "organization": "Halliburton",
+    "employees": 5664.0,
+    "notices": 11
+   },
+   {
+    "organization": "Pappas Restaurants",
+    "employees": 3195.0,
+    "notices": 54
+   },
+   {
+    "organization": "Hooters",
+    "employees": 3025.0,
+    "notices": 53
+   },
+   {
+    "organization": "Cinemark",
+    "employees": 2509.0,
+    "notices": 44
+   },
+   {
+    "organization": "YMCA",
+    "employees": 1679.0,
+    "notices": 1
+   },
+   {
+    "organization": "Hyatt",
+    "employees": 1578.0,
+    "notices": 11
+   },
+   {
+    "organization": "Gaylord Texan (Marriott)",
+    "employees": 1426.0,
+    "notices": 1
+   },
+   {
+    "organization": "Hilton",
+    "employees": 1379.0,
+    "notices": 11
+   },
+   {
+    "organization": "Aramark",
+    "employees": 1332.0,
+    "notices": 4
+   },
+   {
+    "organization": "JCPenney",
+    "employees": 1174.0,
+    "notices": 5
+   }
+  ],
+  "2021": [
+   {
+    "organization": "American Airlines",
+    "employees": 2963.0,
+    "notices": 9
+   },
+   {
+    "organization": "Central Freight Lines",
+    "employees": 673.0,
+    "notices": 4
+   },
+   {
+    "organization": "Basic Energy Services",
+    "employees": 494.0,
+    "notices": 6
+   },
+   {
+    "organization": "Concentrix",
+    "employees": 422.0,
+    "notices": 1
+   },
+   {
+    "organization": "Interim Healthcare",
+    "employees": 366.0,
+    "notices": 1
+   },
+   {
+    "organization": "Reliant Transportation",
+    "employees": 357.0,
+    "notices": 2
+   },
+   {
+    "organization": "Fusion Logistics",
+    "employees": 303.0,
+    "notices": 5
+   },
+   {
+    "organization": "Hilton",
+    "employees": 270.0,
+    "notices": 2
+   },
+   {
+    "organization": "Turner Industries",
+    "employees": 250.0,
+    "notices": 1
+   },
+   {
+    "organization": "Conduit Global-kgb",
+    "employees": 245.0,
+    "notices": 1
+   }
+  ],
+  "2022": [
+   {
+    "organization": "Home Point Financial",
+    "employees": 575.0,
+    "notices": 2
+   },
+   {
+    "organization": "American General Life Insurance",
+    "employees": 461.0,
+    "notices": 1
+   },
+   {
+    "organization": "First Guaranty Mortgage",
+    "employees": 428.0,
+    "notices": 1
+   },
+   {
+    "organization": "GXO Logistics",
+    "employees": 378.0,
+    "notices": 3
+   },
+   {
+    "organization": "Stearns Lending",
+    "employees": 348.0,
+    "notices": 1
+   },
+   {
+    "organization": "KeHe Distributors",
+    "employees": 313.0,
+    "notices": 1
+   },
+   {
+    "organization": "Meta",
+    "employees": 222.0,
+    "notices": 4
+   },
+   {
+    "organization": "Management & Training Corp (MTC)",
+    "employees": 206.0,
+    "notices": 1
+   },
+   {
+    "organization": "Center Point Towers",
+    "employees": 204.0,
+    "notices": 1
+   },
+   {
+    "organization": "Michaels Stores Procurement",
+    "employees": 202.0,
+    "notices": 1
+   }
+  ],
+  "2023": [
+   {
+    "organization": "Walmart",
+    "employees": 1635.0,
+    "notices": 4
+   },
+   {
+    "organization": "MV Transportation",
+    "employees": 1178.0,
+    "notices": 2
+   },
+   {
+    "organization": "Accenture",
+    "employees": 1118.0,
+    "notices": 3
+   },
+   {
+    "organization": "Genpact",
+    "employees": 964.0,
+    "notices": 1
+   },
+   {
+    "organization": "Aramark",
+    "employees": 873.0,
+    "notices": 9
+   },
+   {
+    "organization": "Southwest General Hospital",
+    "employees": 827.0,
+    "notices": 1
+   },
+   {
+    "organization": "Ryder",
+    "employees": 801.0,
+    "notices": 1
+   },
+   {
+    "organization": "David's Bridal",
+    "employees": 731.0,
+    "notices": 24
+   },
+   {
+    "organization": "Yellow Corp",
+    "employees": 705.0,
+    "notices": 6
+   },
+   {
+    "organization": "Vmware Inc. River Place)",
+    "employees": 577.0,
+    "notices": 1
+   }
+  ],
+  "2024": [
+   {
+    "organization": "Zachry",
+    "employees": 4536.0,
+    "notices": 8
+   },
+   {
+    "organization": "Tesla",
+    "employees": 2688.0,
+    "notices": 1
+   },
+   {
+    "organization": "Walmart",
+    "employees": 1472.0,
+    "notices": 2
+   },
+   {
+    "organization": "Texas Children's Hospital",
+    "employees": 997.0,
+    "notices": 1
+   },
+   {
+    "organization": "Aramark",
+    "employees": 755.0,
+    "notices": 2
+   },
+   {
+    "organization": "Southwest Key Programs",
+    "employees": 666.0,
+    "notices": 1
+   },
+   {
+    "organization": "TTEC Government Solutions",
+    "employees": 650.0,
+    "notices": 1
+   },
+   {
+    "organization": "99 Cents Only Store",
+    "employees": 620.0,
+    "notices": 31
+   },
+   {
+    "organization": "GoldStar Transit",
+    "employees": 594.0,
+    "notices": 2
+   },
+   {
+    "organization": "Vroom",
+    "employees": 515.0,
+    "notices": 3
+   }
+  ],
+  "2025": [
+   {
+    "organization": "Tyson Foods",
+    "employees": 2036.0,
+    "notices": 2
+   },
+   {
+    "organization": "Southwest Key Programs",
+    "employees": 1345.0,
+    "notices": 26
+   },
+   {
+    "organization": "FedEx",
+    "employees": 1300.0,
+    "notices": 4
+   },
+   {
+    "organization": "Management & Training Corp (MTC)",
+    "employees": 951.0,
+    "notices": 13
+   },
+   {
+    "organization": "Chevron",
+    "employees": 775.0,
+    "notices": 4
+   },
+   {
+    "organization": "Chewy Inc. Fullfillment Center",
+    "employees": 674.0,
+    "notices": 1
+   },
+   {
+    "organization": "LUKE",
+    "employees": 666.0,
+    "notices": 5
+   },
+   {
+    "organization": "Southwest Airlines",
+    "employees": 626.0,
+    "notices": 1
+   },
+   {
+    "organization": "MedStar Mobile Healthcare",
+    "employees": 589.0,
+    "notices": 1
+   },
+   {
+    "organization": "Christus Health Santa Rosa Medical Center",
+    "employees": 479.0,
+    "notices": 1
+   }
+  ],
+  "2026": [
+   {
+    "organization": "Republic National Distributing",
+    "employees": 1903.0,
+    "notices": 5
+   },
+   {
+    "organization": "Conifer Health Solutions",
+    "employees": 1037.0,
+    "notices": 1
+   },
+   {
+    "organization": "Spirit Airlines",
+    "employees": 959.0,
+    "notices": 2
+   },
+   {
+    "organization": "Sodexo",
+    "employees": 672.0,
+    "notices": 6
+   },
+   {
+    "organization": "First Brands",
+    "employees": 658.0,
+    "notices": 4
+   },
+   {
+    "organization": "Laurel Ridge Treatment Center",
+    "employees": 648.0,
+    "notices": 1
+   },
+   {
+    "organization": "DSV Contract Logistics",
+    "employees": 391.0,
+    "notices": 1
+   },
+   {
+    "organization": "GoldStar Transit",
+    "employees": 336.0,
+    "notices": 1
+   },
+   {
+    "organization": "A Metropolis",
+    "employees": 313.0,
+    "notices": 4
+   },
+   {
+    "organization": "Texas Family Initiative",
+    "employees": 307.0,
+    "notices": 1
+   }
+  ]
+ },
+ "repeat": [
+  {
+   "organization": "Sodexo",
+   "notices": 15,
+   "employees": 1783.0,
+   "years": "2020, 2021, 2022, 2024, 2025, 2026",
+   "n_years": 6,
+   "sites": 11,
+   "sector": "Restaurants & bars",
+   "first": "2020-07-20",
+   "last": "2026-04-30"
+  },
+  {
+   "organization": "Management & Training Corp (MTC)",
+   "notices": 18,
+   "employees": 1769.0,
+   "years": "2021, 2022, 2023, 2024, 2025",
+   "n_years": 5,
+   "sites": 16,
+   "sector": "Government, education & nonprofit",
+   "first": "2021-07-27",
+   "last": "2025-07-09"
+  },
+  {
+   "organization": "Compass Group",
+   "notices": 11,
+   "employees": 661.0,
+   "years": "2020, 2023, 2024, 2025, 2026",
+   "n_years": 5,
+   "sites": 6,
+   "sector": "Restaurants & bars",
+   "first": "2020-11-24",
+   "last": "2026-05-14"
+  },
+  {
+   "organization": "Aramark",
+   "notices": 16,
+   "employees": 3175.0,
+   "years": "2020, 2021, 2023, 2024",
+   "n_years": 4,
+   "sites": 12,
+   "sector": "Restaurants & bars",
+   "first": "2020-03-16",
+   "last": "2024-05-02"
+  },
+  {
+   "organization": "Spirit Airlines",
+   "notices": 6,
+   "employees": 1555.0,
+   "years": "2020, 2022, 2025, 2026",
+   "n_years": 4,
+   "sites": 4,
+   "sector": "Airlines & aviation",
+   "first": "2020-07-30",
+   "last": "2026-05-02"
+  },
+  {
+   "organization": "Holiday Inn Club Vacations",
+   "notices": 4,
+   "employees": 499.0,
+   "years": "2020, 2023, 2024, 2025",
+   "n_years": 4,
+   "sites": 3,
+   "sector": "Hotels & leisure",
+   "first": "2020-05-29",
+   "last": "2025-09-30"
+  },
+  {
+   "organization": "Walmart",
+   "notices": 7,
+   "employees": 3324.0,
+   "years": "2021, 2023, 2024",
+   "n_years": 3,
+   "sites": 5,
+   "sector": "Retail",
+   "first": "2021-03-09",
+   "last": "2024-05-21"
+  },
+  {
+   "organization": "Southwest Key Programs",
+   "notices": 28,
+   "employees": 2096.0,
+   "years": "2023, 2024, 2025",
+   "n_years": 3,
+   "sites": 12,
+   "sector": "Government, education & nonprofit",
+   "first": "2023-01-09",
+   "last": "2025-10-02"
+  },
+  {
+   "organization": "Hilton",
+   "notices": 14,
+   "employees": 1714.0,
+   "years": "2020, 2021, 2026",
+   "n_years": 3,
+   "sites": 5,
+   "sector": "Hotels & leisure",
+   "first": "2020-03-20",
+   "last": "2026-06-09"
+  },
+  {
+   "organization": "Southwest Airlines",
+   "notices": 13,
+   "employees": 1683.0,
+   "years": "2020, 2024, 2025",
+   "n_years": 3,
+   "sites": 4,
+   "sector": "Airlines & aviation",
+   "first": "2020-11-06",
+   "last": "2025-02-19"
+  },
+  {
+   "organization": "Turner Industries",
+   "notices": 7,
+   "employees": 1336.0,
+   "years": "2020, 2021, 2025",
+   "n_years": 3,
+   "sites": 3,
+   "sector": "Energy & oilfield",
+   "first": "2020-04-02",
+   "last": "2025-07-31"
+  },
+  {
+   "organization": "DHL",
+   "notices": 8,
+   "employees": 466.0,
+   "years": "2021, 2023, 2024",
+   "n_years": 3,
+   "sites": 4,
+   "sector": "Transportation & logistics",
+   "first": "2021-01-05",
+   "last": "2024-10-29"
+  },
+  {
+   "organization": "Expedia",
+   "notices": 5,
+   "employees": 421.0,
+   "years": "2020, 2024, 2026",
+   "n_years": 3,
+   "sites": 2,
+   "sector": "Other / unclassified",
+   "first": "2020-08-04",
+   "last": "2026-02-03"
+  },
+  {
+   "organization": "VSPOne Dallas",
+   "notices": 4,
+   "employees": 231.0,
+   "years": "2020, 2023, 2024",
+   "n_years": 3,
+   "sites": 1,
+   "sector": "Other / unclassified",
+   "first": "2020-04-09",
+   "last": "2024-08-21"
+  },
+  {
+   "organization": "Chalk Mountain Services",
+   "notices": 3,
+   "employees": 145.0,
+   "years": "2020, 2023, 2025",
+   "n_years": 3,
+   "sites": 2,
+   "sector": "Business & professional services",
+   "first": "2020-03-23",
+   "last": "2025-01-21"
+  }
+ ],
+ "wda": [
+  {
+   "wda": "Gulf Coast",
+   "notices": 601,
+   "employees": 46076.0,
+   "organizations": 370,
+   "share": 22.4
+  },
+  {
+   "wda": "Dallas County",
+   "notices": 315,
+   "employees": 30677.0,
+   "organizations": 242,
+   "share": 14.9
+  },
+  {
+   "wda": "Tarrant County",
+   "notices": 206,
+   "employees": 23806.0,
+   "organizations": 146,
+   "share": 11.6
+  },
+  {
+   "wda": "Alamo",
+   "notices": 232,
+   "employees": 21670.0,
+   "organizations": 191,
+   "share": 10.5
+  },
+  {
+   "wda": "Capital Area",
+   "notices": 158,
+   "employees": 18529.0,
+   "organizations": 122,
+   "share": 9.0
+  },
+  {
+   "wda": "North Central Texas",
+   "notices": 183,
+   "employees": 16539.0,
+   "organizations": 141,
+   "share": 8.0
+  },
+  {
+   "wda": "South East Texas",
+   "notices": 27,
+   "employees": 5987.0,
+   "organizations": 20,
+   "share": 2.9
+  },
+  {
+   "wda": "Permian Basin",
+   "notices": 77,
+   "employees": 5433.0,
+   "organizations": 48,
+   "share": 2.6
+  },
+  {
+   "wda": "Borderplex",
+   "notices": 49,
+   "employees": 4131.0,
+   "organizations": 41,
+   "share": 2.0
+  },
+  {
+   "wda": "Lower Rio Grande Valley",
+   "notices": 38,
+   "employees": 3673.0,
+   "organizations": 29,
+   "share": 1.8
+  },
+  {
+   "wda": "Panhandle",
+   "notices": 20,
+   "employees": 3640.0,
+   "organizations": 18,
+   "share": 1.8
+  },
+  {
+   "wda": "Rural Capital",
+   "notices": 67,
+   "employees": 3518.0,
+   "organizations": 56,
+   "share": 1.7
+  },
+  {
+   "wda": "Heart of Texas",
+   "notices": 34,
+   "employees": 3204.0,
+   "organizations": 27,
+   "share": 1.6
+  },
+  {
+   "wda": "East Texas",
+   "notices": 36,
+   "employees": 3194.0,
+   "organizations": 30,
+   "share": 1.6
+  },
+  {
+   "wda": "Cameron County",
+   "notices": 38,
+   "employees": 3070.0,
+   "organizations": 23,
+   "share": 1.5
+  },
+  {
+   "wda": "North East Texas",
+   "notices": 20,
+   "employees": 2903.0,
+   "organizations": 16,
+   "share": 1.4
+  },
+  {
+   "wda": "South Plains",
+   "notices": 29,
+   "employees": 1560.0,
+   "organizations": 25,
+   "share": 0.8
+  },
+  {
+   "wda": "South Texas",
+   "notices": 16,
+   "employees": 1458.0,
+   "organizations": 12,
+   "share": 0.7
+  },
+  {
+   "wda": "Coastal Bend",
+   "notices": 25,
+   "employees": 1360.0,
+   "organizations": 20,
+   "share": 0.7
+  },
+  {
+   "wda": "Deep East Texas",
+   "notices": 13,
+   "employees": 1003.0,
+   "organizations": 13,
+   "share": 0.5
+  },
+  {
+   "wda": "Middle Rio Grande",
+   "notices": 15,
+   "employees": 899.0,
+   "organizations": 10,
+   "share": 0.4
+  },
+  {
+   "wda": "Concho Valley",
+   "notices": 16,
+   "employees": 676.0,
+   "organizations": 13,
+   "share": 0.3
+  },
+  {
+   "wda": "North Texas",
+   "notices": 10,
+   "employees": 668.0,
+   "organizations": 9,
+   "share": 0.3
+  },
+  {
+   "wda": "Central Texas",
+   "notices": 15,
+   "employees": 652.0,
+   "organizations": 14,
+   "share": 0.3
+  },
+  {
+   "wda": "Brazos Valley",
+   "notices": 14,
+   "employees": 459.0,
+   "organizations": 12,
+   "share": 0.2
+  },
+  {
+   "wda": "Golden Crescent",
+   "notices": 6,
+   "employees": 342.0,
+   "organizations": 6,
+   "share": 0.2
+  },
+  {
+   "wda": "Texoma",
+   "notices": 7,
+   "employees": 277.0,
+   "organizations": 7,
+   "share": 0.1
+  },
+  {
+   "wda": "West Central",
+   "notices": 9,
+   "employees": 277.0,
+   "organizations": 9,
+   "share": 0.1
+  }
+ ],
+ "wda_year": [
+  {
+   "wda": "Gulf Coast",
+   "2020": 29944.0,
+   "2021": 1211.0,
+   "2022": 1023.0,
+   "2023": 1546.0,
+   "2024": 4126.0,
+   "2025": 5173.0,
+   "2026": 3053.0
+  },
+  {
+   "wda": "Dallas County",
+   "2020": 11714.0,
+   "2021": 1863.0,
+   "2022": 849.0,
+   "2023": 3335.0,
+   "2024": 3812.0,
+   "2025": 5162.0,
+   "2026": 3942.0
+  },
+  {
+   "wda": "Tarrant County",
+   "2020": 7874.0,
+   "2021": 3760.0,
+   "2022": 772.0,
+   "2023": 3657.0,
+   "2024": 1607.0,
+   "2025": 3686.0,
+   "2026": 2450.0
+  },
+  {
+   "wda": "Alamo",
+   "2020": 12167.0,
+   "2021": 1577.0,
+   "2022": 249.0,
+   "2023": 2436.0,
+   "2024": 2031.0,
+   "2025": 1394.0,
+   "2026": 1816.0
+  },
+  {
+   "wda": "Capital Area",
+   "2020": 6241.0,
+   "2021": 484.0,
+   "2022": 472.0,
+   "2023": 4792.0,
+   "2024": 4657.0,
+   "2025": 1130.0,
+   "2026": 753.0
+  },
+  {
+   "wda": "North Central Texas",
+   "2020": 5551.0,
+   "2021": 853.0,
+   "2022": 1772.0,
+   "2023": 3186.0,
+   "2024": 1546.0,
+   "2025": 2324.0,
+   "2026": 1307.0
+  },
+  {
+   "wda": "South East Texas",
+   "2020": 766.0,
+   "2021": 158.0,
+   "2022": 0.0,
+   "2023": 359.0,
+   "2024": 4585.0,
+   "2025": 119.0,
+   "2026": 0.0
+  },
+  {
+   "wda": "Permian Basin",
+   "2020": 4560.0,
+   "2021": 261.0,
+   "2022": 0.0,
+   "2023": 305.0,
+   "2024": 36.0,
+   "2025": 271.0,
+   "2026": 0.0
+  },
+  {
+   "wda": "Borderplex",
+   "2020": 1452.0,
+   "2021": 221.0,
+   "2022": 154.0,
+   "2023": 246.0,
+   "2024": 896.0,
+   "2025": 811.0,
+   "2026": 351.0
+  },
+  {
+   "wda": "Lower Rio Grande Valley",
+   "2020": 1263.0,
+   "2021": 400.0,
+   "2022": 193.0,
+   "2023": 109.0,
+   "2024": 147.0,
+   "2025": 1561.0,
+   "2026": 0.0
+  }
+ ],
+ "county": [
+  {
+   "county": "Harris",
+   "notices": 430,
+   "employees": 36388.0,
+   "organizations": 266
+  },
+  {
+   "county": "Dallas",
+   "notices": 315,
+   "employees": 30841.0,
+   "organizations": 243
+  },
+  {
+   "county": "Tarrant",
+   "notices": 202,
+   "employees": 23449.0,
+   "organizations": 142
+  },
+  {
+   "county": "Bexar",
+   "notices": 195,
+   "employees": 18842.0,
+   "organizations": 161
+  },
+  {
+   "county": "Travis",
+   "notices": 160,
+   "employees": 18806.0,
+   "organizations": 124
+  },
+  {
+   "county": "Collin",
+   "notices": 86,
+   "employees": 8193.0,
+   "organizations": 70
+  },
+  {
+   "county": "Jefferson",
+   "notices": 20,
+   "employees": 5566.0,
+   "organizations": 15
+  },
+  {
+   "county": "Denton",
+   "notices": 58,
+   "employees": 5530.0,
+   "organizations": 43
+  },
+  {
+   "county": "Fort Bend",
+   "notices": 85,
+   "employees": 5319.0,
+   "organizations": 63
+  },
+  {
+   "county": "El Paso",
+   "notices": 47,
+   "employees": 3980.0,
+   "organizations": 39
+  },
+  {
+   "county": "Cameron",
+   "notices": 37,
+   "employees": 3000.0,
+   "organizations": 22
+  },
+  {
+   "county": "Hidalgo",
+   "notices": 35,
+   "employees": 2947.0,
+   "organizations": 28
+  },
+  {
+   "county": "Mclennan",
+   "notices": 24,
+   "employees": 2878.0,
+   "organizations": 20
+  },
+  {
+   "county": "Potter",
+   "notices": 9,
+   "employees": 2854.0,
+   "organizations": 8
+  },
+  {
+   "county": "Midland",
+   "notices": 35,
+   "employees": 2264.0,
+   "organizations": 22
+  },
+  {
+   "county": "Williamson",
+   "notices": 36,
+   "employees": 2132.0,
+   "organizations": 29
+  },
+  {
+   "county": "Montgomery",
+   "notices": 39,
+   "employees": 1856.0,
+   "organizations": 37
+  },
+  {
+   "county": "Lamar",
+   "notices": 8,
+   "employees": 1610.0,
+   "organizations": 5
+  },
+  {
+   "county": "Webb",
+   "notices": 16,
+   "employees": 1458.0,
+   "organizations": 12
+  },
+  {
+   "county": "Ector",
+   "notices": 17,
+   "employees": 1341.0,
+   "organizations": 14
+  }
+ ],
+ "city": [
+  {
+   "city": "Houston",
+   "notices": 367,
+   "employees": 32722.0
+  },
+  {
+   "city": "Austin",
+   "notices": 163,
+   "employees": 19312.0
+  },
+  {
+   "city": "Dallas",
+   "notices": 166,
+   "employees": 19030.0
+  },
+  {
+   "city": "San Antonio",
+   "notices": 180,
+   "employees": 17685.0
+  },
+  {
+   "city": "Fort Worth",
+   "notices": 106,
+   "employees": 11129.0
+  },
+  {
+   "city": "Sabine Pass",
+   "notices": 2,
+   "employees": 4105.0
+  },
+  {
+   "city": "Plano",
+   "notices": 47,
+   "employees": 3970.0
+  },
+  {
+   "city": "El Paso",
+   "notices": 43,
+   "employees": 3953.0
+  },
+  {
+   "city": "Dfw Airport",
+   "notices": 10,
+   "employees": 3415.0
+  },
+  {
+   "city": "Irving",
+   "notices": 38,
+   "employees": 3240.0
+  },
+  {
+   "city": "Amarillo",
+   "notices": 10,
+   "employees": 3059.0
+  },
+  {
+   "city": "Richardson",
+   "notices": 20,
+   "employees": 2779.0
+  },
+  {
+   "city": "Grapevine",
+   "notices": 12,
+   "employees": 2631.0
+  },
+  {
+   "city": "Waco",
+   "notices": 22,
+   "employees": 2313.0
+  },
+  {
+   "city": "Midland",
+   "notices": 35,
+   "employees": 2264.0
+  }
+ ],
+ "sector": [
+  {
+   "sector": "Other / unclassified",
+   "2020": 18325.0,
+   "2021": 3162.0,
+   "2022": 2258.0,
+   "2023": 5014.0,
+   "2024": 5031.0,
+   "2025": 6683.0,
+   "2026": 4133.0,
+   "total": 44606.0
+  },
+  {
+   "sector": "Restaurants & bars",
+   "2020": 19752.0,
+   "2021": 465.0,
+   "2022": 114.0,
+   "2023": 1026.0,
+   "2024": 908.0,
+   "2025": 520.0,
+   "2026": 943.0,
+   "total": 23728.0
+  },
+  {
+   "sector": "Energy & oilfield",
+   "2020": 14148.0,
+   "2021": 1261.0,
+   "2022": 110.0,
+   "2023": 237.0,
+   "2024": 6170.0,
+   "2025": 1468.0,
+   "2026": 174.0,
+   "total": 23568.0
+  },
+  {
+   "sector": "Transportation & logistics",
+   "2020": 3917.0,
+   "2021": 1714.0,
+   "2022": 472.0,
+   "2023": 3892.0,
+   "2024": 1198.0,
+   "2025": 3619.0,
+   "2026": 3412.0,
+   "total": 18224.0
+  },
+  {
+   "sector": "Hotels & leisure",
+   "2020": 16378.0,
+   "2021": 643.0,
+   "2022": 115.0,
+   "2023": 134.0,
+   "2024": 157.0,
+   "2025": 230.0,
+   "2026": 455.0,
+   "total": 18112.0
+  },
+  {
+   "sector": "Manufacturing",
+   "2020": 3382.0,
+   "2021": 180.0,
+   "2022": 273.0,
+   "2023": 1661.0,
+   "2024": 4136.0,
+   "2025": 2969.0,
+   "2026": 1616.0,
+   "total": 14217.0
+  },
+  {
+   "sector": "Tech, telecom & BPO",
+   "2020": 3187.0,
+   "2021": 1065.0,
+   "2022": 486.0,
+   "2023": 4465.0,
+   "2024": 2171.0,
+   "2025": 2025.0,
+   "2026": 404.0,
+   "total": 13803.0
+  },
+  {
+   "sector": "Retail",
+   "2020": 3041.0,
+   "2021": 217.0,
+   "2022": 596.0,
+   "2023": 3554.0,
+   "2024": 3286.0,
+   "2025": 713.0,
+   "2026": 361.0,
+   "total": 11768.0
+  },
+  {
+   "sector": "Healthcare",
+   "2020": 2431.0,
+   "2021": 1247.0,
+   "2022": 483.0,
+   "2023": 1809.0,
+   "2024": 1842.0,
+   "2025": 1676.0,
+   "2026": 1821.0,
+   "total": 11309.0
+  },
+  {
+   "sector": "Airlines & aviation",
+   "2020": 2646.0,
+   "2021": 2963.0,
+   "2022": 277.0,
+   "2023": 103.0,
+   "2024": 752.0,
+   "2025": 1264.0,
+   "2026": 959.0,
+   "total": 8964.0
+  },
+  {
+   "sector": "Government, education & nonprofit",
+   "2020": 324.0,
+   "2021": 186.0,
+   "2022": 0.0,
+   "2023": 586.0,
+   "2024": 1099.0,
+   "2025": 3732.0,
+   "2026": 557.0,
+   "total": 6484.0
+  },
+  {
+   "sector": "Business & professional services",
+   "2020": 2579.0,
+   "2021": 215.0,
+   "2022": 224.0,
+   "2023": 1020.0,
+   "2024": 877.0,
+   "2025": 1302.0,
+   "2026": 0.0,
+   "total": 6217.0
+  },
+  {
+   "sector": "Finance & insurance",
+   "2020": 880.0,
+   "2021": 95.0,
+   "2022": 1895.0,
+   "2023": 499.0,
+   "2024": 0.0,
+   "2025": 429.0,
+   "2026": 883.0,
+   "total": 4681.0
+  }
+ ],
+ "size": [
+  {
+   "size_band": "1\u201349",
+   "notices": 1027,
+   "employees": 17149.0
+  },
+  {
+   "size_band": "50\u201399",
+   "notices": 670,
+   "employees": 47196.0
+  },
+  {
+   "size_band": "100\u2013249",
+   "notices": 443,
+   "employees": 66854.0
+  },
+  {
+   "size_band": "250\u2013499",
+   "notices": 86,
+   "employees": 28520.0
+  },
+  {
+   "size_band": "500\u2013999",
+   "notices": 36,
+   "employees": 24011.0
+  },
+  {
+   "size_band": "1,000+",
+   "notices": 11,
+   "employees": 21951.0
+  }
+ ],
+ "lead": {
+  "median_days": 2.0,
+  "pct_under_60": 77.7,
+  "pct_negative": 35.8,
+  "by_year": [
+   {
+    "year": 2020,
+    "median_days": -1.0,
+    "pct_under_60": 89.9
+   },
+   {
+    "year": 2021,
+    "median_days": 57.0,
+    "pct_under_60": 54.5
+   },
+   {
+    "year": 2022,
+    "median_days": 58.0,
+    "pct_under_60": 55.8
+   },
+   {
+    "year": 2023,
+    "median_days": 50.0,
+    "pct_under_60": 74.6
+   },
+   {
+    "year": 2024,
+    "median_days": 53.0,
+    "pct_under_60": 70.0
+   },
+   {
+    "year": 2025,
+    "median_days": 54.0,
+    "pct_under_60": 62.4
+   },
+   {
+    "year": 2026,
+    "median_days": 60.0,
+    "pct_under_60": 49.5
+   }
+  ]
+ },
+ "largest": [
+  {
+   "notice_date": "2024-06-03",
+   "employer": "Zachry Industrial, Inc. (Sabine Pass)",
+   "organization": "Zachry",
+   "city": "Sabine Pass",
+   "county": "Jefferson",
+   "wda": "South East Texas",
+   "layoffs": 4072.0
+  },
+  {
+   "notice_date": "2020-03-18",
+   "employer": "Haliburton Energy Services-N. Sam Houston",
+   "organization": "Halliburton",
+   "city": "Houston",
+   "county": "Harris",
+   "wda": "Gulf Coast",
+   "layoffs": 3500.0
+  },
+  {
+   "notice_date": "2024-04-23",
+   "employer": "Tesla",
+   "organization": "Tesla",
+   "city": "Austin",
+   "county": "Travis",
+   "wda": "Capital Area",
+   "layoffs": 2688.0
+  },
+  {
+   "notice_date": "2021-02-21",
+   "employer": "American Airlines-DFW",
+   "organization": "American Airlines",
+   "city": "Dfw Airport",
+   "county": "Tarrant",
+   "wda": "Tarrant County",
+   "layoffs": 2475.0
+  },
+  {
+   "notice_date": "2025-11-26",
+   "employer": "Tyson Foods, Inc. (Amarillo B-Shift Operations",
+   "organization": "Tyson Foods",
+   "city": "Amarillo",
+   "county": "Potter",
+   "wda": "Panhandle",
+   "layoffs": 1761.0
+  },
+  {
+   "notice_date": "2020-04-07",
+   "employer": "YMCA-San Antonio",
+   "organization": "YMCA",
+   "city": "San Antonio",
+   "county": "Bexar",
+   "wda": "Alamo",
+   "layoffs": 1679.0
+  },
+  {
+   "notice_date": "2020-06-04",
+   "employer": "Gaylord - Grapevine",
+   "organization": "Gaylord Texan (Marriott)",
+   "city": "Grapevine",
+   "county": "Tarrant",
+   "wda": "Tarrant County",
+   "layoffs": 1426.0
+  },
+  {
+   "notice_date": "2024-05-20",
+   "employer": "Walmart (Munger Blvd.)",
+   "organization": "Walmart",
+   "city": "Dallas",
+   "county": "Dallas",
+   "wda": "Dallas County",
+   "layoffs": 1266.0
+  },
+  {
+   "notice_date": "2023-03-31",
+   "employer": "Walmart #1258",
+   "organization": "Walmart",
+   "city": "Fort Worth",
+   "county": "Tarrant",
+   "wda": "Tarrant County",
+   "layoffs": 1047.0
+  },
+  {
+   "notice_date": "2026-09-08",
+   "employer": "Conifer's Health Solutions",
+   "organization": "Conifer Health Solutions",
+   "city": "Dallas",
+   "county": "Dallas",
+   "wda": "Dallas County",
+   "layoffs": 1037.0
+  },
+  {
+   "notice_date": "2020-04-07",
+   "employer": "Frontier Enterp;rise",
+   "organization": "Frontier Communications",
+   "city": "San Antonio",
+   "county": "Bexar",
+   "wda": "Alamo",
+   "layoffs": 1000.0
+  },
+  {
+   "notice_date": "2024-08-08",
+   "employer": "Texas Children's Hosptal (Texas Medical Center)",
+   "organization": "Texas Children's Hospital",
+   "city": "Houston",
+   "county": "Harris",
+   "wda": "Gulf Coast",
+   "layoffs": 997.0
+  },
+  {
+   "notice_date": "2020-05-04",
+   "employer": "Haliburton Energy Services-N. Sam Houston",
+   "organization": "Halliburton",
+   "city": "Houston",
+   "county": "Harris",
+   "wda": "Gulf Coast",
+   "layoffs": 984.0
+  },
+  {
+   "notice_date": "2023-01-19",
+   "employer": "Genpact LLC",
+   "organization": "Genpact",
+   "city": "Richardson",
+   "county": "Collin",
+   "wda": "North Central Texas",
+   "layoffs": 964.0
+  },
+  {
+   "notice_date": "2020-04-01",
+   "employer": "Avis Car Rental",
+   "organization": "Avis Budget",
+   "city": "Dallas",
+   "county": "Dallas",
+   "wda": "Dallas County",
+   "layoffs": 901.0
+  }
+ ],
+ "latest": [
+  {
+   "notice_date": "2026-10-27",
+   "employer": "Herzog Technologies, Inc.",
+   "city": "Austin",
+   "layoffs": 10.0,
+   "layoff_date": "2026-12-31"
+  },
+  {
+   "notice_date": "2026-10-27",
+   "employer": "Herzog Transit Services , Inc",
+   "city": "Austin",
+   "layoffs": 84.0,
+   "layoff_date": "2026-12-31"
+  },
+  {
+   "notice_date": "2026-10-27",
+   "employer": "Herzog Contracting Corp",
+   "city": "Austin",
+   "layoffs": 15.0,
+   "layoff_date": "2026-12-31"
+  },
+  {
+   "notice_date": "2026-10-07",
+   "employer": "Provider Partner Care Management L.P",
+   "city": "Fort Worth",
+   "layoffs": 79.0,
+   "layoff_date": "2026-12-06"
+  },
+  {
+   "notice_date": "2026-10-06",
+   "employer": "Cayuga Home for Children",
+   "city": "Arlington",
+   "layoffs": 18.0,
+   "layoff_date": "2027-01-04"
+  },
+  {
+   "notice_date": "2026-10-02",
+   "employer": "Grunt Style, LLC (San Antonio)",
+   "city": "San Antonio",
+   "layoffs": 19.0,
+   "layoff_date": "2026-11-30"
+  },
+  {
+   "notice_date": "2026-10-02",
+   "employer": "Grunt Style, LLC (El Paso)",
+   "city": "El Paso",
+   "layoffs": 9.0,
+   "layoff_date": "2026-11-30"
+  },
+  {
+   "notice_date": "2026-09-30",
+   "employer": "Charter Next Generation",
+   "city": "Grand Prairie",
+   "layoffs": 56.0,
+   "layoff_date": "2026-11-30"
+  },
+  {
+   "notice_date": "2026-09-28",
+   "employer": "Hello Bello Consumer Wellness",
+   "city": "Waco",
+   "layoffs": 67.0,
+   "layoff_date": "2026-11-27"
+  },
+  {
+   "notice_date": "2026-09-25",
+   "employer": "Arl-La-Tex Financia Services",
+   "city": "Plano",
+   "layoffs": 81.0,
+   "layoff_date": "2026-11-24"
+  },
+  {
+   "notice_date": "2026-09-15",
+   "employer": "Truist Bank",
+   "city": "Arlington",
+   "layoffs": 205.0,
+   "layoff_date": "2026-11-30"
+  },
+  {
+   "notice_date": "2026-09-11",
+   "employer": "New Tech Global Staffing",
+   "city": "Houston",
+   "layoffs": 121.0,
+   "layoff_date": "2026-10-30"
+  },
+  {
+   "notice_date": "2026-09-11",
+   "employer": "4XH Logistics LLC",
+   "city": "San Antonio",
+   "layoffs": 230.0,
+   "layoff_date": "2026-11-06"
+  },
+  {
+   "notice_date": "2026-09-08",
+   "employer": "Eagles Delivery LLC",
+   "city": "Roanoke",
+   "layoffs": 115.0,
+   "layoff_date": "2026-09-12"
+  },
+  {
+   "notice_date": "2026-09-08",
+   "employer": "Texas Family Initiative LLC",
+   "city": "Dallas",
+   "layoffs": 307.0,
+   "layoff_date": "2026-10-31"
+  }
+ ]
+}

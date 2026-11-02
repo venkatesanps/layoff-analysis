@@ -1,0 +1,816 @@
+<meta name="dash-one-writer">
+<style>
+  .tx { display: grid; gap: var(--cds-gap-xl); font-family: var(--font-anthropic-sans); color: var(--color-fg); max-width: 1280px; margin-inline: auto; }
+  .tx h1 { font-family: var(--font-anthropic-serif); font-weight: 400; font-size: var(--cds-font-size-title); margin: 0; text-wrap: balance; }
+  .tx h2 { font-size: var(--cds-font-size-heading); font-weight: var(--cds-font-weight-medium); margin: 0; text-wrap: balance; }
+  .tx h3 { font-size: var(--cds-font-size-body); font-weight: var(--cds-font-weight-medium); margin: 0; }
+  .tx p { margin: 0; }
+  .tx .tx-head { display: grid; gap: var(--cds-gap-sm); }
+  .tx .tx-lede { font-size: var(--cds-font-size-body); max-width: 70ch; line-height: 1.55; }
+  .tx .tx-lede b { font-weight: var(--cds-font-weight-medium); font-variant-numeric: tabular-nums; }
+  .tx .tx-muted, .tx .tx-note { color: var(--color-fg-muted); font-size: var(--cds-font-size-caption); line-height: 1.5; }
+  .tx .tx-tiles { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 12rem), 1fr)); gap: var(--cds-gap-md); }
+  .tx .tx-tile { background: var(--color-panel); border: 1px solid var(--color-border-line); border-radius: var(--cds-radius); padding: var(--cds-pad-lg); display: grid; gap: var(--cds-gap-xs); align-content: start; }
+  .tx .tx-tile .tx-big { font-family: var(--font-anthropic-serif); font-weight: 400; font-size: var(--cds-font-size-title); font-variant-numeric: tabular-nums; line-height: 1.1; }
+  .tx .tx-section { display: grid; gap: var(--cds-gap-md); scroll-margin-top: var(--cds-gap-xl); }
+  .tx .tx-section > header { display: grid; gap: var(--cds-gap-xs); }
+  .tx .tx-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 26rem), 1fr)); gap: var(--cds-gap-md); }
+  .tx .tx-card { background: var(--color-panel); border: 1px solid var(--color-border-line); border-radius: var(--cds-radius); padding: var(--cds-pad-lg); display: grid; gap: var(--cds-gap-sm); align-content: start; min-width: 0; }
+  .tx .tx-chart { position: relative; min-height: 220px; min-width: 0; }
+  .tx .tx-chart.tx-tall { min-height: 420px; }
+  .tx .tx-svg { display: block; overflow: visible; }
+  .tx .tx-svg text { font-family: var(--font-anthropic-sans); font-size: var(--cds-font-size-caption); font-variant-numeric: tabular-nums; }
+  .tx .tx-lbl { fill: var(--color-fg); }
+  .tx .tx-val, .tx .tx-tick { fill: var(--color-fg-muted); }
+  .tx .tx-grid-line { stroke: var(--cds-chart-grid); stroke-width: 1; }
+  .tx .tx-axis-line { stroke: var(--cds-chart-axis); stroke-width: 1; }
+  .tx .tx-tip { position: absolute; z-index: 5; pointer-events: none; background: var(--cds-surface-popover); border: 1px solid var(--cds-border); border-radius: var(--cds-radius); box-shadow: var(--cds-shadow-popover); padding: var(--cds-pad-xs) var(--cds-pad-sm); font-size: var(--cds-font-size-caption); white-space: nowrap; display: grid; gap: 2px; }
+  .tx .tx-tip-h { color: var(--cds-text-secondary); }
+  .tx .tx-fail { display: flex; align-items: center; justify-content: center; gap: var(--cds-gap-xs); min-height: inherit; color: var(--color-fg-muted); font-size: var(--cds-font-size-caption); }
+  .tx .tx-fail i { width: .375rem; height: .375rem; border-radius: 50%; background: var(--color-bad); display: inline-block; }
+  .tx .tx-filter { display: flex; flex-wrap: wrap; align-items: center; gap: var(--cds-gap-sm) var(--cds-gap-md); background: var(--color-panel); border: 1px solid var(--color-border-line); border-radius: var(--cds-radius); padding: var(--cds-pad-sm) var(--cds-pad-lg); position: sticky; top: 0; z-index: 4; }
+  .tx .tx-filter label { font-weight: var(--cds-font-weight-medium); font-size: var(--cds-font-size-body); }
+  .tx .tx-filter select { font: inherit; font-size: var(--cds-font-size-body); padding: 4px 8px; border-radius: var(--cds-radius); border: 1px solid var(--color-border-line); background: var(--color-bg); color: var(--color-fg); }
+  .tx .tx-table-wrap { overflow: auto; max-height: 30rem; min-width: 0; }
+  .tx table { width: 100%; border-collapse: collapse; font-size: var(--cds-font-size-caption); font-variant-numeric: tabular-nums; }
+  .tx th { text-align: left; font-weight: var(--cds-font-weight-medium); color: var(--color-fg-muted); position: sticky; top: 0; background: var(--color-panel); padding: 6px 8px; border-bottom: 1px solid var(--color-border-line); }
+  .tx td { padding: 6px 8px; border-bottom: 1px solid var(--color-border-line); vertical-align: top; }
+  .tx th.tx-num, .tx td.tx-num { text-align: right; white-space: nowrap; }
+  .tx .tx-good { color: var(--color-ok); }
+  .tx .tx-bad { color: var(--color-bad); }
+  .tx .tx-about { display: grid; gap: var(--cds-gap-sm); max-width: 75ch; }
+  .tx .tx-about ul { margin: 0; padding-left: 1.2em; display: grid; gap: var(--cds-gap-xs); color: var(--color-fg-muted); font-size: var(--cds-font-size-caption); line-height: 1.5; }
+  .tx [data-dash-source-state=refreshing] { opacity: .5; transition: opacity var(--cds-dur-slow); }
+  .tx [data-dash-source-state=empty] { color: transparent; }
+  @media (max-width: 520px) { .tx .tx-hide-narrow { display: none; } }
+</style>
+
+<div class="tx">
+  <header class="tx-head" id="overview">
+    <h1>Texas WARN layoffs, 2020–2026</h1>
+    <p class="tx-lede">Since January 2020, Texas employers have filed <b data-draw="kpi-notices" data-source="kpi" data-field="notices" data-row="0">—</b> WARN notices covering <b data-draw="kpi-workers" data-source="kpi" data-field="workers" data-row="0">—</b> workers at <b data-draw="kpi-orgs" data-source="kpi" data-field="organizations" data-row="0">—</b> organizations. 2026 notices filed through <b data-draw="kpi-last" data-source="kpi" data-field="last_date" data-row="0">—</b> cover <b data-draw="kpi-ytd" data-source="kpi" data-field="ytd_current" data-row="0">—</b> workers, a change of <b data-draw="kpi-change" data-source="kpi" data-field="ytd_change" data-row="0">—</b> from the same period of 2025. Fewer notices are being filed in 2026, but each one is larger on average.</p>
+    <p class="tx-muted">Source: Texas Workforce Commission WARN notice listings, yearly files 2020–2026. Every notice is a Texas worksite, so "across the state" here means across Texas workforce regions, counties and cities.</p>
+  </header>
+
+  <div class="tx-tiles" id="headline">
+    <div class="tx-tile">
+      <span class="tx-muted">Workers in WARN notices, 2020–2026</span>
+      <span class="tx-big" data-draw="tile-workers" data-source="kpi" data-field="workers" data-row="0">—</span>
+    </div>
+    <div class="tx-tile">
+      <span class="tx-muted">Notices filed</span>
+      <span class="tx-big" data-draw="tile-notices" data-source="kpi" data-field="notices" data-row="0">—</span>
+    </div>
+    <div class="tx-tile">
+      <span class="tx-muted">Organizations filing</span>
+      <span class="tx-big" data-draw="tile-orgs" data-source="kpi" data-field="organizations" data-row="0">—</span>
+    </div>
+    <div class="tx-tile">
+      <span class="tx-muted">Workers in 2026 notices, year to date</span>
+      <span class="tx-big" data-draw="tile-ytd" data-source="kpi" data-field="ytd_current" data-row="0">—</span>
+      <span class="tx-muted">vs same period 2025: <b data-draw="tile-change" data-source="kpi" data-field="ytd_change" data-row="0">—</b></span>
+    </div>
+  </div>
+
+  <section class="tx-section" id="time">
+    <header>
+      <h2>When the layoffs happened</h2>
+      <p class="tx-muted">2020 dominates: COVID-19 closures from March to May 2020 account for close to half of all affected workers in the whole period. After a quiet 2021 and 2022, the yearly level stepped up in 2023 and has stayed fairly steady since.</p>
+    </header>
+    <div class="tx-grid">
+      <div class="tx-card" id="by-year">
+        <h3>Workers affected by year</h3>
+        <p class="tx-note">Sum of layoff counts in notices dated that year. 2026 runs to the latest notice and is not a full year.</p>
+        <div class="tx-chart dash-skeleton" data-draw="chart-year" data-source="by_year"></div>
+      </div>
+      <div class="tx-card" id="by-month">
+        <h3>Workers affected by month</h3>
+        <p class="tx-note">Each bar is one calendar month of notice dates.</p>
+        <div class="tx-chart dash-skeleton" data-draw="chart-month" data-source="by_month"></div>
+      </div>
+    </div>
+  </section>
+
+  <div class="tx-filter" id="filter">
+    <label for="tx-year">Year</label>
+    <select id="tx-year" data-draw="year-select" data-source="by_year" aria-label="Year"></select>
+    <span class="tx-muted">Filters the organization, region, county and sector views below.</span>
+  </div>
+
+  <section class="tx-section" id="organizations">
+    <header>
+      <h2>Organizations</h2>
+      <p class="tx-muted">Site-level filings are grouped under one organization name (for example, dozens of Hooters restaurant notices become one Hooters row). Showing <b data-draw="year-label">—</b>.</p>
+    </header>
+    <div class="tx-grid">
+      <div class="tx-card" id="org-chart">
+        <h3>Top 15 organizations by workers affected</h3>
+        <p class="tx-note">Hover a bar for notices, sites and sector.</p>
+        <div class="tx-chart tx-tall dash-skeleton" data-draw="chart-org" data-source="org_year"></div>
+      </div>
+      <div class="tx-card" id="org-table">
+        <h3>Top organizations, detail</h3>
+        <p class="tx-note">Sites counts distinct cities named in the notices. Sector is a keyword match on the name and is approximate.</p>
+        <div class="tx-table-wrap">
+          <table data-source="org_year" data-row-key="year,organization">
+            <thead><tr>
+              <th data-field="organization">Organization</th>
+              <th data-field="sector" class="tx-hide-narrow">Sector</th>
+              <th data-field="notices" class="tx-num">Notices</th>
+              <th data-field="workers" class="tx-num">Workers</th>
+              <th data-field="sites" class="tx-num tx-hide-narrow">Sites</th>
+            </tr></thead>
+            <tbody data-draw="org-rows"></tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+    <div class="tx-card" id="repeat">
+      <h3>Repeat filers</h3>
+      <p class="tx-note">Organizations with notices in three or more different years, all years combined. Contract food service (Sodexo, Aramark, Compass Group) and prison operators recur as contracts change hands.</p>
+      <div class="tx-table-wrap">
+        <table data-source="repeat" data-row-key="organization">
+          <thead><tr>
+            <th data-field="organization">Organization</th>
+            <th data-field="years">Years with notices</th>
+            <th data-field="notices" class="tx-num">Notices</th>
+            <th data-field="workers" class="tx-num">Workers</th>
+          </tr></thead>
+          <tbody data-draw="repeat-rows"></tbody>
+        </table>
+      </div>
+    </div>
+  </section>
+
+  <section class="tx-section" id="regions">
+    <header>
+      <h2>Across Texas</h2>
+      <p class="tx-muted">Layoffs follow population: the Houston (Gulf Coast), Dallas, Tarrant, San Antonio (Alamo) and Austin (Capital Area) regions account for about two thirds of affected workers. Showing <b data-draw="year-label">—</b>.</p>
+    </header>
+    <div class="tx-grid">
+      <div class="tx-card" id="wda-chart">
+        <h3>Workers affected by workforce region</h3>
+        <p class="tx-note">TWC's 28 local workforce development areas, as recorded on each notice.</p>
+        <div class="tx-chart tx-tall dash-skeleton" data-draw="chart-wda" data-source="wda_year"></div>
+      </div>
+      <div class="tx-card" id="county-table">
+        <h3>Top 15 counties</h3>
+        <p class="tx-note">Share is of all workers in notices for the selected year.</p>
+        <div class="tx-table-wrap">
+          <table data-source="county_year" data-row-key="year,county">
+            <thead><tr>
+              <th data-field="county">County</th>
+              <th data-field="wda" class="tx-hide-narrow">Region</th>
+              <th data-field="notices" class="tx-num">Notices</th>
+              <th data-field="workers" class="tx-num">Workers</th>
+              <th data-field="share" class="tx-num">Share</th>
+            </tr></thead>
+            <tbody data-draw="county-rows"></tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="tx-section" id="sectors">
+    <header>
+      <h2>Sectors</h2>
+      <p class="tx-muted">WARN notices carry no industry code, so sectors come from keywords in the organization name. Treat them as a rough guide; about a fifth of workers stay unclassified. Showing <b data-draw="year-label">—</b>.</p>
+    </header>
+    <div class="tx-grid">
+      <div class="tx-card" id="sector-chart">
+        <h3>Workers affected by sector</h3>
+        <p class="tx-note">Unclassified notices are shown in grey.</p>
+        <div class="tx-chart dash-skeleton" data-draw="chart-sector" data-source="sector_year"></div>
+      </div>
+      <div class="tx-card" id="sector-heat">
+        <h3>Sector by year</h3>
+        <p class="tx-note">Darker cells mean more workers. Restaurants, hotels and oilfield work drove 2020. Since 2023, logistics, manufacturing, retail, tech and healthcare carry more of the load; the 2024 energy spike is the Zachry notice. Not affected by the year filter.</p>
+        <div class="tx-chart dash-skeleton" data-draw="chart-heat" data-source="sector_year"></div>
+      </div>
+    </div>
+  </section>
+
+  <section class="tx-section" id="size-timing">
+    <header>
+      <h2>Notice size and timing</h2>
+      <p class="tx-muted">All years combined.</p>
+    </header>
+    <div class="tx-grid">
+      <div class="tx-card" id="size-chart">
+        <h3>Notices by number of workers affected</h3>
+        <p class="tx-note">Most notices are small; hover a bar to see its share of all affected workers.</p>
+        <div class="tx-chart dash-skeleton" data-draw="chart-size" data-source="size_bands"></div>
+      </div>
+      <div class="tx-card" id="lead-chart">
+        <h3>Notices with less than 60 days' warning</h3>
+        <p class="tx-note">Days from the notice date to the first layoff date. The WARN Act generally requires 60 days; shorter notice can be lawful under its exceptions. In 2020 many notices were filed after the layoffs had already happened.</p>
+        <div class="tx-chart dash-skeleton" data-draw="chart-lead" data-source="lead_year"></div>
+      </div>
+    </div>
+    <div class="tx-card" id="largest">
+      <h3>Largest single notices</h3>
+      <p class="tx-note">One notice can cover one site or a group of sites. The 2024 Zachry notice covers the Golden Pass LNG construction site at Sabine Pass.</p>
+      <div class="tx-table-wrap">
+        <table data-source="largest" data-row-key="rank">
+          <thead><tr>
+            <th data-field="rank" class="tx-num">#</th>
+            <th data-field="notice_date">Notice date</th>
+            <th data-field="employer">Employer as filed</th>
+            <th data-field="city" class="tx-hide-narrow">City</th>
+            <th data-field="workers" class="tx-num">Workers</th>
+          </tr></thead>
+          <tbody data-draw="largest-rows"></tbody>
+        </table>
+      </div>
+    </div>
+  </section>
+
+  <section class="tx-section tx-about" id="about">
+    <h2>About this data</h2>
+    <ul>
+      <li>TWC publishes one spreadsheet per year. The files overlap (the 2024 file repeats late-2023 notices), so 232 exact duplicate rows were removed, plus 2 "Updated" notices that re-filed the same headcount.</li>
+      <li>Other amended notices stay in, so a few layoffs may be counted twice. Notices list planned layoffs; final numbers can be lower.</li>
+      <li>Organization names are cleaned from the job site name: legal suffixes, site names and "dba" parts are removed, and about 150 well-known employers are matched by hand.</li>
+      <li>WARN covers employers with 100 or more workers and mass layoffs or closures, so small layoffs do not appear.</li>
+    </ul>
+  </section>
+</div>
+
+<script>
+  dash.calc('kpi', {
+    inputs: ['notices'],
+    title: 'Headline totals',
+    description: 'Totals across all notices, and workers in this year\'s notices to date vs the same calendar window last year.',
+    fn: (notices) => {
+      const n = (v) => Number(v) || 0;
+      const rows = notices.filter((r) => r.notice_date);
+      const dates = rows.map((r) => r.notice_date.slice(0, 10)).sort();
+      const last = dates[dates.length - 1];
+      const cur = Number(last.slice(0, 4));
+      const md = last.slice(5);
+      let ytdCur = 0, ytdPrev = 0;
+      for (const r of rows) {
+        const y = Number(r.notice_date.slice(0, 4));
+        if (r.notice_date.slice(5, 10) > md) continue;
+        if (y === cur) ytdCur += n(r.layoffs);
+        if (y === cur - 1) ytdPrev += n(r.layoffs);
+      }
+      return [{
+        workers: rows.reduce((s, r) => s + n(r.layoffs), 0),
+        notices: rows.length,
+        organizations: new Set(rows.map((r) => r.organization)).size,
+        counties: new Set(rows.map((r) => r.county)).size,
+        first_date: dates[0],
+        last_date: last,
+        current_year: cur,
+        ytd_current: ytdCur,
+        ytd_previous: ytdPrev,
+        ytd_change: ytdPrev ? (ytdCur - ytdPrev) / ytdPrev : null,
+      }];
+    },
+  });
+
+  dash.calc('by_year', {
+    inputs: ['notices'],
+    title: 'Layoffs by year',
+    description: 'Notices and workers per calendar year of the notice date, with the median notice size.',
+    fn: (notices) => {
+      const g = {};
+      for (const r of notices) {
+        const y = String(r.year);
+        (g[y] ||= []).push(Number(r.layoffs) || 0);
+      }
+      return Object.keys(g).sort().map((y) => {
+        const v = g[y].slice().sort((a, b) => a - b);
+        const m = v.length % 2 ? v[(v.length - 1) / 2] : (v[v.length / 2 - 1] + v[v.length / 2]) / 2;
+        return { year: y, notices: v.length, workers: v.reduce((s, x) => s + x, 0), median_size: m };
+      });
+    },
+  });
+
+  dash.calc('by_month', {
+    inputs: ['notices'],
+    title: 'Layoffs by month',
+    description: 'Workers and notices per calendar month of the notice date; months with no notices are zero.',
+    fn: (notices) => {
+      const g = {};
+      for (const r of notices) {
+        const m = r.notice_date.slice(0, 7);
+        g[m] ||= { workers: 0, notices: 0 };
+        g[m].workers += Number(r.layoffs) || 0;
+        g[m].notices += 1;
+      }
+      const keys = Object.keys(g).sort();
+      const out = [];
+      let [y, mo] = keys[0].split('-').map(Number);
+      const [ly, lm] = keys[keys.length - 1].split('-').map(Number);
+      while (y < ly || (y === ly && mo <= lm)) {
+        const k = y + '-' + String(mo).padStart(2, '0');
+        out.push({ month: k, workers: g[k] ? g[k].workers : 0, notices: g[k] ? g[k].notices : 0 });
+        mo += 1; if (mo > 12) { mo = 1; y += 1; }
+      }
+      return out;
+    },
+  });
+
+  dash.calc('org_year', {
+    inputs: ['notices'],
+    title: 'Top organizations by year',
+    description: 'Top 15 organizations by workers for each year and for all years ("All"); sites are distinct cities.',
+    fn: (notices) => {
+      const groups = new Map();
+      for (const r of notices) {
+        for (const y of ['All', String(r.year)]) {
+          const k = y + '|' + r.organization;
+          let g = groups.get(k);
+          if (!g) { g = { year: y, organization: r.organization, notices: 0, workers: 0, cities: new Set(), sectors: {} }; groups.set(k, g); }
+          g.notices += 1;
+          g.workers += Number(r.layoffs) || 0;
+          g.cities.add(r.city);
+          g.sectors[r.sector] = (g.sectors[r.sector] || 0) + (Number(r.layoffs) || 0) + 0.001;
+        }
+      }
+      const byYear = {};
+      for (const g of groups.values()) (byYear[g.year] ||= []).push(g);
+      const out = [];
+      for (const y of Object.keys(byYear)) {
+        byYear[y].sort((a, b) => b.workers - a.workers).slice(0, 15).forEach((g, i) => out.push({
+          year: y, rank: i + 1, organization: g.organization,
+          sector: Object.entries(g.sectors).sort((a, b) => b[1] - a[1])[0][0],
+          notices: g.notices, workers: g.workers, sites: g.cities.size,
+        }));
+      }
+      return out;
+    },
+  });
+
+  dash.calc('wda_year', {
+    inputs: ['notices'],
+    title: 'Layoffs by workforce region',
+    description: 'Workers and notices per TWC workforce development area, for each year and all years ("All"), with share of that year.',
+    fn: (notices) => {
+      const g = {}, tot = {};
+      for (const r of notices) {
+        const w = Number(r.layoffs) || 0;
+        for (const y of ['All', String(r.year)]) {
+          const k = y + '|' + (r.wda || 'Unknown');
+          g[k] ||= { year: y, wda: r.wda || 'Unknown', notices: 0, workers: 0 };
+          g[k].notices += 1; g[k].workers += w;
+          tot[y] = (tot[y] || 0) + w;
+        }
+      }
+      return Object.values(g).map((d) => ({ ...d, share: tot[d.year] ? d.workers / tot[d.year] : 0 }))
+        .sort((a, b) => b.workers - a.workers);
+    },
+  });
+
+  dash.calc('county_year', {
+    inputs: ['notices'],
+    title: 'Top counties by year',
+    description: 'Top 15 counties by workers for each year and all years ("All"), with share of that year.',
+    fn: (notices) => {
+      const g = {}, tot = {};
+      for (const r of notices) {
+        const w = Number(r.layoffs) || 0;
+        for (const y of ['All', String(r.year)]) {
+          const k = y + '|' + r.county;
+          g[k] ||= { year: y, county: r.county, wdas: {}, notices: 0, workers: 0 };
+          g[k].notices += 1; g[k].workers += w;
+          g[k].wdas[r.wda] = (g[k].wdas[r.wda] || 0) + 1;
+          tot[y] = (tot[y] || 0) + w;
+        }
+      }
+      const byYear = {};
+      for (const d of Object.values(g)) (byYear[d.year] ||= []).push(d);
+      const out = [];
+      for (const y of Object.keys(byYear)) {
+        byYear[y].sort((a, b) => b.workers - a.workers).slice(0, 15).forEach((d) => out.push({
+          year: y, county: d.county,
+          wda: Object.entries(d.wdas).sort((a, b) => b[1] - a[1])[0][0],
+          notices: d.notices, workers: d.workers, share: tot[y] ? d.workers / tot[y] : 0,
+        }));
+      }
+      return out;
+    },
+  });
+
+  dash.calc('sector_year', {
+    inputs: ['notices'],
+    title: 'Layoffs by sector',
+    description: 'Workers per approximate sector (keyword match on the organization name), for each year and all years ("All").',
+    fn: (notices) => {
+      const g = {}, tot = {};
+      for (const r of notices) {
+        const w = Number(r.layoffs) || 0;
+        for (const y of ['All', String(r.year)]) {
+          const k = y + '|' + r.sector;
+          g[k] ||= { year: y, sector: r.sector, notices: 0, workers: 0 };
+          g[k].notices += 1; g[k].workers += w;
+          tot[y] = (tot[y] || 0) + w;
+        }
+      }
+      return Object.values(g).map((d) => ({ ...d, share: tot[d.year] ? d.workers / tot[d.year] : 0 }))
+        .sort((a, b) => b.workers - a.workers);
+    },
+  });
+
+  dash.calc('size_bands', {
+    inputs: ['notices'],
+    title: 'Notices by size',
+    description: 'Notices grouped by the number of workers each covers, all years.',
+    fn: (notices) => {
+      const bands = [['1–49', 1, 49], ['50–99', 50, 99], ['100–249', 100, 249], ['250–499', 250, 499], ['500–999', 500, 999], ['1,000+', 1000, Infinity]];
+      const out = bands.map(([band]) => ({ band, notices: 0, workers: 0, worker_share: 0 }));
+      let total = 0;
+      for (const r of notices) {
+        const w = Number(r.layoffs);
+        if (!w) continue;
+        const i = bands.findIndex(([, lo, hi]) => w >= lo && w <= hi);
+        if (i < 0) continue;
+        out[i].notices += 1; out[i].workers += w; total += w;
+      }
+      out.forEach((d) => { d.worker_share = total ? d.workers / total : 0; });
+      return out;
+    },
+  });
+
+  dash.calc('lead_year', {
+    inputs: ['notices'],
+    title: 'Warning time by year',
+    description: 'Share of notices whose first layoff date is less than 60 days after the notice date, and the median days, per year.',
+    fn: (notices) => {
+      const g = {};
+      for (const r of notices) {
+        if (r.lead_days === '' || r.lead_days == null) continue;
+        (g[String(r.year)] ||= []).push(Number(r.lead_days));
+      }
+      return Object.keys(g).sort().map((y) => {
+        const v = g[y].slice().sort((a, b) => a - b);
+        const m = v.length % 2 ? v[(v.length - 1) / 2] : (v[v.length / 2 - 1] + v[v.length / 2]) / 2;
+        return { year: y, notices: v.length, under_60_share: v.filter((x) => x < 60).length / v.length, median_days: m };
+      });
+    },
+  });
+
+  dash.calc('largest', {
+    inputs: ['notices'],
+    title: 'Largest notices',
+    description: 'The 15 notices covering the most workers.',
+    fn: (notices) => notices
+      .filter((r) => Number(r.layoffs) > 0)
+      .sort((a, b) => Number(b.layoffs) - Number(a.layoffs))
+      .slice(0, 15)
+      .map((r, i) => ({ rank: i + 1, notice_date: r.notice_date.slice(0, 10), employer: r.employer, organization: r.organization, city: r.city, wda: r.wda, workers: Number(r.layoffs) })),
+  });
+
+  dash.calc('repeat', {
+    inputs: ['notices'],
+    title: 'Repeat filers',
+    description: 'Organizations with notices in three or more different years, top 15 by number of years then workers.',
+    fn: (notices) => {
+      const g = {};
+      for (const r of notices) {
+        g[r.organization] ||= { organization: r.organization, ys: new Set(), notices: 0, workers: 0 };
+        g[r.organization].ys.add(String(r.year));
+        g[r.organization].notices += 1;
+        g[r.organization].workers += Number(r.layoffs) || 0;
+      }
+      return Object.values(g).filter((d) => d.ys.size >= 3)
+        .sort((a, b) => b.ys.size - a.ys.size || b.workers - a.workers)
+        .slice(0, 15)
+        .map((d) => ({ organization: d.organization, years: [...d.ys].sort().join(', '), year_count: d.ys.size, notices: d.notices, workers: d.workers }));
+    },
+  });
+
+  window.TX = (() => {
+    const fmt = d3.format(',.0f');
+    const pct = d3.format('.1%');
+    const compact = new Intl.NumberFormat('en', { notation: 'compact', maximumFractionDigits: 1 });
+    const signedPct = (v) => (v > 0 ? '+' : v < 0 ? '−' : '') + d3.format('.1%')(Math.abs(v));
+    const year = () => String(dash.params().year ?? 'All');
+    const yearText = () => (year() === 'All' ? 'all years, 2020–2026' : year());
+
+    // Returns rows when ready; otherwise resets the element to its waiting / failed state and returns null.
+    function rows(el, id, isChart) {
+      const g = dash.data(id);
+      if (g.status === 'ok') { el.classList.remove('dash-skeleton'); return g.data; }
+      el.replaceChildren();
+      if (g.status === 'error') {
+        el.classList.remove('dash-skeleton');
+        const f = document.createElement('div');
+        f.className = 'tx-fail';
+        f.append(document.createElement('i'), document.createTextNode('Failed to load'));
+        el.append(f);
+      } else if (isChart) {
+        el.classList.add('dash-skeleton');
+      } else {
+        el.textContent = '—';
+      }
+      return null;
+    }
+
+    function tooltip(el) {
+      const t = document.createElement('div');
+      t.className = 'tx-tip';
+      t.hidden = true;
+      el.append(t);
+      return {
+        show(ev, title, lines) {
+          t.replaceChildren();
+          const h = document.createElement('div');
+          h.className = 'tx-tip-h';
+          h.textContent = title;
+          t.append(h);
+          for (const l of lines) { const p = document.createElement('div'); p.textContent = l; t.append(p); }
+          t.hidden = false;
+          const r = el.getBoundingClientRect();
+          let x = ev.clientX - r.left + 12, y = ev.clientY - r.top + 12;
+          if (x + t.offsetWidth > r.width) x = Math.max(0, ev.clientX - r.left - t.offsetWidth - 12);
+          if (y + t.offsetHeight > r.height) y = Math.max(0, ev.clientY - r.top - t.offsetHeight - 12);
+          t.style.left = x + 'px';
+          t.style.top = y + 'px';
+        },
+        hide() { t.hidden = true; },
+      };
+    }
+
+    function fit(textSel, maxW) {
+      textSel.each(function () {
+        const node = this;
+        let s = node.textContent;
+        if (node.getComputedTextLength() <= maxW) return;
+        while (s.length > 3 && node.getComputedTextLength() > maxW) { s = s.slice(0, -1); node.textContent = s.trimEnd() + '…'; }
+      });
+    }
+
+    function measure(svg, cls, strings) {
+      const g = svg.append('g');
+      let w = 0;
+      for (const s of strings) w = Math.max(w, g.append('text').attr('class', cls).text(s).node().getComputedTextLength());
+      g.remove();
+      return w;
+    }
+
+    // Horizontal bars: items [{label, value, color?, tip: [lines]}]
+    function hbar(el, items, o = {}) {
+      el.replaceChildren();
+      if (!items.length) return;
+      const f = o.fmt || fmt;
+      const W = Math.max(260, el.clientWidth);
+      const rowH = 24;
+      const H = items.length * rowH + 4;
+      const svg = d3.select(el).append('svg').attr('class', 'tx-svg').attr('width', '100%').attr('viewBox', `0 0 ${W} ${H}`);
+      const lw = Math.min(measure(svg, 'tx-lbl', items.map((d) => d.label)), W * 0.4);
+      const vw = measure(svg, 'tx-val', items.map((d) => f(d.value)));
+      const x0 = lw + 10;
+      const x = d3.scaleLinear([0, d3.max(items, (d) => d.value) || 1], [0, Math.max(20, W - x0 - vw - 8)]);
+      const tip = tooltip(el);
+      const g = svg.selectAll('g.tx-row').data(items).join('g').attr('class', 'tx-row').attr('transform', (d, i) => `translate(0,${i * rowH + 2})`);
+      g.append('rect').attr('x', 0).attr('y', 0).attr('width', W).attr('height', rowH).attr('fill', 'transparent');
+      g.append('text').attr('class', 'tx-lbl').attr('x', lw).attr('y', rowH / 2).attr('dy', '0.35em').attr('text-anchor', 'end').text((d) => d.label).call(fit, lw);
+      g.append('rect').attr('class', 'tx-bar').attr('x', x0).attr('y', 5).attr('height', rowH - 10).attr('rx', 3)
+        .attr('width', (d) => Math.max(1, x(d.value))).style('fill', (d) => d.color || dash.colors[0]);
+      g.append('text').attr('class', 'tx-val').attr('x', (d) => x0 + Math.max(1, x(d.value)) + 6).attr('y', rowH / 2).attr('dy', '0.35em').text((d) => f(d.value));
+      g.on('pointermove', (ev, d) => { tip.show(ev, d.label, d.tip || [f(d.value)]); g.select('.tx-bar').style('opacity', (e) => (e === d ? 1 : 0.55)); })
+        .on('pointerleave', () => { tip.hide(); g.select('.tx-bar').style('opacity', 1); });
+    }
+
+    // Vertical bars: items [{key, label, value, color?, tip}], o: {fmt, tick, labels, height, yFmt}
+    function vbar(el, items, o = {}) {
+      el.replaceChildren();
+      if (!items.length) return;
+      const f = o.fmt || fmt;
+      const yf = o.yFmt || ((v) => compact.format(v));
+      const W = Math.max(260, el.clientWidth);
+      const H = o.height || 220;
+      const svg = d3.select(el).append('svg').attr('class', 'tx-svg').attr('width', '100%').attr('viewBox', `0 0 ${W} ${H}`);
+      const y = d3.scaleLinear([0, d3.max(items, (d) => d.value) || 1], [0, 1]).nice(4);
+      const ticks = y.ticks(4);
+      const left = measure(svg, 'tx-tick', ticks.map(yf)) + 8;
+      const top = o.labels ? 18 : 8, bottom = 22;
+      y.range([H - bottom, top]);
+      const x = d3.scaleBand(items.map((d) => d.key), [left, W - 4]).padding(items.length > 30 ? 0.15 : 0.3);
+      svg.append('g').selectAll('line').data(ticks).join('line').attr('class', 'tx-grid-line').attr('x1', left).attr('x2', W - 4).attr('y1', (t) => y(t)).attr('y2', (t) => y(t));
+      svg.append('g').selectAll('text').data(ticks).join('text').attr('class', 'tx-tick').attr('x', left - 6).attr('y', (t) => y(t)).attr('dy', '0.35em').attr('text-anchor', 'end').text(yf);
+      svg.append('line').attr('class', 'tx-axis-line').attr('x1', left).attr('x2', W - 4).attr('y1', y(0)).attr('y2', y(0));
+      const tip = tooltip(el);
+      const bars = svg.append('g').selectAll('rect').data(items).join('rect').attr('class', 'tx-bar')
+        .attr('x', (d) => x(d.key)).attr('width', x.bandwidth()).attr('y', (d) => y(d.value)).attr('height', (d) => Math.max(0, y(0) - y(d.value)))
+        .attr('rx', Math.min(3, x.bandwidth() / 2)).style('fill', (d) => d.color || dash.colors[0]);
+      if (o.labels && x.bandwidth() >= 28) {
+        svg.append('g').selectAll('text').data(items).join('text').attr('class', 'tx-val').attr('text-anchor', 'middle')
+          .attr('x', (d) => x(d.key) + x.bandwidth() / 2).attr('y', (d) => y(d.value) - 5).text((d) => (o.labelFmt || yf)(d.value));
+      }
+      const shown = items.filter((d) => d.tick != null);
+      const tw = measure(svg, 'tx-tick', shown.map((d) => d.tick));
+      const step = Math.max(1, Math.ceil((tw + 8) / Math.max(1, x.step() * (items.length / Math.max(1, shown.length)))));
+      svg.append('g').selectAll('text').data(shown.filter((d, i) => i % step === 0)).join('text').attr('class', 'tx-tick').attr('text-anchor', o.tickAnchor || 'middle')
+        .attr('x', (d) => x(d.key) + (o.tickAnchor === 'start' ? 0 : x.bandwidth() / 2)).attr('y', H - 6).text((d) => d.tick);
+      const hit = svg.append('g').selectAll('rect').data(items).join('rect').attr('x', (d) => x(d.key) - (x.step() - x.bandwidth()) / 2).attr('width', x.step())
+        .attr('y', top).attr('height', H - bottom - top).attr('fill', 'transparent');
+      hit.on('pointermove', (ev, d) => { tip.show(ev, d.label, d.tip || [f(d.value)]); bars.style('opacity', (e) => (e === d ? 1 : 0.55)); })
+        .on('pointerleave', () => { tip.hide(); bars.style('opacity', 1); });
+    }
+
+    function cell(tr, text, cls) {
+      const td = document.createElement('td');
+      td.textContent = text;
+      if (cls) td.className = cls;
+      tr.append(td);
+    }
+
+    return { fmt, pct, compact, signedPct, year, yearText, rows, tooltip, fit, measure, hbar, vbar, cell };
+  })();
+</script>
+
+<script>
+  const T = window.TX;
+
+  // ---- headline numbers
+  const kpi = (el) => { const r = T.rows(el, 'kpi'); return r && r[0]; };
+  dash.draw('kpi-notices', (el) => { const k = kpi(el); if (k) el.textContent = T.fmt(k.notices); });
+  dash.draw('kpi-workers', (el) => { const k = kpi(el); if (k) el.textContent = T.fmt(k.workers); });
+  dash.draw('kpi-orgs', (el) => { const k = kpi(el); if (k) el.textContent = T.fmt(k.organizations); });
+  dash.draw('kpi-last', (el) => { const k = kpi(el); if (k) el.textContent = d3.utcFormat('%B %-d, %Y')(new Date(k.last_date + 'T00:00:00Z')); });
+  dash.draw('kpi-ytd', (el) => { const k = kpi(el); if (k) el.textContent = T.fmt(k.ytd_current); });
+  const change = (el) => {
+    const k = kpi(el);
+    el.classList.remove('tx-good', 'tx-bad');
+    if (!k || k.ytd_change == null) return;
+    el.textContent = T.signedPct(k.ytd_change);
+    el.classList.add(k.ytd_change <= 0 ? 'tx-good' : 'tx-bad');
+  };
+  dash.draw('kpi-change', change);
+  dash.draw('tile-change', change);
+  dash.draw('tile-workers', (el) => { const k = kpi(el); if (k) el.textContent = T.fmt(k.workers); });
+  dash.draw('tile-notices', (el) => { const k = kpi(el); if (k) el.textContent = T.fmt(k.notices); });
+  dash.draw('tile-orgs', (el) => { const k = kpi(el); if (k) el.textContent = T.fmt(k.organizations); });
+  dash.draw('tile-ytd', (el) => { const k = kpi(el); if (k) el.textContent = T.fmt(k.ytd_current); });
+
+  // ---- over time
+  dash.draw('chart-year', (el) => {
+    const r = T.rows(el, 'by_year', true); if (!r) return;
+    const last = r[r.length - 1].year;
+    T.vbar(el, r.map((d) => ({
+      key: d.year, tick: d.year === last ? d.year + ' YTD' : d.year, label: d.year === last ? d.year + ' (to date)' : d.year, value: d.workers,
+      tip: [T.fmt(d.workers) + ' workers', T.fmt(d.notices) + ' notices', 'Median notice: ' + T.fmt(d.median_size) + ' workers'],
+    })), { labels: true, labelFmt: (v) => T.compact.format(v) });
+  });
+  dash.draw('chart-month', (el) => {
+    const r = T.rows(el, 'by_month', true); if (!r) return;
+    const mf = d3.utcFormat('%b %Y');
+    T.vbar(el, r.map((d) => ({
+      key: d.month, tick: d.month.endsWith('-01') ? d.month.slice(0, 4) : null, label: mf(new Date(d.month + '-01T00:00:00Z')), value: d.workers,
+      tip: [T.fmt(d.workers) + ' workers', T.fmt(d.notices) + ' notices'],
+    })), { tickAnchor: 'start' });
+  });
+
+  // ---- year filter
+  dash.draw('year-select', (sel) => {
+    const g = dash.data('by_year');
+    const ys = g.status === 'ok' ? g.data.map((d) => d.year).reverse() : [];
+    sel.replaceChildren(new Option('All years', 'All'), ...ys.map((y) => new Option(y, y)));
+    sel.value = T.year();
+    sel.onchange = () => dash.setParams({ year: sel.value === 'All' ? 'All' : sel.value });
+  });
+  dash.draw('year-label', (el) => { el.textContent = T.yearText(); });
+
+  // ---- organizations
+  const forYear = (r) => r.filter((d) => String(d.year) === T.year());
+  const key2 = (a, b) => encodeURIComponent(a) + ',' + encodeURIComponent(b);
+  dash.draw('chart-org', (el) => {
+    const r = T.rows(el, 'org_year', true); if (!r) return;
+    T.hbar(el, forYear(r).map((d) => ({
+      label: d.organization, value: d.workers,
+      tip: [T.fmt(d.workers) + ' workers', T.fmt(d.notices) + ' notices at ' + T.fmt(d.sites) + (d.sites === 1 ? ' site' : ' sites'), d.sector],
+    })));
+  });
+  dash.draw('org-rows', (tb) => {
+    const g = dash.data('org_year');
+    tb.replaceChildren();
+    if (g.status !== 'ok') return;
+    for (const d of forYear(g.data)) {
+      const tr = document.createElement('tr');
+      tr.dataset.key = key2(d.year, d.organization);
+      T.cell(tr, d.organization);
+      T.cell(tr, d.sector, 'tx-hide-narrow');
+      T.cell(tr, T.fmt(d.notices), 'tx-num');
+      T.cell(tr, T.fmt(d.workers), 'tx-num');
+      T.cell(tr, T.fmt(d.sites), 'tx-num tx-hide-narrow');
+      tb.append(tr);
+    }
+  });
+  dash.draw('repeat-rows', (tb) => {
+    const g = dash.data('repeat');
+    tb.replaceChildren();
+    if (g.status !== 'ok') return;
+    for (const d of g.data) {
+      const tr = document.createElement('tr');
+      tr.dataset.key = encodeURIComponent(d.organization);
+      T.cell(tr, d.organization);
+      T.cell(tr, d.years);
+      T.cell(tr, T.fmt(d.notices), 'tx-num');
+      T.cell(tr, T.fmt(d.workers), 'tx-num');
+      tb.append(tr);
+    }
+  });
+
+  // ---- regions
+  dash.draw('chart-wda', (el) => {
+    const r = T.rows(el, 'wda_year', true); if (!r) return;
+    T.hbar(el, forYear(r).map((d) => ({
+      label: d.wda, value: d.workers,
+      tip: [T.fmt(d.workers) + ' workers (' + T.pct(d.share) + ')', T.fmt(d.notices) + ' notices'],
+    })));
+  });
+  dash.draw('county-rows', (tb) => {
+    const g = dash.data('county_year');
+    tb.replaceChildren();
+    if (g.status !== 'ok') return;
+    for (const d of forYear(g.data)) {
+      const tr = document.createElement('tr');
+      tr.dataset.key = key2(d.year, d.county);
+      T.cell(tr, d.county);
+      T.cell(tr, d.wda, 'tx-hide-narrow');
+      T.cell(tr, T.fmt(d.notices), 'tx-num');
+      T.cell(tr, T.fmt(d.workers), 'tx-num');
+      T.cell(tr, T.pct(d.share), 'tx-num');
+      tb.append(tr);
+    }
+  });
+
+  // ---- sectors
+  const OTHER = 'Other / unclassified';
+  dash.draw('chart-sector', (el) => {
+    const r = T.rows(el, 'sector_year', true); if (!r) return;
+    const items = forYear(r).sort((a, b) => (a.sector === OTHER) - (b.sector === OTHER) || b.workers - a.workers);
+    T.hbar(el, items.map((d) => ({
+      label: d.sector, value: d.workers, color: d.sector === OTHER ? 'var(--cds-chart-muted)' : null,
+      tip: [T.fmt(d.workers) + ' workers (' + T.pct(d.share) + ')', T.fmt(d.notices) + ' notices'],
+    })));
+  });
+  dash.draw('chart-heat', (el) => {
+    const r = T.rows(el, 'sector_year', true); if (!r) return;
+    el.replaceChildren();
+    const all = r.filter((d) => d.year === 'All').sort((a, b) => (a.sector === OTHER) - (b.sector === OTHER) || b.workers - a.workers);
+    const sectors = all.map((d) => d.sector);
+    const years = [...new Set(r.filter((d) => d.year !== 'All').map((d) => d.year))].sort();
+    const val = new Map(r.filter((d) => d.year !== 'All').map((d) => [d.year + '|' + d.sector, d.workers]));
+    const W = Math.max(260, el.clientWidth);
+    const rowH = 26, top = 20;
+    const H = top + sectors.length * rowH + 2;
+    const svg = d3.select(el).append('svg').attr('class', 'tx-svg').attr('width', '100%').attr('viewBox', `0 0 ${W} ${H}`);
+    const lw = Math.min(T.measure(svg, 'tx-lbl', sectors), W * 0.38);
+    const x = d3.scaleBand(years, [lw + 8, W]).padding(0.06);
+    const max = d3.max([...val.values()]) || 1;
+    const tip = T.tooltip(el);
+    svg.append('g').selectAll('text').data(years).join('text').attr('class', 'tx-tick').attr('text-anchor', 'middle').attr('x', (y) => x(y) + x.bandwidth() / 2).attr('y', 12).text((y) => (x.bandwidth() < 34 ? "'" + y.slice(2) : y));
+    const row = svg.selectAll('g.tx-hrow').data(sectors).join('g').attr('class', 'tx-hrow').attr('transform', (s, i) => `translate(0,${top + i * rowH})`);
+    row.append('text').attr('class', 'tx-lbl').attr('x', lw).attr('y', rowH / 2).attr('dy', '0.35em').attr('text-anchor', 'end').text((s) => s).call(T.fit, lw);
+    row.each(function (s) {
+      const cells = d3.select(this).selectAll('g').data(years.map((y) => ({ y, s, v: val.get(y + '|' + s) || 0 }))).join('g');
+      const t = (d) => Math.sqrt(d.v / max);
+      cells.append('rect').attr('x', (d) => x(d.y)).attr('y', 2).attr('width', x.bandwidth()).attr('height', rowH - 4).attr('rx', 3)
+        .style('fill', dash.colors[0]).style('fill-opacity', (d) => (d.v ? 0.08 + 0.92 * t(d) : 0.03));
+      if (x.bandwidth() >= 34) {
+        cells.append('text').attr('x', (d) => x(d.y) + x.bandwidth() / 2).attr('y', rowH / 2).attr('dy', '0.35em').attr('text-anchor', 'middle')
+          .style('fill', (d) => (t(d) > 0.55 ? 'var(--color-bg)' : 'var(--color-fg)')).style('pointer-events', 'none')
+          .text((d) => (d.v ? T.compact.format(d.v) : ''));
+      }
+      cells.on('pointermove', (ev, d) => tip.show(ev, d.s + ', ' + d.y, [T.fmt(d.v) + ' workers'])).on('pointerleave', () => tip.hide());
+    });
+  });
+
+  // ---- size and timing
+  dash.draw('chart-size', (el) => {
+    const r = T.rows(el, 'size_bands', true); if (!r) return;
+    T.vbar(el, r.map((d) => ({
+      key: d.band, tick: d.band, label: d.band + ' workers', value: d.notices,
+      tip: [T.fmt(d.notices) + ' notices', T.fmt(d.workers) + ' workers (' + T.pct(d.worker_share) + ' of all)'],
+    })), { labels: true, labelFmt: T.fmt, yFmt: T.fmt });
+  });
+  dash.draw('chart-lead', (el) => {
+    const r = T.rows(el, 'lead_year', true); if (!r) return;
+    T.vbar(el, r.map((d) => ({
+      key: d.year, tick: d.year, label: d.year, value: d.under_60_share,
+      tip: [T.pct(d.under_60_share) + ' of ' + T.fmt(d.notices) + ' notices', 'Median warning: ' + T.fmt(d.median_days) + ' days'],
+    })), { labels: true, labelFmt: d3.format('.0%'), yFmt: d3.format('.0%'), fmt: T.pct });
+  });
+  dash.draw('largest-rows', (tb) => {
+    const g = dash.data('largest');
+    tb.replaceChildren();
+    if (g.status !== 'ok') return;
+    const df = d3.utcFormat('%b %-d, %Y');
+    for (const d of g.data) {
+      const tr = document.createElement('tr');
+      tr.dataset.key = String(d.rank);
+      T.cell(tr, String(d.rank), 'tx-num');
+      T.cell(tr, df(new Date(d.notice_date + 'T00:00:00Z')));
+      T.cell(tr, d.employer);
+      T.cell(tr, d.city, 'tx-hide-narrow');
+      T.cell(tr, T.fmt(d.workers), 'tx-num');
+      tb.append(tr);
+    }
+  });
+</script>
