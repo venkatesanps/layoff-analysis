@@ -1,4 +1,4 @@
-# Texas WARN layoff analysis (2020 – Oct 2026)
+# Texas WARN layoff analysis (2020–2026)
 
 An analysis of layoffs across organizations and across Texas, built from the
 Texas Workforce Commission's WARN Act notices:
