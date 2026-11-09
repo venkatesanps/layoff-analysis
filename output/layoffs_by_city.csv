@@ -1,0 +1,298 @@
+city,notices,employees
+Houston,367,32722.0
+Austin,163,19312.0
+Dallas,166,19030.0
+San Antonio,182,17927.0
+Fort Worth,106,11129.0
+Sabine Pass,2,4105.0
+Plano,47,3970.0
+El Paso,43,3953.0
+Dfw Airport,10,3415.0
+Irving,38,3240.0
+Amarillo,10,3059.0
+Richardson,20,2779.0
+Grapevine,12,2631.0
+Waco,22,2313.0
+Midland,35,2264.0
+Carrollton,16,2141.0
+Lewisville,21,2139.0
+Grand Prairie,22,2135.0
+Arlington,30,2128.0
+Paris,8,1610.0
+Laredo,16,1458.0
+Coppell,11,1369.0
+Odessa,17,1341.0
+Brownsville,16,1275.0
+Katy,17,1260.0
+Frisco,13,1131.0
+Mcallen,15,1110.0
+Garland,23,1077.0
+Sugar Land,13,1036.0
+Baytown,11,1028.0
+Longview,11,1016.0
+Spring,17,1008.0
+Lubbock,20,999.0
+Webster,15,979.0
+Round Rock,16,952.0
+Lancaster,8,939.0
+Beaumont,14,872.0
+Harlingen,10,813.0
+Raymondville,3,776.0
+New Braunfels,9,766.0
+Stafford,6,689.0
+The Woodlands,13,683.0
+Pleasanton,7,679.0
+Southlake,7,669.0
+Flower Mound,4,662.0
+Mesquite,8,658.0
+Mckinney,12,649.0
+Corpus Ch,10,647.0
+Farmers Branch,7,642.0
+Dilley,4,641.0
+Pasadena,14,609.0
+Humble,13,607.0
+Lone Star,1,593.0
+San Marcos,10,575.0
+Corpus Christi,9,568.0
+Midfield,1,566.0
+Rockwall,4,560.0
+Orange,7,545.0
+Shenandoah,5,535.0
+Pharr,3,508.0
+San Angelo,9,506.0
+Eagle Pass,7,505.0
+Robinson,1,500.0
+Denton,7,498.0
+Wilmer,3,487.0
+Keller,2,461.0
+Henderson,3,459.0
+Schertz,4,441.0
+Addison,9,440.0
+Santa Rosa,1,435.0
+Post,2,424.0
+Haslet,3,419.0
+Elmendorf,2,389.0
+Tyler,6,386.0
+Nacogdoches,4,385.0
+Mission,4,369.0
+Temple,7,367.0
+Pantego,2,363.0
+Wichita Falls,7,361.0
+Mansfield,6,356.0
+Edinburg,6,328.0
+Donna,2,326.0
+Duncanville,4,318.0
+Kermit,4,309.0
+Greenville,4,304.0
+Marshall,2,299.0
+Glen Rose,3,298.0
+Allen,6,298.0
+Tomball,5,297.0
+Missouri City,7,295.0
+Andrews,5,295.0
+Galveston,4,295.0
+Port Arthur,1,277.0
+Texarkana,6,271.0
+New Boston,2,270.0
+Big Spring,4,264.0
+Cedar Park,6,262.0
+Justin,1,259.0
+Hurst,6,253.0
+Sealy,1,250.0
+Channelview,3,245.0
+Godley,1,244.0
+Conroe,11,244.0
+Ennis,2,242.0
+Weslaco,4,236.0
+Kilgore,1,233.0
+The Colony,2,230.0
+South Padre Is.,2,220.0
+Killeen,6,217.0
+Port Neches,2,213.0
+Georgetown,4,212.0
+New Caney,2,211.0
+Pearsall,2,210.0
+Deer Park,3,208.0
+Roanoke,6,204.0
+Euless,3,204.0
+Victoria,5,202.0
+Angleton,2,202.0
+Forney,1,200.0
+Pflugerville,5,198.0
+Diboll,2,191.0
+Cypress,6,187.0
+Encinal,1,187.0
+Pearland,7,185.0
+Abilene,8,184.0
+Sugarland,2,181.0
+Freeport,1,180.0
+Pampa,3,177.0
+College Station,5,176.0
+Wadsworth,1,173.0
+Monahans,5,165.0
+Sherman,5,165.0
+Tatum,1,160.0
+Denver City,2,159.0
+Quanah,1,158.0
+Hillsboro,3,158.0
+Los Fresnos,4,154.0
+Jasper,1,150.0
+Liberty,1,150.0
+Center,2,144.0
+Palestine,3,144.0
+Bedford,3,141.0
+Yoakum,1,140.0
+Rosenberg,11,140.0
+Desoto,2,139.0
+Lockhart,2,138.0
+Texas City,2,136.0
+Brenham,2,133.0
+Kyle,4,129.0
+Stockdale,1,127.0
+Venus,1,120.0
+Hutchins,2,120.0
+Burleson,6,118.0
+Bryan,5,118.0
+Jacksboro,1,117.0
+Cleburne,2,117.0
+Cactus,1,113.0
+Selma,2,112.0
+Universal City,2,111.0
+Bastrop,3,110.0
+Santa Fe,1,109.0
+Overton,1,109.0
+Stephenville,4,107.0
+Cleveland,1,107.0
+Corsicana,1,107.0
+Denison,1,105.0
+Bridgeport,1,103.0
+San Benito,4,103.0
+Friona,1,103.0
+Nederland,1,99.0
+Kingsville,1,95.0
+Karnes City,1,95.0
+Crane,2,94.0
+Sulphur Springs,1,94.0
+Brownwood,1,93.0
+Richmond,2,93.0
+Boerne,4,91.0
+Athens,3,90.0
+Cibolo,1,89.0
+Eagle Lake,1,88.0
+Waller,1,88.0
+Big Lake,4,86.0
+La Porte,3,85.0
+Blum,1,85.0
+Lufkin,2,83.0
+Robstown,1,82.0
+Flint,1,82.0
+Fredericksburg,1,82.0
+Kingwood,1,81.0
+Cedar Hill,3,79.0
+Grandview,1,76.0
+Jefferson,1,76.0
+Aledo,2,75.0
+Hereford,2,74.0
+De Soto,1,74.0
+Saginaw,2,73.0
+Winona,1,72.0
+Poteet,1,72.0
+El Campo,2,71.0
+San Juan,1,70.0
+Floresville,1,69.0
+Whitehouse,1,67.0
+Bellaire,1,67.0
+Donie,2,66.0
+Woodway,1,65.0
+La Grange,2,65.0
+Kennedale,1,64.0
+Fort Hood,1,62.0
+Rice,1,61.0
+Vidor,1,59.0
+Wimberley,1,58.0
+Del Rio,2,57.0
+Alleyton,1,56.0
+Kenedy,1,56.0
+Hughes Springs,1,55.0
+Brookshire,1,53.0
+Kirby,1,52.0
+Woodlands,2,51.0
+Richland Hills,1,50.0
+Pecos,1,49.0
+Terrell,2,49.0
+Lamesa,1,49.0
+Burke,1,49.0
+Harker Heights,1,48.0
+Westlake,2,46.0
+Clute,1,46.0
+Friendswood,3,46.0
+Kenney,1,45.0
+Seabrook,1,44.0
+Seguin,1,44.0
+Brownfield,1,41.0
+Leon Springs,1,38.0
+Barnhart,1,36.0
+Carrizo Springs,1,31.0
+Dayton,3,28.0
+Jewett,2,27.0
+Rio Grande City,1,25.0
+Roma,1,23.0
+Wharton,4,23.0
+Burnet,2,21.0
+George West,1,21.0
+Plainview,3,21.0
+Weatherford,2,20.0
+League City,2,20.0
+Electra,1,18.0
+Fort Bliss,1,17.0
+Franklin,1,15.0
+Mathis,1,15.0
+Bowie,1,15.0
+Mineral Wells,2,15.0
+Falfurrias,1,14.0
+Alice,2,14.0
+Uvalde,1,12.0
+Teague,1,11.0
+Crystal City,1,10.0
+Mt Pleasant,1,10.0
+Bay City,1,10.0
+Floydada,1,9.0
+Muleshoe,1,9.0
+Copperas Cove,1,9.0
+Canyon Lake,1,9.0
+Decatur,2,9.0
+Forest Hill,1,9.0
+Buda,2,8.0
+Murphy,1,8.0
+Gainesville,1,7.0
+Childress,1,7.0
+Lake Worth,1,6.0
+Hale Center,1,6.0
+Chico,1,6.0
+Alvin,1,6.0
+Sachse,1,6.0
+Clint,1,5.0
+Canutillo,2,5.0
+Crosby,1,5.0
+Canyon,1,5.0
+Huntsville,2,5.0
+Helotes,1,5.0
+Live Oak,1,5.0
+Boyd,1,4.0
+Falls City,1,4.0
+Converse,1,4.0
+Ozona,1,4.0
+Spring Branch,1,4.0
+Giddings,1,3.0
+Magnolia,1,3.0
+Hudson Oaks,1,2.0
+Bartlett,1,1.0
+Tarzan,1,1.0
+Taylor,1,1.0
+Mexia,1,1.0
+Llano,1,1.0
+Gun Barrel City,1,1.0
+Kerrville,1,1.0
+Johnson City,1,1.0
+Lake Jackson,1,1.0
+Livingston,1,1.0
