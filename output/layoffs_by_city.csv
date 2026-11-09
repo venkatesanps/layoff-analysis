@@ -2,7 +2,7 @@ city,notices,employees
 Houston,367,32722.0
 Austin,163,19312.0
 Dallas,166,19030.0
-San Antonio,180,17685.0
+San Antonio,182,17927.0
 Fort Worth,106,11129.0
 Sabine Pass,2,4105.0
 Plano,47,3970.0
@@ -53,6 +53,7 @@ Pasadena,14,609.0
 Humble,13,607.0
 Lone Star,1,593.0
 San Marcos,10,575.0
+Corpus Christi,9,568.0
 Midfield,1,566.0
 Rockwall,4,560.0
 Orange,7,545.0
@@ -63,7 +64,6 @@ Eagle Pass,7,505.0
 Robinson,1,500.0
 Denton,7,498.0
 Wilmer,3,487.0
-Corpus Christi,8,472.0
 Keller,2,461.0
 Henderson,3,459.0
 Schertz,4,441.0

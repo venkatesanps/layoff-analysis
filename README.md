@@ -11,8 +11,8 @@ means across Texas's 28 workforce regions (WDAs), its counties and its cities.
 
 ## Key findings
 
-Data covers notices dated **Jan 3, 2020 to Oct 27, 2026**: **2,276 notices,
-205,681 workers, 1,325 organizations, 136 counties**.
+Data covers notices dated **Jan 3, 2020 to Nov 3, 2026**: **2,279 notices,
+206,019 workers, 1,327 organizations, 136 counties**.
 
 | Year | Notices | Workers | Median notice size |
 |---|---:|---:|---:|
@@ -22,17 +22,17 @@ Data covers notices dated **Jan 3, 2020 to Oct 27, 2026**: **2,276 notices,
 | 2023 | 224 | 24,000 | 66 |
 | 2024 | 237 | 27,627 | 45 |
 | 2025 | 289 | 26,630 | 60 |
-| 2026 (to Oct 27) | 111 | 15,718 | 88 |
+| 2026 (to Nov 3) | 114 | 16,056 | 90 |
 
 - **COVID dominates.** 2020 alone accounts for 44% of all affected workers.
   Most of those notices came from restaurants, hotels and oilfield companies
   in March to May 2020.
 - **The new normal is about 24k to 28k workers a year** (2023 to 2025), up
   from 2021 and 2022.
-- **2026 is lower but lumpier.** To Oct 27 there were 15,718 workers, which is
-  **−25.7%** against the same window in 2025 (21,151). There were fewer than
-  half as many notices (111 vs 252), but the median notice is much larger
-  (88 vs 60 workers).
+- **2026 is lower but lumpier.** To Nov 3 there were 16,056 workers, which is
+  **−27.4%** against the same window in 2025 (22,110). There were fewer than
+  half as many notices (114 vs 266), but the median notice is much larger
+  (90 vs 60 workers).
 - **Largest organizations overall:** Halliburton (5,664 workers), Zachry
   (4,536, mostly the 2024 Golden Pass LNG notice at Sabine Pass), Walmart
   (3,324), American Airlines (3,284), Pappas Restaurants (3,195), Aramark
@@ -45,7 +45,7 @@ Data covers notices dated **Jan 3, 2020 to Oct 27, 2026**: **2,276 notices,
   years; MTC and Compass Group each filed in 5.
 - **Geography follows the metros.** The Gulf Coast (Houston) region has 22.4%
   of workers, then Dallas County 14.9%, Tarrant County 11.6%, Alamo (San
-  Antonio) 10.5% and Capital Area (Austin) 9.0%. Together these five regions
+  Antonio) 10.6% and Capital Area (Austin) 9.0%. Together these five regions
   hold about two thirds of the total. The top counties are Harris, Dallas,
   Tarrant, Bexar and Travis.
 - **Size:** 45% of notices cover fewer than 50 workers. The 47 notices of

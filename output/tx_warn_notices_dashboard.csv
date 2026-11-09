@@ -62,7 +62,7 @@ notice_date,month,year,employer,organization,sector,city,county,wda,layoffs,layo
 2020-03-19,2020-03,2020,Punch Bowl Social,Punch Bowl Social,Restaurants & bars,Dallas,Dallas,Dallas County,93.0,2020-03-16,-3.0,False
 2020-03-19,2020-03,2020,Tenaris-IPSCO Koppel Tubulars,Tenaris,Energy & oilfield,Baytown,Harris,Gulf Coast,223.0,2020-04-17,29.0,False
 2020-03-20,2020-03,2020,Sydell Hotels LLC,Sydell Hotels,Hotels & leisure,Austin,Travis,Capital Area,181.0,2020-03-16,-4.0,False
-2020-03-20,2020-03,2020,Benchmark Hospitality of Corpus Christi,Benchmark Hospitality of Corpus Christi,Healthcare,Corpus Ch,Nueces,Coastal Bend,115.0,2020-03-21,1.0,False
+2020-03-20,2020-03,2020,Rio Plaza,Rio Plaza,Other / unclassified,San Antonio,Bexar,Alamo,3.0,2020-03-20,0.0,False
 2020-03-20,2020-03,2020,SA Burger,SA Burger,Restaurants & bars,San Marcos,Hays,Rural Capital,5.0,2020-03-20,0.0,False
 2020-03-20,2020-03,2020,Sheraton Ft. Worth,Sheraton Ft. Worth,Hotels & leisure,Fort Worth,Tarrant,Tarrant County,164.0,2020-03-20,0.0,False
 2020-03-20,2020-03,2020,Virgin Hotels Dallas,Virgin Hotels Dallas,Hotels & leisure,Dallas,Dallas,Dallas County,199.0,2020-03-20,0.0,False
@@ -70,8 +70,8 @@ notice_date,month,year,employer,organization,sector,city,county,wda,layoffs,layo
 2020-03-20,2020-03,2020,Hilton Lincoln Center,Hilton,Hotels & leisure,Dallas,Dallas,Dallas County,97.0,2020-03-25,5.0,False
 2020-03-20,2020-03,2020,Tapatio Springs Resort,Tapatio Springs Resort,Hotels & leisure,Boerne,Kendall,Alamo,58.0,2020-03-23,3.0,False
 2020-03-20,2020-03,2020,Sport Clips,Sport Clips,Retail,Georgetown,Williamson,Rural Capital,66.0,2020-03-23,3.0,False
+2020-03-20,2020-03,2020,Benchmark Hospitality of Corpus Christi,Benchmark Hospitality of Corpus Christi,Healthcare,Corpus Ch,Nueces,Coastal Bend,115.0,2020-03-21,1.0,False
 2020-03-20,2020-03,2020,Warwick Melrose Hotel,Warwick Melrose Hotel,Hotels & leisure,Dallas,Dallas,Dallas County,113.0,2020-03-22,2.0,False
-2020-03-20,2020-03,2020,Rio Plaza,Rio Plaza,Other / unclassified,San Antonio,Bexar,Alamo,3.0,2020-03-20,0.0,False
 2020-03-20,2020-03,2020,Mule Restaurant Group,Mule Restaurant,Restaurants & bars,San Antonio,Bexar,Alamo,147.0,2020-03-20,0.0,False
 2020-03-20,2020-03,2020,Four Seasons Hotel-Austin,Four Seasons Hotel,Hotels & leisure,Austin,Travis,Capital Area,369.0,2020-03-23,3.0,False
 2020-03-20,2020-03,2020,Hilton-Arlington,Hilton,Hotels & leisure,Arlington,Tarrant,Tarrant County,83.0,2020-03-20,0.0,False
@@ -1126,19 +1126,19 @@ notice_date,month,year,employer,organization,sector,city,county,wda,layoffs,layo
 2020-10-27,2020-10,2020,Regal Cinema-Tomball,Regal Cinema,Hotels & leisure,Tomball,Harris,Gulf Coast,51.0,2020-10-08,-19.0,False
 2020-10-28,2020-10,2020,Cheddar's Scratch Kitchen - McAllen,Cheddar's Scratch Kitchen,Restaurants & bars,Mcallen,Hidalgo,Lower Rio Grande Valley,52.0,2020-12-30,63.0,False
 2020-10-29,2020-10,2020,Alorica-Austin,Alorica,"Tech, telecom & BPO",Austin,Travis,Capital Area,712.0,2020-12-31,63.0,False
-2020-11-02,2020-11,2020,CDI HS - Roma Center,CDI HS,Other / unclassified,Roma,Starr,Lower Rio Grande Valley,23.0,2020-12-31,59.0,False
 2020-11-02,2020-11,2020,CDI HS - Lubbock Center,CDI HS,Other / unclassified,Lubbock,Lubbock,South Plains,14.0,2020-12-31,59.0,False
+2020-11-02,2020-11,2020,CDI HS - Rio Grande City Center,CDI HS,Other / unclassified,Rio Grande City,Starr,Lower Rio Grande Valley,25.0,2020-12-31,59.0,False
 2020-11-02,2020-11,2020,CDI HS - Pearsall Center,CDI HS,Other / unclassified,Pearsall,Frio,Alamo,10.0,2020-12-31,59.0,False
 2020-11-02,2020-11,2020,CDI HS - Floydada Center,CDI HS,Other / unclassified,Floydada,Floyd,South Plains,9.0,2020-12-31,59.0,False
 2020-11-02,2020-11,2020,CDI HS - Laredo Norton Admin,CDI HS,Other / unclassified,Laredo,Webb,South Texas,19.0,2020-12-31,59.0,False
 2020-11-02,2020-11,2020,CDI HS - Mathis Center,CDI HS,Other / unclassified,Mathis,San Patricio,Coastal Bend,15.0,2020-12-31,59.0,False
 2020-11-02,2020-11,2020,CDI HS - Uvalde Center,CDI HS,Other / unclassified,Uvalde,Uvalde,Middle Rio Grande,12.0,2020-12-31,59.0,False
 2020-11-02,2020-11,2020,CDI HS - Henry Bonilla Center,CDI HS,Other / unclassified,Laredo,Webb,South Texas,13.0,2020-12-31,59.0,False
-2020-11-02,2020-11,2020,CDI HS - Rio Grande City Center,CDI HS,Other / unclassified,Rio Grande City,Starr,Lower Rio Grande Valley,25.0,2020-12-31,59.0,False
+2020-11-02,2020-11,2020,CDI HS - Roma Center,CDI HS,Other / unclassified,Roma,Starr,Lower Rio Grande Valley,23.0,2020-12-31,59.0,False
 2020-11-02,2020-11,2020,CDI HS - Falfurrias Center,CDI HS,Other / unclassified,Falfurrias,Brooks,Coastal Bend,14.0,2020-12-31,59.0,False
-2020-11-02,2020-11,2020,CDI HS - Plainview Center,CDI HS,Other / unclassified,Plainview,Hale,South Plains,5.0,2020-12-31,59.0,False
 2020-11-02,2020-11,2020,CDI HS - Alice Center,CDI HS,Other / unclassified,Alice,Jim Wells,Coastal Bend,13.0,2020-12-31,59.0,False
 2020-11-02,2020-11,2020,CDI HS - Muleshoe Center,CDI HS,Other / unclassified,Muleshoe,Bailey,South Plains,9.0,2020-12-31,59.0,False
+2020-11-02,2020-11,2020,CDI HS - Plainview Center,CDI HS,Other / unclassified,Plainview,Hale,South Plains,5.0,2020-12-31,59.0,False
 2020-11-02,2020-11,2020,CDI HS - Central Office Admin,CDI HS,Other / unclassified,Laredo,Webb,South Texas,13.0,2020-12-31,59.0,False
 2020-11-02,2020-11,2020,CDI HS - Eagle Pass I/T Center,CDI HS,Other / unclassified,Eagle Pass,Maverick,Middle Rio Grande,25.0,2020-12-31,59.0,False
 2020-11-02,2020-11,2020,CDI HS - Crystal City Satellite,CDI HS,Other / unclassified,Crystal City,Zavala,Middle Rio Grande,10.0,2020-12-31,59.0,False
@@ -1169,69 +1169,69 @@ notice_date,month,year,employer,organization,sector,city,county,wda,layoffs,layo
 2020-12-03,2020-12,2020,Southwest - William P. Hobby,Southwest Airlines,Airlines & aviation,Houston,Harris,Gulf Coast,54.0,2021-03-15,102.0,False
 2020-12-03,2020-12,2020,Southwest-Dallas,Southwest Airlines,Airlines & aviation,Dallas,Dallas,Dallas County,10.0,2021-04-01,119.0,False
 2020-12-03,2020-12,2020,Southwest - Customer Service and Support,Southwest Airlines,Airlines & aviation,Houston,Harris,Gulf Coast,79.0,2021-03-15,102.0,False
-2020-12-03,2020-12,2020,Southwest-ABA,Southwest Airlines,Airlines & aviation,Austin,Travis,Capital Area,77.0,2021-03-15,102.0,False
 2020-12-03,2020-12,2020,Southwest-Dallas Love Field,Southwest Airlines,Airlines & aviation,Dallas,Dallas,Dallas County,465.0,2021-03-15,102.0,False
+2020-12-03,2020-12,2020,Southwest-ABA,Southwest Airlines,Airlines & aviation,Austin,Travis,Capital Area,77.0,2021-03-15,102.0,False
 2020-12-03,2020-12,2020,Southwest - Customer Service & Support,Southwest Airlines,Airlines & aviation,San Antonio,Bexar,Alamo,106.0,2021-03-15,102.0,False
 2020-12-03,2020-12,2020,Southwest - San Antonio Int'l Airport,Southwest Airlines,Airlines & aviation,San Antonio,Bexar,Alamo,36.0,2021-03-05,92.0,False
 2020-12-04,2020-12,2020,"Sable Permian Resources Operating, LLC",Sable Permian Resources Operating,Other / unclassified,Houston,Harris,Gulf Coast,100.0,2021-02-02,60.0,False
 2020-12-04,2020-12,2020,"Sable Permian Resourcces Operating, LLC - Big Lake",Sable Permian Resourcces Operating,Other / unclassified,Big Lake,Reagan,Concho Valley,81.0,2021-02-02,60.0,False
 2020-12-04,2020-12,2020,Francesca's Holdings Corp - Clay Rd.,Francesca's,Retail,Houston,Harris,Gulf Coast,223.0,2021-01-13,40.0,False
+2020-12-07,2020-12,2020,"Parsley Energy, Inc.-Colorado St.",Parsley Energy,Energy & oilfield,Austin,Travis,Capital Area,147.0,2021-02-08,63.0,False
 2020-12-07,2020-12,2020,"Parsley Energy, Inc.-ABA",Parsley Energy,Energy & oilfield,Austin,Travis,Capital Area,2.0,2021-02-08,63.0,False
 2020-12-07,2020-12,2020,"Parsley Energy, Inc.-Congress Ave",Parsley Energy,Energy & oilfield,Austin,Travis,Capital Area,85.0,2021-02-08,63.0,False
-2020-12-07,2020-12,2020,"Parsley Energy, Inc.-Colorado St.",Parsley Energy,Energy & oilfield,Austin,Travis,Capital Area,147.0,2021-02-08,63.0,False
-2020-12-08,2020-12,2020,Tom Thumb #1781,Tom Thumb #1781,Other / unclassified,Coppell,Dallas,Dallas County,10.0,2021-02-27,81.0,False
 2020-12-08,2020-12,2020,Tom Thumb #2578,Tom Thumb #2578,Other / unclassified,Garland,Dallas,Dallas County,10.0,2021-02-27,81.0,False
 2020-12-08,2020-12,2020,Tom Thumb #2642,Tom Thumb #2642,Other / unclassified,Dallas,Dallas,Dallas County,17.0,2021-02-27,81.0,False
 2020-12-08,2020-12,2020,Tom Thumb #1788,Tom Thumb #1788,Other / unclassified,Plano,Collin,North Central Texas,17.0,2021-02-27,81.0,False
 2020-12-08,2020-12,2020,Tom Thumb #1786,Tom Thumb #1786,Other / unclassified,Grand Prairie,Dallas,Dallas County,16.0,2021-02-27,81.0,False
 2020-12-08,2020-12,2020,LEH-Falls City,LEH-Falls City,Other / unclassified,Falls City,Karnes,Alamo,4.0,2021-02-03,57.0,False
 2020-12-08,2020-12,2020,Tom Thumb #3658,Tom Thumb #3658,Other / unclassified,Arlington,Tarrant,Tarrant County,16.0,2021-02-27,81.0,False
-2020-12-08,2020-12,2020,Tom Thumb #2574,Tom Thumb #2574,Other / unclassified,Fort Worth,Tarrant,Tarrant County,11.0,2021-02-27,81.0,False
-2020-12-08,2020-12,2020,LEH -BDA Crossing,LEH,Other / unclassified,San Antonio,Bexar,Alamo,50.0,2021-02-03,57.0,False
+2020-12-08,2020-12,2020,Tom Thumb #1781,Tom Thumb #1781,Other / unclassified,Coppell,Dallas,Dallas County,10.0,2021-02-27,81.0,False
+2020-12-08,2020-12,2020,Allied Universal Security Services,Allied Universal Security Services,Business & professional services,Arlington,Tarrant,Tarrant County,88.0,2021-01-31,54.0,False
 2020-12-08,2020-12,2020,LEH-Elmendorf,LEH-Elmendorf,Other / unclassified,Elmendorf,Bexar,Alamo,5.0,2021-02-03,57.0,False
+2020-12-08,2020-12,2020,LEH -BDA Crossing,LEH,Other / unclassified,San Antonio,Bexar,Alamo,50.0,2021-02-03,57.0,False
 2020-12-08,2020-12,2020,LEH-S Presa St,LEH-S Presa St,Other / unclassified,San Antonio,Bexar,Alamo,33.0,2021-02-03,57.0,False
 2020-12-08,2020-12,2020,Clear Lake Campus Hospital,Clear Lake Campus Hospital,Healthcare,Webster,Harris,Gulf Coast,27.0,2020-12-23,15.0,False
 2020-12-08,2020-12,2020,League City Campus Hospital,League City Campus Hospital,Healthcare,League City,Galveston,Gulf Coast,15.0,2020-12-23,15.0,False
 2020-12-08,2020-12,2020,Angleton Danbury Hospital,Angleton Danbury Hospital,Healthcare,Angleton,Brazoria,Gulf Coast,12.0,2020-12-23,15.0,False
 2020-12-08,2020-12,2020,Morrison Healthcare - University of Texas Medical Branch,Morrison Healthcare,Healthcare,Galveston,Galveston,Gulf Coast,149.0,2020-12-23,15.0,False
-2020-12-08,2020-12,2020,Allied Universal Security Services,Allied Universal Security Services,Business & professional services,Arlington,Tarrant,Tarrant County,88.0,2021-01-31,54.0,False
+2020-12-08,2020-12,2020,Tom Thumb #2574,Tom Thumb #2574,Other / unclassified,Fort Worth,Tarrant,Tarrant County,11.0,2021-02-27,81.0,False
 2020-12-10,2020-12,2020,"Patrician Window Coverings, Inc.",Patrician Window Coverings,Other / unclassified,Webster,Harris,Gulf Coast,95.0,2021-02-12,64.0,False
-2020-12-14,2020-12,2020,"Laz Parking Texas, LLC",Laz Parking,Transportation & logistics,Dallas,Dallas,Dallas County,135.0,2020-11-23,-21.0,False
 2020-12-14,2020-12,2020,Manitou Equipment America,Manitou Equipment America,Other / unclassified,Waco,Mclennan,Heart of Texas,149.0,2021-02-26,74.0,False
 2020-12-14,2020-12,2020,Hyatt Regency DFW,Hyatt,Airlines & aviation,Dfw Airport,Tarrant,Tarrant County,111.0,2020-12-04,-10.0,False
+2020-12-14,2020-12,2020,"Laz Parking Texas, LLC",Laz Parking,Transportation & logistics,Dallas,Dallas,Dallas County,135.0,2020-11-23,-21.0,False
+2020-12-15,2020-12,2020,EVO Transportation,EVO Transportation,Transportation & logistics,Austin,Travis,Capital Area,104.0,2021-01-09,25.0,False
 2020-12-15,2020-12,2020,"Parsley Energy, Inc. - Midland",Parsley Energy,Energy & oilfield,Midland,Midland,Permian Basin,100.0,2021-02-15,62.0,False
 2020-12-15,2020-12,2020,"Halliburton Energy Services, Inc. - Carrollton",Halliburton,Energy & oilfield,Carrollton,Dallas,Dallas County,216.0,2020-12-15,0.0,False
-2020-12-15,2020-12,2020,EVO Transportation,EVO Transportation,Transportation & logistics,Austin,Travis,Capital Area,104.0,2021-01-09,25.0,False
 2020-12-21,2020-12,2020,ACCC Insurance Company,ACCC Insurance,Finance & insurance,Houston,Harris,Gulf Coast,122.0,2020-12-30,9.0,False
-2020-12-22,2020-12,2020,BoomerangTube LLC - FM 3361,BoomerangTube,Manufacturing,Liberty,Liberty,Gulf Coast,150.0,2020-12-23,1.0,False
 2020-12-22,2020-12,2020,IBEX,IBEX,"Tech, telecom & BPO",New Braunfels,Comal,Alamo,248.0,2021-02-16,56.0,False
+2020-12-22,2020-12,2020,BoomerangTube LLC - FM 3361,BoomerangTube,Manufacturing,Liberty,Liberty,Gulf Coast,150.0,2020-12-23,1.0,False
 2021-01-05,2021-01,2021,DHL - Baytown,DHL,Transportation & logistics,Baytown,Harris,Gulf Coast,97.0,2021-03-15,69.0,False
 2021-01-06,2021-01,2021,Transform SR LLC-San Antonio,Transform SR LLC-San Antonio,Other / unclassified,San Antonio,Bexar,Alamo,67.0,2021-03-07,60.0,False
 2021-01-06,2021-01,2021,"VT Industries, Inc.",VT Industries,Manufacturing,Universal City,Bexar,Alamo,104.0,2021-03-12,65.0,False
 2021-01-08,2021-01,2021,Albertsons #3064,Albertsons #3064,Other / unclassified,Bellaire,Harris,Gulf Coast,67.0,2021-02-20,43.0,False
 2021-01-08,2021-01,2021,"Par-Pak, Inc.",Par,Other / unclassified,Houston,Harris,Gulf Coast,1.0,2021-03-25,76.0,False
 2021-01-13,2021-01,2021,ADS Alliance Data Systems,ADS Alliance Data Systems,"Tech, telecom & BPO",San Antonio,Bexar,Alamo,50.0,2021-04-01,78.0,False
-2021-01-14,2021-01,2021,Johnson Controls-Ruskin Rooftop Systems,Johnson Controls,"Tech, telecom & BPO",Carrollton,Dallas,Dallas County,151.0,2021-03-31,76.0,False
 2021-01-14,2021-01,2021,Alliance Data Card Services,Alliance Data Card Services,"Tech, telecom & BPO",San Antonio,Bexar,Alamo,50.0,2021-04-01,77.0,False
+2021-01-14,2021-01,2021,Johnson Controls-Ruskin Rooftop Systems,Johnson Controls,"Tech, telecom & BPO",Carrollton,Dallas,Dallas County,151.0,2021-03-31,76.0,False
 2021-01-21,2021-01,2021,Gibraltar US,Gibraltar,Other / unclassified,San Benito,Cameron,Cameron County,96.0,2021-03-22,60.0,False
 2021-01-25,2021-01,2021,Lucite International,Lucite International,Other / unclassified,Nederland,Jefferson,South East Texas,99.0,2021-05-01,96.0,False
+2021-01-27,2021-01,2021,Baylor Scott & White Health-Elm St,Baylor Scott & White,Healthcare,Dallas,Dallas,Dallas County,46.0,2021-03-03,35.0,False
+2021-01-27,2021-01,2021,Baylor Scott & White Health-Main St,Baylor Scott & White,Healthcare,Dallas,Dallas,Dallas County,25.0,2021-03-03,35.0,False
 2021-01-27,2021-01,2021,Baylor Scott & White Health-Austin,Baylor Scott & White,Healthcare,Austin,Travis,Capital Area,62.0,2021-03-03,35.0,False
 2021-01-27,2021-01,2021,Baylor Scott & White Health-Round Rock,Baylor Scott & White,Healthcare,Round Rock,Williamson,Rural Capital,83.0,2021-03-03,35.0,False
-2021-01-27,2021-01,2021,Baylor Scott & White Health-Main St,Baylor Scott & White,Healthcare,Dallas,Dallas,Dallas County,25.0,2021-03-03,35.0,False
-2021-01-27,2021-01,2021,Baylor Scott & White Health-Elm St,Baylor Scott & White,Healthcare,Dallas,Dallas,Dallas County,46.0,2021-03-03,35.0,False
 2021-01-28,2021-01,2021,CACI-ISS,Caci-Iss,Other / unclassified,San Antonio,Bexar,Alamo,73.0,2021-02-28,31.0,False
 2021-01-28,2021-01,2021,"Trinity Rail Maintenance Services, Inc.",Trinity Rail Maintenance Services,Business & professional services,Vidor,Orange,South East Texas,59.0,2021-04-30,92.0,False
 2021-02-01,2021-02,2021,Columbia Commercial Building Products,Columbia Commercial Building Products,Other / unclassified,Rockwall,Rockwall,North Central Texas,59.0,2021-04-02,60.0,False
-2021-02-05,2021-02,2021,American Airlines-DFW Hangar,American Airlines,Airlines & aviation,Dfw Airport,Tarrant,Tarrant County,50.0,2021-04-01,55.0,False
+2021-02-05,2021-02,2021,American Airlines - Ft Worth,American Airlines,Airlines & aviation,Fort Worth,Tarrant,Tarrant County,9.0,2021-04-02,56.0,False
+2021-02-05,2021-02,2021,American Airlines-SRO,American Airlines,Airlines & aviation,Fort Worth,Tarrant,Tarrant County,2.0,2021-04-01,55.0,False
+2021-02-05,2021-02,2021,American Airlines-Delta Hanger,American Airlines,Airlines & aviation,Dfw Airport,Dallas,Dallas County,38.0,2020-04-01,-310.0,False
+2021-02-05,2021-02,2021,American Airlines-Flight Training,American Airlines,Airlines & aviation,Fort Worth,Tarrant,Tarrant County,103.0,2021-04-01,55.0,False
 2021-02-05,2021-02,2021,American Airlines-DFW Admin Bldg,American Airlines,Airlines & aviation,Dfw Airport,Tarrant,Tarrant County,16.0,2020-04-01,-310.0,False
 2021-02-05,2021-02,2021,American Airlines-HDQ2,American Airlines,Airlines & aviation,Fort Worth,Tarrant,Tarrant County,41.0,2021-04-01,55.0,False
+2021-02-05,2021-02,2021,American Airlines-DFW Hangar,American Airlines,Airlines & aviation,Dfw Airport,Tarrant,Tarrant County,50.0,2021-04-01,55.0,False
 2021-02-05,2021-02,2021,American Airlines-HDQ,American Airlines,Airlines & aviation,Fort Worth,Tarrant,Tarrant County,229.0,2020-04-01,-310.0,False
-2021-02-05,2021-02,2021,American Airlines-Flight Training,American Airlines,Airlines & aviation,Fort Worth,Tarrant,Tarrant County,103.0,2021-04-01,55.0,False
-2021-02-05,2021-02,2021,American Airlines - Ft Worth,American Airlines,Airlines & aviation,Fort Worth,Tarrant,Tarrant County,9.0,2021-04-02,56.0,False
-2021-02-05,2021-02,2021,American Airlines-Delta Hanger,American Airlines,Airlines & aviation,Dfw Airport,Dallas,Dallas County,38.0,2020-04-01,-310.0,False
-2021-02-05,2021-02,2021,American Airlines-SRO,American Airlines,Airlines & aviation,Fort Worth,Tarrant,Tarrant County,2.0,2021-04-01,55.0,False
-2021-02-08,2021-02,2021,Seadrill Americas-West Neptune,Seadrill Americas,Energy & oilfield,Houston,Harris,Gulf Coast,162.0,2021-03-01,21.0,False
 2021-02-08,2021-02,2021,CBRE,CBRE,Other / unclassified,Dallas,Dallas,Dallas County,193.0,2021-04-30,81.0,False
+2021-02-08,2021-02,2021,Seadrill Americas-West Neptune,Seadrill Americas,Energy & oilfield,Houston,Harris,Gulf Coast,162.0,2021-03-01,21.0,False
 2021-02-10,2021-02,2021,Hilton Anatole,Hilton,Hotels & leisure,Dallas,Dallas,Dallas County,206.0,2021-04-10,59.0,False
 2021-02-15,2021-02,2021,Coca Cola North America,Coca Cola North America,Manufacturing,Grand Prairie,Dallas,Dallas County,76.0,2021-04-15,59.0,False
 2021-02-21,2021-02,2021,American Airlines-DFW,American Airlines,Airlines & aviation,Dfw Airport,Tarrant,Tarrant County,2475.0,2020-04-01,-326.0,False
@@ -1240,33 +1240,33 @@ notice_date,month,year,employer,organization,sector,city,county,wda,layoffs,layo
 2021-03-05,2021-03,2021,"Wonderful Citrus Packing, LLC",Wonderful Citrus Packing,Other / unclassified,Mission,Hidalgo,Lower Rio Grande Valley,141.0,2021-03-04,-1.0,False
 2021-03-09,2021-03,2021,Walmart #5931,Walmart,Retail,Dallas,Dallas,Dallas County,217.0,2021-03-30,21.0,False
 2021-03-12,2021-03,2021,Hilton-Austin,Hilton,Hotels & leisure,Austin,Travis,Capital Area,64.0,2021-02-18,-22.0,False
-2021-03-18,2021-03,2021,Renaisance Dallas Addison Hotel - Ft. Worth,Renaisance Dallas Addison Hotel,Hotels & leisure,Fort Worth,Tarrant,Tarrant County,53.0,2020-03-16,-367.0,False
-2021-03-18,2021-03,2021,Dallas Marriott Las Colinas,Marriott,Hotels & leisure,Irving,Dallas,Dallas County,59.0,2020-03-16,-367.0,False
-2021-03-18,2021-03,2021,Renaissance Dallas Addison Hotel,Renaissance Dallas Addison Hotel,Hotels & leisure,Addison,Dallas,Dallas County,134.0,2020-03-16,-367.0,False
 2021-03-18,2021-03,2021,"Thyssenkrupp Supply Chain Services, Inc.",Thyssenkrupp Supply Chain Services,Business & professional services,Houston,Harris,Gulf Coast,30.0,2021-07-31,135.0,False
+2021-03-18,2021-03,2021,Renaissance Dallas Addison Hotel,Renaissance Dallas Addison Hotel,Hotels & leisure,Addison,Dallas,Dallas County,134.0,2020-03-16,-367.0,False
+2021-03-18,2021-03,2021,Dallas Marriott Las Colinas,Marriott,Hotels & leisure,Irving,Dallas,Dallas County,59.0,2020-03-16,-367.0,False
+2021-03-18,2021-03,2021,Renaisance Dallas Addison Hotel - Ft. Worth,Renaisance Dallas Addison Hotel,Hotels & leisure,Fort Worth,Tarrant,Tarrant County,53.0,2020-03-16,-367.0,False
 2021-03-23,2021-03,2021,"CSG Systems, Inc.",CSG Systems,"Tech, telecom & BPO",Austin,Travis,Capital Area,57.0,2021-06-30,99.0,False
 2021-03-25,2021-03,2021,Ovintive USA Inc.,Ovintive,Other / unclassified,Karnes City,Karnes,Alamo,95.0,2021-07-31,128.0,False
 2021-03-31,2021-03,2021,Furr's Fresh Buffet-McAllen,Furr's Fresh Buffet,Other / unclassified,Mcallen,Hidalgo,Lower Rio Grande Valley,71.0,2021-06-04,65.0,False
 2021-03-31,2021-03,2021,"Fresenius Health Partners, I c.","Fresenius Health Partners, I c",Healthcare,Austin,Travis,Capital Area,121.0,2021-05-31,61.0,False
 2021-04-09,2021-04,2021,GDC Technics - Ft. Worth,GDC Technics,"Tech, telecom & BPO",Fort Worth,Denton,North Central Texas,120.0,2021-04-09,0.0,False
 2021-04-09,2021-04,2021,GDC Technics,GDC Technics,"Tech, telecom & BPO",San Antonio,Bexar,Alamo,56.0,2021-04-09,0.0,False
-2021-04-15,2021-04,2021,Kindred Hospital - Mansfield,Kindred Hospital,Healthcare,Mansfield,Tarrant,Tarrant County,156.0,2021-06-14,60.0,False
 2021-04-15,2021-04,2021,Frontier Communications Corp.-Citizens Telecom Services,Frontier Communications,"Tech, telecom & BPO",Allen,Collin,North Central Texas,33.0,2021-06-30,76.0,False
 2021-04-15,2021-04,2021,Union Pacific Palestine Car Facility,Union Pacific Palestine Car Facility,Other / unclassified,Palestine,Anderson,East Texas,57.0,2021-06-14,60.0,False
+2021-04-15,2021-04,2021,Kindred Hospital - Mansfield,Kindred Hospital,Healthcare,Mansfield,Tarrant,Tarrant County,156.0,2021-06-14,60.0,False
 2021-04-16,2021-04,2021,Leidos-VA Austin IT Center,Leidos,Other / unclassified,Austin,Travis,Capital Area,140.0,2021-06-06,51.0,False
 2021-04-19,2021-04,2021,Sodexo-Texoma Medical Center,Sodexo,Restaurants & bars,Denison,Grayson,Texoma,105.0,2021-06-20,62.0,False
 2021-04-20,2021-04,2021,Five Star Senior Living Inc.,Five Star Senior Living,Other / unclassified,San Antonio,Bexar,Alamo,63.0,2021-04-30,10.0,False
 2021-04-23,2021-04,2021,"Texas Capital Bank, NA - MCA",Texas Capital Bank,Finance & insurance,Richardson,Dallas,Dallas County,95.0,2021-05-07,14.0,False
-2021-04-26,2021-04,2021,Art Asset-Austin 1,Art Asset,Other / unclassified,Austin,Travis,Capital Area,5.0,2021-04-23,-3.0,False
-2021-04-26,2021-04,2021,"Conduit Global-kgb USA, Inc.",Conduit Global-kgb,Other / unclassified,San Antonio,Bexar,Alamo,245.0,2021-07-26,91.0,False
+2021-04-26,2021-04,2021,Art Asset-San Antonio Central,Art Asset,Other / unclassified,San Antonio,Bexar,Alamo,2.0,2021-04-23,-3.0,False
+2021-04-26,2021-04,2021,Art Asset-Dallas,Art Asset,Other / unclassified,Grand Prairie,Dallas,Dallas County,7.0,2021-04-23,-3.0,False
+2021-04-26,2021-04,2021,Art Asset-Houston,Art Asset,Other / unclassified,Houston,Harris,Gulf Coast,12.0,2021-04-23,-3.0,False
+2021-04-26,2021-04,2021,Art Asset-San Antonio North,Art Asset,Other / unclassified,San Antonio,Bexar,Alamo,3.0,2021-04-23,-3.0,False
+2021-04-26,2021-04,2021,Art Asset-Austin Corporate,Art Asset,Other / unclassified,Austin,Williamson,Rural Capital,9.0,2021-04-23,-3.0,False
 2021-04-26,2021-04,2021,Art Asset-Brownsville,Art Asset,Other / unclassified,Weslaco,Hidalgo,Lower Rio Grande Valley,2.0,2021-04-23,-3.0,False
 2021-04-26,2021-04,2021,Art Asset-Killeen,Art Asset,Other / unclassified,Killeen,Bell,Central Texas,2.0,2021-04-23,-3.0,False
+2021-04-26,2021-04,2021,"Conduit Global-kgb USA, Inc.",Conduit Global-kgb,Other / unclassified,San Antonio,Bexar,Alamo,245.0,2021-07-26,91.0,False
+2021-04-26,2021-04,2021,Art Asset-Austin 1,Art Asset,Other / unclassified,Austin,Travis,Capital Area,5.0,2021-04-23,-3.0,False
 2021-04-26,2021-04,2021,Art Asset-El Paso,Art Asset,Other / unclassified,El Paso,El Paso,Borderplex,1.0,2021-04-23,-3.0,False
-2021-04-26,2021-04,2021,Art Asset-Austin Corporate,Art Asset,Other / unclassified,Austin,Williamson,Rural Capital,9.0,2021-04-23,-3.0,False
-2021-04-26,2021-04,2021,Art Asset-San Antonio Central,Art Asset,Other / unclassified,San Antonio,Bexar,Alamo,2.0,2021-04-23,-3.0,False
-2021-04-26,2021-04,2021,Art Asset-San Antonio North,Art Asset,Other / unclassified,San Antonio,Bexar,Alamo,3.0,2021-04-23,-3.0,False
-2021-04-26,2021-04,2021,Art Asset-Houston,Art Asset,Other / unclassified,Houston,Harris,Gulf Coast,12.0,2021-04-23,-3.0,False
-2021-04-26,2021-04,2021,Art Asset-Dallas,Art Asset,Other / unclassified,Grand Prairie,Dallas,Dallas County,7.0,2021-04-23,-3.0,False
 2021-04-28,2021-04,2021,Concentrix CVG,Concentrix,"Tech, telecom & BPO",Laredo,Webb,South Texas,422.0,2021-08-21,115.0,False
 2021-04-29,2021-04,2021,EnerVest Ltd.,EnerVest,Other / unclassified,Houston,Harris,Gulf Coast,111.0,2021-06-28,60.0,False
 2021-05-03,2021-05,2021,Reliant Transportation-West Lot,Reliant Transportation,Transportation & logistics,Haslet,Tarrant,Tarrant County,98.0,2021-05-29,26.0,False
@@ -1275,8 +1275,8 @@ notice_date,month,year,employer,organization,sector,city,county,wda,layoffs,layo
 2021-05-12,2021-05,2021,Legend Energy Service-Longview,Legend Energy Service,Energy & oilfield,Longview,Gregg,East Texas,118.0,2021-05-15,3.0,False
 2021-05-14,2021-05,2021,The Children's Shelter-Family Tapestry,The Children's Shelter,Other / unclassified,San Antonio,Bexar,Alamo,93.0,2021-07-13,60.0,False
 2021-05-20,2021-05,2021,"AIG Technologies, Inc.",AIG Technologies,"Tech, telecom & BPO",Fort Worth,Tarrant,Tarrant County,63.0,2021-07-23,64.0,False
-2021-05-24,2021-05,2021,U.S. Well Services,U.S. Well Services,Energy & oilfield,San Angelo,Tom Green,Concho Valley,63.0,2021-07-20,57.0,False
 2021-05-24,2021-05,2021,U.S. Well Services - Pleasanton,U.S. Well Services,Energy & oilfield,Pleasanton,Atascosa,Alamo,108.0,2021-07-23,60.0,False
+2021-05-24,2021-05,2021,U.S. Well Services,U.S. Well Services,Energy & oilfield,San Angelo,Tom Green,Concho Valley,63.0,2021-07-20,57.0,False
 2021-05-25,2021-05,2021,Probe Group North America LLC,Probe Group North America,Other / unclassified,Lewisville,Denton,North Central Texas,150.0,2021-07-31,67.0,False
 2021-06-01,2021-06,2021,"Mattison Pathology, LLP dba Avero Diagnotics",Mattison Pathology,Other / unclassified,Irving,Dallas,Dallas County,5.0,2021-08-06,66.0,False
 2021-06-01,2021-06,2021,"Progenity, Inc.-Riverside Dr.",Progenity,Other / unclassified,Irving,Dallas,Dallas County,9.0,2021-08-06,66.0,False
@@ -1286,14 +1286,14 @@ notice_date,month,year,employer,organization,sector,city,county,wda,layoffs,layo
 2021-06-04,2021-06,2021,"Progenity, Inc.-Fuller Dr.",Progenity,Other / unclassified,Irving,Dallas,Dallas County,51.0,2021-08-06,63.0,False
 2021-06-07,2021-06,2021,Electronic Transaction Consultants,Electronic Transaction Consultants,Business & professional services,Richardson,Dallas,Dallas County,34.0,2021-07-30,53.0,False
 2021-06-16,2021-06,2021,TT Electronics (IRC),TT Electronics,Other / unclassified,Corpus Christi,Nueces,Coastal Bend,73.0,2021-08-16,61.0,False
+2021-07-01,2021-07,2021,"XPO Logistics Supply Chain, LLC",XPO,Transportation & logistics,San Antonio,Bexar,Alamo,29.0,2021-08-02,32.0,False
 2021-07-01,2021-07,2021,"Cubic ITS, Inc.",Cubic ITS,Other / unclassified,Sugar Land,Fort Bend,Gulf Coast,80.0,2022-02-01,215.0,False
 2021-07-01,2021-07,2021,Turner Industries,Turner Industries,Energy & oilfield,Paris,Lamar,North East Texas,250.0,2021-08-30,60.0,False
-2021-07-01,2021-07,2021,"XPO Logistics Supply Chain, LLC",XPO,Transportation & logistics,San Antonio,Bexar,Alamo,29.0,2021-08-02,32.0,False
-2021-07-03,2021-07,2021,Fusion Logistics Inc. - Ft. Worth,Fusion Logistics,Transportation & logistics,Fort Worth,Tarrant,Tarrant County,53.0,2021-07-12,9.0,False
-2021-07-03,2021-07,2021,Fusion Logistics Inc. - Garland,Fusion Logistics,Transportation & logistics,Garland,Dallas,Dallas County,50.0,2021-07-12,9.0,False
 2021-07-03,2021-07,2021,Fusion Logistics Inc. - Houston,Fusion Logistics,Transportation & logistics,Houston,Harris,Gulf Coast,81.0,2021-07-12,9.0,False
 2021-07-03,2021-07,2021,Fusion Logistics Inc. - Coppell,Fusion Logistics,Transportation & logistics,Coppell,Dallas,Dallas County,62.0,2021-07-12,9.0,False
 2021-07-03,2021-07,2021,Fusion Logistics Inc. - Farmers Branch,Fusion Logistics,Transportation & logistics,Farmers Branch,Dallas,Dallas County,57.0,2021-07-12,9.0,False
+2021-07-03,2021-07,2021,Fusion Logistics Inc. - Garland,Fusion Logistics,Transportation & logistics,Garland,Dallas,Dallas County,50.0,2021-07-12,9.0,False
+2021-07-03,2021-07,2021,Fusion Logistics Inc. - Ft. Worth,Fusion Logistics,Transportation & logistics,Fort Worth,Tarrant,Tarrant County,53.0,2021-07-12,9.0,False
 2021-07-07,2021-07,2021,Tranter Inc.,Tranter,Other / unclassified,Wichita Falls,Wichita,North Texas,78.0,2021-10-01,86.0,False
 2021-07-09,2021-07,2021,U.S. Well Services - Pleasanton,U.S. Well Services,Energy & oilfield,Pleasanton,Atascosa,Alamo,66.0,2021-09-07,60.0,False
 2021-07-27,2021-07,2021,Management & Training-Willacy County Regional Correction,Management & Training Corp (MTC),"Government, education & nonprofit",Raymondville,Willacy,Lower Rio Grande Valley,186.0,2021-09-30,65.0,False
@@ -1301,19 +1301,19 @@ notice_date,month,year,employer,organization,sector,city,county,wda,layoffs,layo
 2021-08-02,2021-08,2021,Interim Healthcare-San Antonio,Interim Healthcare,Healthcare,San Antonio,Bexar,Alamo,366.0,2021-10-01,60.0,False
 2021-08-09,2021-08,2021,Garland Behvaioral Hospital,Garland Behvaioral Hospital,Healthcare,Garland,Dallas,Dallas County,119.0,2021-10-07,59.0,False
 2021-08-17,2021-08,2021,Basic Energy Services-Ft Worth-ALM Regent,Basic Energy Services,Energy & oilfield,Fort Worth,Tarrant,Tarrant County,120.0,2021-10-19,63.0,False
-2021-08-17,2021-08,2021,Basic Energy Services-Kennedy,Basic Energy Services,Energy & oilfield,Kenedy,Karnes,Gulf Coast,56.0,2021-10-19,63.0,False
 2021-08-17,2021-08,2021,Basic Energy Services-Andrews,Basic Energy Services,Energy & oilfield,Andrews,Andrews,Permian Basin,63.0,2021-10-19,63.0,False
+2021-08-17,2021-08,2021,Basic Energy Services-Kennedy,Basic Energy Services,Energy & oilfield,Kenedy,Karnes,Gulf Coast,56.0,2021-10-19,63.0,False
 2021-08-17,2021-08,2021,Basic Energy Services-Big Springs2,Basic Energy Services,Energy & oilfield,Big Spring,Howard,Permian Basin,135.0,2021-10-19,63.0,False
 2021-08-17,2021-08,2021,Basic Energy Services-Andrews2,Basic Energy Services,Energy & oilfield,Andrews,Andrews,Permian Basin,63.0,2021-10-19,63.0,False
 2021-08-17,2021-08,2021,Basic Energy Services-Denver City,Basic Energy Services,Energy & oilfield,Denver City,Yoakum,South Plains,57.0,2021-10-19,63.0,False
 2021-08-30,2021-08,2021,Leidos-Killeen,Leidos,Other / unclassified,Killeen,Bell,Central Texas,60.0,2021-09-29,30.0,False
 2021-08-30,2021-08,2021,Amentum,Amentum,Business & professional services,New Boston,Bowie,North East Texas,92.0,2021-10-29,60.0,False
-2021-09-09,2021-09,2021,Disney Streaming Technology LLC,Disney Streaming Technology,"Tech, telecom & BPO",The Woodlands,Montgomery,Gulf Coast,63.0,2021-11-10,62.0,False
 2021-09-09,2021-09,2021,The Woodlands Enterprises LLC,The Woodlands Enterprises,Other / unclassified,The Woodlands,Montgomery,Gulf Coast,181.0,2021-11-10,62.0,False
+2021-09-09,2021-09,2021,Disney Streaming Technology LLC,Disney Streaming Technology,"Tech, telecom & BPO",The Woodlands,Montgomery,Gulf Coast,63.0,2021-11-10,62.0,False
 2021-09-09,2021-09,2021,CEVA Logistics - Raytheon Facility,CEVA Logistics,Transportation & logistics,Carrollton,Denton,North Central Texas,87.0,2021-11-09,61.0,False
 2021-09-22,2021-09,2021,The Children's Shelter-Family Tapestry,The Children's Shelter,Other / unclassified,San Antonio,Bexar,Alamo,41.0,2021-11-20,59.0,False
-2021-09-27,2021-09,2021,NPL - Shiloh Rd.,NPL,Other / unclassified,Garland,Dallas,Dallas County,6.0,2021-10-16,19.0,False
 2021-09-27,2021-09,2021,NPL,NPL,Other / unclassified,Garland,Dallas,Dallas County,60.0,2021-10-16,19.0,False
+2021-09-27,2021-09,2021,NPL - Shiloh Rd.,NPL,Other / unclassified,Garland,Dallas,Dallas County,6.0,2021-10-16,19.0,False
 2021-09-30,2021-09,2021,InterContinental-Stephen F Austin,InterContinental,Other / unclassified,Austin,Travis,Capital Area,35.0,2020-11-30,-304.0,False
 2021-10-11,2021-10,2021,Luminant Mining Co.-Martin Lake Liberty Mine,Luminant Mining,Other / unclassified,Tatum,Rusk,East Texas,160.0,2021-12-26,76.0,False
 2021-10-29,2021-10,2021,"Odle Management Group, LLC",Odle Management,Other / unclassified,El Paso,El Paso,Borderplex,134.0,2021-10-25,-4.0,False
@@ -1335,10 +1335,10 @@ notice_date,month,year,employer,organization,sector,city,county,wda,layoffs,layo
 2022-03-01,2022-03,2022,Management & Training Corp. - MTC Medical LLC (Giles W. Dalby Correctional Facility),Management & Training Corp (MTC),Healthcare,Post,Garza,South Plains,206.0,2022-05-01,61.0,False
 2022-03-07,2022-03,2022,Sev1Tech,Sev1Tech,"Tech, telecom & BPO",Fort Hood,Bell,Central Texas,62.0,2022-03-07,0.0,False
 2022-03-08,2022-03,2022,"Master Brand Home Products, LLC",Master Brand Home Products,Other / unclassified,Weslaco,Hidalgo,Lower Rio Grande Valley,109.0,2022-05-06,59.0,False
-2022-03-15,2022-03,2022,"ABM Industries Groups, LLC - Houston 2",ABM Industries Groups,Transportation & logistics,Houston,Harris,Gulf Coast,26.0,2022-03-31,16.0,False
-2022-03-15,2022-03,2022,"ABM Industries Groups, LLC - Houston 1",ABM Industries Groups,Transportation & logistics,Houston,Harris,Gulf Coast,31.0,2022-03-31,16.0,False
 2022-03-15,2022-03,2022,"ABM Industries Groups, LLC - Houston 4",ABM Industries Groups,Transportation & logistics,Houston,Harris,Gulf Coast,19.0,2022-03-31,16.0,False
 2022-03-15,2022-03,2022,"ABM Industries Groups, LLC - Fulbright Tower",ABM Industries Groups,Transportation & logistics,Houston,Harris,Gulf Coast,18.0,2022-03-31,16.0,False
+2022-03-15,2022-03,2022,"ABM Industries Groups, LLC - Houston 2",ABM Industries Groups,Transportation & logistics,Houston,Harris,Gulf Coast,26.0,2022-03-31,16.0,False
+2022-03-15,2022-03,2022,"ABM Industries Groups, LLC - Houston 1",ABM Industries Groups,Transportation & logistics,Houston,Harris,Gulf Coast,31.0,2022-03-31,16.0,False
 2022-03-28,2022-03,2022,Devereux Advanced Behavioral Health,Devereux Advanced Behavioral Health,Healthcare,Victoria,Victoria,Golden Crescent,122.0,2022-05-31,64.0,False
 2022-04-27,2022-04,2022,"Michaels Stores Procurement Company, Inc.",Michaels Stores Procurement,Retail,Fort Worth,Tarrant,Tarrant County,202.0,2022-06-24,58.0,False
 2022-05-12,2022-05,2022,Dillard's - Wichita Falls,Dillard's,Retail,Wichita Falls,Wichita,North Texas,81.0,2022-07-14,63.0,False
@@ -1356,21 +1356,21 @@ notice_date,month,year,employer,organization,sector,city,county,wda,layoffs,layo
 2022-07-19,2022-07,2022,Pearl South Padre Island Hotel and Resort,Pearl South Padre Island Hotel and Resort,Hotels & leisure,South Padre Is.,Cameron,Cameron County,115.0,2022-09-18,61.0,False
 2022-07-19,2022-07,2022,ION Geophysical Corporation,ION Geophysical,Other / unclassified,Houston,Harris,Gulf Coast,125.0,2022-08-31,43.0,False
 2022-07-20,2022-07,2022,"Captel Service Specialists, LLC",Captel Service Specialists,Other / unclassified,Arlington,Tarrant,Tarrant County,110.0,2022-09-20,62.0,False
-2022-07-25,2022-07,2022,Seville Farms @ Los Fresnos,Seville Farms @ Los Fresnos,Other / unclassified,Los Fresnos,Cameron,Cameron County,92.0,2022-07-20,-5.0,False
 2022-07-25,2022-07,2022,Seville Farms @ Tyler,Seville Farms @ Tyler,Other / unclassified,Winona,Smith,East Texas,72.0,2022-07-20,-5.0,False
 2022-07-25,2022-07,2022,Seville Farms @ Mansfield,Seville Farms @ Mansfield,Other / unclassified,Mansfield,Tarrant,Tarrant County,64.0,2022-07-20,-5.0,False
+2022-07-25,2022-07,2022,Seville Farms @ Los Fresnos,Seville Farms @ Los Fresnos,Other / unclassified,Los Fresnos,Cameron,Cameron County,92.0,2022-07-20,-5.0,False
 2022-07-26,2022-07,2022,F 45 Training Inc.,F 45 Training,Other / unclassified,Austin,Travis,Capital Area,78.0,2022-09-25,61.0,False
 2022-07-27,2022-07,2022,Plano Enterprise Mobility Facility,Plano Enterprise Mobility Facility,Other / unclassified,Plano,Collin,North Central Texas,69.0,2022-11-02,98.0,False
 2022-07-28,2022-07,2022,"GXO Logistics of Texas, LLC",GXO Logistics,Transportation & logistics,Fort Worth,Tarrant,Tarrant County,116.0,2022-09-30,64.0,False
 2022-08-09,2022-08,2022,Signify Health LLC - Dallas,Signify Health,Healthcare,Dallas,Dallas,Dallas County,29.0,2022-10-01,53.0,False
 2022-08-10,2022-08,2022,Signify Health LLC - Austin,Signify Health,Healthcare,Austin,Travis,Capital Area,9.0,2022-10-01,52.0,False
 2022-08-19,2022-08,2022,Spirit Airlines,Spirit Airlines,Airlines & aviation,Dallas,Dallas,Dallas County,134.0,2022-09-30,42.0,False
-2022-08-23,2022-08,2022,ABM Industries - 1140,ABM Industries,Manufacturing,Houston,Harris,Gulf Coast,8.0,2022-09-03,11.0,False
-2022-08-23,2022-08,2022,ABM Industries - 1120,ABM Industries,Manufacturing,Houston,Harris,Gulf Coast,9.0,2022-09-23,31.0,False
-2022-08-23,2022-08,2022,ABM Industries - 915 Gessner,ABM Industries,Manufacturing,Houston,Harris,Gulf Coast,13.0,2022-09-03,11.0,False
-2022-08-23,2022-08,2022,ABM Industries - 920,ABM Industries,Manufacturing,Houston,Harris,Gulf Coast,9.0,2022-09-03,11.0,False
 2022-08-23,2022-08,2022,ABM Industries - 909,ABM Industries,Manufacturing,Houston,Harris,Gulf Coast,5.0,2022-09-03,11.0,False
 2022-08-23,2022-08,2022,ABM Industries - 902,ABM Industries,Manufacturing,Houston,Harris,Gulf Coast,13.0,2022-09-03,11.0,False
+2022-08-23,2022-08,2022,ABM Industries - 920,ABM Industries,Manufacturing,Houston,Harris,Gulf Coast,9.0,2022-09-03,11.0,False
+2022-08-23,2022-08,2022,ABM Industries - 1120,ABM Industries,Manufacturing,Houston,Harris,Gulf Coast,9.0,2022-09-23,31.0,False
+2022-08-23,2022-08,2022,ABM Industries - 1140,ABM Industries,Manufacturing,Houston,Harris,Gulf Coast,8.0,2022-09-03,11.0,False
+2022-08-23,2022-08,2022,ABM Industries - 915 Gessner,ABM Industries,Manufacturing,Houston,Harris,Gulf Coast,13.0,2022-09-03,11.0,False
 2022-08-24,2022-08,2022,"Southern Star Express, LLC (DDF8)",Southern Star Express,Other / unclassified,Arlington,Tarrant,Tarrant County,55.0,2022-09-29,36.0,False
 2022-08-24,2022-08,2022,Southern Star Express LLC - Fort Worth,Southern Star Express,Other / unclassified,Fort Worth,Denton,North Central Texas,39.0,2022-08-24,0.0,False
 2022-08-25,2022-08,2022,"Merit Medical Systems, Inc.",Merit Medical Systems,Healthcare,Houston,Harris,Gulf Coast,117.0,2022-10-25,61.0,False
@@ -1388,18 +1388,18 @@ notice_date,month,year,employer,organization,sector,city,county,wda,layoffs,layo
 2022-10-11,2022-10,2022,Hill Defense and Federal Solutions,Hill Defense and Federal Solutions,"Tech, telecom & BPO",San Antonio,Bexar,Alamo,134.0,2022-12-12,62.0,False
 2022-10-13,2022-10,2022,"GXO Logistics of Texas, LLC (Lancaster)",GXO Logistics,Transportation & logistics,Lancaster,Dallas,Dallas County,206.0,2022-12-10,58.0,False
 2022-10-13,2022-10,2022,"GXO Logistics of Texas, LLC (Dallas)",GXO Logistics,Transportation & logistics,Dallas,Dallas,Dallas County,56.0,2022-12-10,58.0,False
+2022-10-14,2022-10,2022,Third Coast Terminals,Third Coast Terminals,Other / unclassified,Pearland,Brazoria,Gulf Coast,3.0,2022-12-21,68.0,False
 2022-10-14,2022-10,2022,Center Point Energy Control Data Center,Center Point Energy Control Data Center,Energy & oilfield,Houston,Harris,Gulf Coast,10.0,2022-12-21,68.0,False
 2022-10-14,2022-10,2022,Centerpoint Addicks Operation Center,Centerpoint Addicks Operation Center,Other / unclassified,Houston,Harris,Gulf Coast,10.0,2022-12-21,68.0,False
 2022-10-14,2022-10,2022,Center Point South Houston Center Complex,Center Point South Houston Center Complex,Other / unclassified,Houston,Harris,Gulf Coast,6.0,2022-12-21,68.0,False
 2022-10-14,2022-10,2022,Center Point Harrisburg Service Center,Center Point Harrisburg Service Center,Other / unclassified,Houston,Harris,Gulf Coast,5.0,2022-12-21,68.0,False
 2022-10-14,2022-10,2022,Center Point Platinum,Center Point Platinum,Other / unclassified,Houston,Harris,Gulf Coast,5.0,2022-12-21,68.0,False
-2022-10-14,2022-10,2022,Third Coast Terminals,Third Coast Terminals,Other / unclassified,Pearland,Brazoria,Gulf Coast,3.0,2022-12-21,68.0,False
+2022-10-14,2022-10,2022,Center Point Towers,Center Point Towers,Other / unclassified,Houston,Harris,Gulf Coast,204.0,2022-12-21,68.0,False
 2022-10-14,2022-10,2022,DXP Enterprises,DXP Enterprises,Other / unclassified,Houston,Harris,Gulf Coast,4.0,2022-12-21,68.0,False
 2022-10-14,2022-10,2022,"Sutton Court Homeowner's Association, Inc.",Sutton Court Homeowner's Association,Other / unclassified,Houston,Harris,Gulf Coast,2.0,2022-12-21,68.0,False
 2022-10-14,2022-10,2022,Jacob Engineering,Jacob Engineering,Business & professional services,Houston,Harris,Gulf Coast,3.0,2022-12-21,68.0,False
 2022-10-14,2022-10,2022,HJH Houston 1,HJH Houston 1,Other / unclassified,Houston,Harris,Gulf Coast,1.0,2022-12-21,68.0,False
 2022-10-14,2022-10,2022,"Westex Security Services, Inc.",Westex Security Services,Business & professional services,Houston,Harris,Gulf Coast,7.0,2022-12-21,68.0,False
-2022-10-14,2022-10,2022,Center Point Towers,Center Point Towers,Other / unclassified,Houston,Harris,Gulf Coast,204.0,2022-12-21,68.0,False
 2022-10-27,2022-10,2022,"Argo AI, LLC. (Austin 7th Street)",Argo AI,Other / unclassified,Austin,Travis,Capital Area,68.0,2022-11-01,5.0,False
 2022-10-27,2022-10,2022,"Argo AI, LLC. (Austin Congress)",Argo AI,Other / unclassified,Austin,Travis,Capital Area,10.0,2022-11-01,5.0,False
 2022-10-31,2022-10,2022,iBio CDMO,iBio CDMO,Other / unclassified,Bryan,Brazos,Brazos Valley,50.0,2023-01-02,63.0,False
@@ -1433,10 +1433,10 @@ notice_date,month,year,employer,organization,sector,city,county,wda,layoffs,layo
 2023-02-02,2023-02,2023,Eddy Foods,Eddy Foods,Manufacturing,Yoakum,Dewitt,Golden Crescent,140.0,2023-02-15,13.0,False
 2023-02-02,2023-02,2023,"PTW Energy Services, Inc.",PTW Energy Services,Energy & oilfield,Midland,Midland,Permian Basin,9.0,2023-04-03,60.0,False
 2023-02-02,2023-02,2023,Georgia Pacific Gypsum,Georgia Pacific Gypsum,Other / unclassified,Quanah,Hardeman,North Texas,158.0,2023-04-01,58.0,False
-2023-02-07,2023-02,2023,Owens Corning Amarillo Facility,Owens Corning Amarillo Facility,Other / unclassified,Amarillo,Potter,Panhandle,200.0,2023-04-04,56.0,False
-2023-02-07,2023-02,2023,Packaging Corporation of America (Woodway),Packaging Corporation of America,Manufacturing,Woodway,Mclennan,Heart of Texas,65.0,2023-03-28,49.0,False
 2023-02-07,2023-02,2023,"Skorpios Technologies, Inc.",Skorpios Technologies,"Tech, telecom & BPO",Austin,Travis,Capital Area,60.0,2023-04-01,53.0,False
 2023-02-07,2023-02,2023,"Misfits Market Technologies, INC (Fullfillment Center)",Misfits Market Technologies,Transportation & logistics,Fort Worth,Tarrant,Tarrant County,121.0,2023-04-08,60.0,False
+2023-02-07,2023-02,2023,Packaging Corporation of America (Woodway),Packaging Corporation of America,Manufacturing,Woodway,Mclennan,Heart of Texas,65.0,2023-03-28,49.0,False
+2023-02-07,2023-02,2023,Owens Corning Amarillo Facility,Owens Corning Amarillo Facility,Other / unclassified,Amarillo,Potter,Panhandle,200.0,2023-04-04,56.0,False
 2023-02-08,2023-02,2023,Walmart Store #7310,Walmart,Retail,Katy,Fort Bend,Gulf Coast,92.0,2023-05-19,100.0,False
 2023-02-15,2023-02,2023,St. Mark's Medical Center,St. Mark's Medical Center,Healthcare,La Grange,Fayette,Rural Capital,64.0,2023-02-17,2.0,False
 2023-02-16,2023-02,2023,TaskUs (San Antonio),TaskUs,Other / unclassified,San Antonio,Bexar,Alamo,186.0,2023-02-24,8.0,False
@@ -1447,14 +1447,14 @@ notice_date,month,year,employer,organization,sector,city,county,wda,layoffs,layo
 2023-02-27,2023-02,2023,"TuSimple, Inc. (Fort Worth)",TuSimple,Other / unclassified,Fort Worth,Denton,North Central Texas,10.0,2023-02-17,-10.0,False
 2023-02-27,2023-02,2023,SNL Distribution Services Corporation,SNL Distribution Services,Transportation & logistics,Denton,Denton,North Central Texas,60.0,2023-03-31,32.0,False
 2023-02-27,2023-02,2023,Interceramic San Antonio Showroom,Interceramic San Antonio Showroom,Other / unclassified,San Antonio,Bexar,Alamo,19.0,2023-08-31,185.0,False
-2023-02-27,2023-02,2023,Interceramic Houston-Spring Showroom,Interceramic Houston,Other / unclassified,Spring,Harris,Gulf Coast,7.0,2023-05-31,93.0,False
+2023-02-27,2023-02,2023,Interceramic Plano Showroom,Interceramic Plano Showroom,Other / unclassified,Plano,Collin,North Central Texas,4.0,2023-05-31,93.0,False
 2023-02-27,2023-02,2023,Interceramic Houston Showroom (Clay Road),Interceramic Houston Showroom,Other / unclassified,Houston,Harris,Gulf Coast,35.0,2023-08-31,185.0,False
 2023-02-27,2023-02,2023,Interceramic Corporate Office and Distribution Center,Interceramic Corporate Office and Distribution Center,Transportation & logistics,Carrollton,Dallas,North Central Texas,118.0,2023-03-31,32.0,False
-2023-02-27,2023-02,2023,Interceramic Plano Showroom,Interceramic Plano Showroom,Other / unclassified,Plano,Collin,North Central Texas,4.0,2023-05-31,93.0,False
-2023-02-28,2023-02,2023,Interceramic Fort Worth Showroom,Interceramic Fort Worth Showroom,Other / unclassified,Fort Worth,Tarrant,Tarrant County,12.0,2023-05-31,92.0,False
-2023-02-28,2023-02,2023,Interceramic Austin Showroom,Interceramic Austin Showroom,Other / unclassified,Austin,Travis,Capital Area,17.0,2023-08-31,184.0,False
+2023-02-27,2023-02,2023,Interceramic Houston-Spring Showroom,Interceramic Houston,Other / unclassified,Spring,Harris,Gulf Coast,7.0,2023-05-31,93.0,False
 2023-02-28,2023-02,2023,Interceramic Tile & Stone Gallery,Interceramic Tile & Stone Gallery,Other / unclassified,Dallas,Dallas,Dallas County,15.0,2023-08-31,184.0,False
 2023-02-28,2023-02,2023,Interceramic Manufacturing Facility,Interceramic Manufacturing Facility,Manufacturing,Garland,Dallas,Dallas County,161.0,2023-02-22,-6.0,False
+2023-02-28,2023-02,2023,Interceramic Fort Worth Showroom,Interceramic Fort Worth Showroom,Other / unclassified,Fort Worth,Tarrant,Tarrant County,12.0,2023-05-31,92.0,False
+2023-02-28,2023-02,2023,Interceramic Austin Showroom,Interceramic Austin Showroom,Other / unclassified,Austin,Travis,Capital Area,17.0,2023-08-31,184.0,False
 2023-03-02,2023-03,2023,EP Lamination,EP Lamination,Other / unclassified,El Paso,El Paso,Borderplex,53.0,2023-05-02,61.0,False
 2023-03-03,2023-03,2023,"Southwest General Hospital, LP",Southwest General Hospital,Healthcare,San Antonio,Bexar,Alamo,827.0,2023-05-01,59.0,False
 2023-03-08,2023-03,2023,"Security Specialists, Inc (Austin)",Security Specialists,Business & professional services,Austin,Travis,Capital Area,240.0,2023-04-28,51.0,False
@@ -1465,22 +1465,22 @@ notice_date,month,year,employer,organization,sector,city,county,wda,layoffs,layo
 2023-03-31,2023-03,2023,Walmart #1258,Walmart,Retail,Fort Worth,Tarrant,Tarrant County,1047.0,2023-06-02,63.0,False
 2023-04-03,2023-04,2023,Ibex Global Solutions (San Antonio),IBEX,"Tech, telecom & BPO",San Antonio,Bexar,Alamo,227.0,2023-06-02,60.0,False
 2023-04-04,2023-04,2023,"Molecular Templates, Inc. (MTEM)",Molecular Templates,Other / unclassified,Austin,Williamson,Rural Capital,84.0,2023-05-29,55.0,False
+2023-04-05,2023-04,2023,Aramark Campus LLC Trininty University (San Antonio),Aramark,Restaurants & bars,San Antonio,Bexar,Alamo,120.0,2023-05-31,56.0,False
 2023-04-05,2023-04,2023,Hunter Douglas Fabrication Company (Custom Brands Group),Hunter Douglas Fabrication,Manufacturing,Mckinney,Collin,North Central Texas,100.0,2023-06-09,65.0,False
 2023-04-05,2023-04,2023,Chalk Mountain Services of Texas LLC,Chalk Mountain Services,Business & professional services,Kermit,Winkler,Permian Basin,98.0,2023-05-31,56.0,False
-2023-04-05,2023-04,2023,Aramark Campus LLC Trininty University (San Antonio),Aramark,Restaurants & bars,San Antonio,Bexar,Alamo,120.0,2023-05-31,56.0,False
 2023-04-06,2023-04,2023,"Premier Auto Management, LLC",Premier Auto Management,Other / unclassified,El Paso,El Paso,Borderplex,12.0,2023-06-02,57.0,False
 2023-04-18,2023-04,2023,"Packers Sanitation Services- Cactus, Texas",Packers Sanitation Services,Business & professional services,Cactus,Moore,Panhandle,113.0,2023-05-30,42.0,False
 2023-04-19,2023-04,2023,"HCS Renewable Energy, LLC",HCS Renewable Energy,Energy & oilfield,El Campo,Wharton,Gulf Coast,62.0,2023-06-18,60.0,False
 2023-04-20,2023-04,2023,Walmart #4795 Grapevine,Walmart,Retail,Grapevine,Tarrant,Tarrant County,133.0,2023-07-13,84.0,False
 2023-04-25,2023-04,2023,Stanley Black & Decker-Fort Worth,Stanley Black & Decker,Other / unclassified,Fort Worth,Tarrant,Tarrant County,175.0,2023-05-19,24.0,False
+2023-05-03,2023-05,2023,"Makita U.S.A., Inc. Factory Service Center","Makita U.S.A., Inc. Factory Service Center",Other / unclassified,Houston,Harris,Gulf Coast,7.0,2023-06-28,56.0,False
+2023-05-03,2023-05,2023,"Makita U.S.A., Inc. Distribution Center","Makita U.S.A., Inc. Distribution Center",Transportation & logistics,Wilmer,Dallas,Dallas County,4.0,2023-06-28,56.0,False
 2023-05-03,2023-05,2023,DHL Supply Chain - Missouri City,DHL,Transportation & logistics,Missouri City,Fort Bend,Gulf Coast,123.0,2023-06-30,58.0,False
 2023-05-03,2023-05,2023,DHL Supply Chain - Sugar Land,DHL,Transportation & logistics,Sugar Land,Fort Bend,Gulf Coast,29.0,2023-06-30,58.0,False
-2023-05-03,2023-05,2023,"Makita U.S.A., Inc. Distribution Center","Makita U.S.A., Inc. Distribution Center",Transportation & logistics,Wilmer,Dallas,Dallas County,4.0,2023-06-28,56.0,False
-2023-05-03,2023-05,2023,"Makita U.S.A., Inc. Factory Service Center","Makita U.S.A., Inc. Factory Service Center",Other / unclassified,Houston,Harris,Gulf Coast,7.0,2023-06-28,56.0,False
 2023-05-08,2023-05,2023,Aventi Technologies,Aventi Technologies,"Tech, telecom & BPO",Carrollton,Denton,North Central Texas,272.0,2023-05-12,4.0,False
+2023-05-10,2023-05,2023,Village Farms,Village Farms,Other / unclassified,Monahans,Ward,Permian Basin,27.0,2023-08-01,83.0,False
 2023-05-10,2023-05,2023,"GXO Logistics of Texas, LLC (Fort Worth) Comcast Facility",GXO Logistics,Transportation & logistics,Fort Worth,Tarrant,Tarrant County,105.0,2023-06-30,51.0,False
 2023-05-10,2023-05,2023,"Bedding Acquisition, LLC (Grand Prairie Plant)",Bedding Acquisition,Manufacturing,Grand Prairie,Dallas,Dallas County,23.0,2023-05-26,16.0,False
-2023-05-10,2023-05,2023,Village Farms,Village Farms,Other / unclassified,Monahans,Ward,Permian Basin,27.0,2023-08-01,83.0,False
 2023-05-15,2023-05,2023,ABM Industries at the University of Texas San Antonio,ABM Industries at the University of Texas San Antonio,Manufacturing,San Antonio,Bexar,Alamo,86.0,2023-03-31,-45.0,False
 2023-05-16,2023-05,2023,Durham School Services-Brenham,Durham School Services,"Government, education & nonprofit",Brenham,Washington,Brazos Valley,81.0,2023-07-31,76.0,False
 2023-05-16,2023-05,2023,Accenture LLP (Austin),Accenture,"Tech, telecom & BPO",Austin,Travis,Capital Area,549.0,2023-06-27,42.0,False
@@ -1511,17 +1511,18 @@ notice_date,month,year,employer,organization,sector,city,county,wda,layoffs,layo
 2023-07-17,2023-07,2023,"David's Bridal, LLC (Lewisville)",David's Bridal,Retail,Lewisville,Denton,North Central Texas,28.0,2023-07-17,0.0,False
 2023-07-17,2023-07,2023,"David's Bridal, LLC (Sugar Land)",David's Bridal,Retail,Sugar Land,Fort Bend,Gulf Coast,38.0,2023-07-17,0.0,False
 2023-07-17,2023-07,2023,"David's Bridal, LLC (Lubbock)",David's Bridal,Retail,Lubbock,Lubbock,South Plains,31.0,2023-07-17,0.0,False
-2023-07-17,2023-07,2023,"David's Bridal, LLC (Austin South)",David's Bridal,Retail,Austin,Travis,Capital Area,26.0,2023-07-17,0.0,False
 2023-07-17,2023-07,2023,"David's Bridal, LLC (El Paso)",David's Bridal,Retail,El Paso,El Paso,Borderplex,26.0,2023-07-17,0.0,False
+2023-07-17,2023-07,2023,"David's Bridal, LLC (Beaumont)",David's Bridal,Retail,Beaumont,Jefferson,South East Texas,21.0,2023-07-17,0.0,False
 2023-07-17,2023-07,2023,"David's Bridal, LLC (San Antonio Bexar County)",David's Bridal,Retail,San Antonio,Bexar,Alamo,25.0,2023-07-17,0.0,False
 2023-07-17,2023-07,2023,"David's Bridal, LLC (Abilene)",David's Bridal,Retail,Abilene,Taylor,West Central,19.0,2023-07-17,0.0,False
 2023-07-17,2023-07,2023,"David's Bridal, LLC (Fort Worth)",David's Bridal,Retail,Fort Worth,Tarrant,Tarrant County,29.0,2023-07-17,0.0,False
 2023-07-17,2023-07,2023,"David's Bridal, LLC (Corpus Christie)",David's Bridal,Retail,Corpus Christi,Nueces,Coastal Bend,21.0,2023-07-17,0.0,False
 2023-07-17,2023-07,2023,"David's Bridal, LLC (North Austin)",David's Bridal,Retail,Austin,Travis,Capital Area,43.0,2023-07-17,0.0,False
-2023-07-17,2023-07,2023,"David's Bridal, LLC (Beaumont)",David's Bridal,Retail,Beaumont,Jefferson,South East Texas,21.0,2023-07-17,0.0,False
+2023-07-17,2023-07,2023,"David's Bridal, LLC (Austin South)",David's Bridal,Retail,Austin,Travis,Capital Area,26.0,2023-07-17,0.0,False
 2023-07-17,2023-07,2023,"David's Bridal, LLC (McAllen)",David's Bridal,Retail,Mcallen,Hidalgo,Lower Rio Grande Valley,31.0,2023-07-17,0.0,False
 2023-07-17,2023-07,2023,"David's Bridal, LLC (Friendswood)",David's Bridal,Retail,Friendswood,Harris,Gulf Coast,35.0,2023-07-17,0.0,False
 2023-07-17,2023-07,2023,"David's Bridal, LLC (610 & San Felipe Shop Center)",David's Bridal,Retail,Houston,Harris,Gulf Coast,39.0,2023-07-17,0.0,False
+2023-07-17,2023-07,2023,"David's Bridal, LLC (College Station)",David's Bridal,Retail,College Station,Brazos,Brazos Valley,14.0,2023-07-17,0.0,False
 2023-07-17,2023-07,2023,"David's Bridal, LLC (Tyler)",David's Bridal,Retail,Tyler,Smith,East Texas,31.0,2023-07-17,0.0,False
 2023-07-17,2023-07,2023,"David's Bridal, LLC (San Antonio)",David's Bridal,Retail,San Antonio,Bexar,Alamo,38.0,2023-07-17,0.0,False
 2023-07-17,2023-07,2023,"David's Bridal, LLC (Arlington)",David's Bridal,Retail,Arlington,Tarrant,Tarrant County,27.0,2023-07-17,0.0,False
@@ -1530,16 +1531,15 @@ notice_date,month,year,employer,organization,sector,city,county,wda,layoffs,layo
 2023-07-17,2023-07,2023,"David's Bridal, LLC (Frisco)",David's Bridal,Retail,Frisco,Collin,North Central Texas,53.0,2023-07-17,0.0,False
 2023-07-17,2023-07,2023,"David's Bridal, LLC (Houston North The Woodlands)",David's Bridal,Retail,Woodlands,Montgomery,Gulf Coast,41.0,2023-07-17,0.0,False
 2023-07-17,2023-07,2023,"David's Bridal, LLC (Hurst)",David's Bridal,Retail,Hurst,Tarrant,Tarrant County,25.0,2023-07-17,0.0,False
-2023-07-17,2023-07,2023,"David's Bridal, LLC (College Station)",David's Bridal,Retail,College Station,Brazos,Brazos Valley,14.0,2023-07-17,0.0,False
 2023-07-19,2023-07,2023,Ventra Health,Ventra Health,Healthcare,Fort Worth,Tarrant,Tarrant County,64.0,2023-10-09,82.0,False
 2023-07-27,2023-07,2023,Vibra Hospital of Desoto,Vibra Hospital of Desoto,Healthcare,Desoto,Dallas,Dallas County,76.0,2023-09-29,64.0,False
 2023-08-01,2023-08,2023,Yellow Freight (Dallas),Yellow Corp,Transportation & logistics,Dallas,Dallas,Dallas County,530.0,2023-07-28,-4.0,False
 2023-08-01,2023-08,2023,"Ericsson, Inc.",Ericsson,Other / unclassified,Plano,Collin,North Central Texas,64.0,2023-09-29,59.0,False
 2023-08-02,2023-08,2023,FedEx Supply Chain Logistics & Electronics (Ft. Worth),FedEx,Transportation & logistics,Fort Worth,Tarrant,Tarrant County,280.0,2023-09-23,52.0,False
 2023-08-03,2023-08,2023,Regal Rexnord,Regal Rexnord,Hotels & leisure,Mission,Hidalgo,Lower Rio Grande Valley,78.0,2023-09-30,58.0,False
-2023-08-03,2023-08,2023,Yellow Freight (Abilene),Yellow Corp,Transportation & logistics,Abilene,Taylor,West Central,4.0,2023-07-28,-6.0,False
 2023-08-03,2023-08,2023,Compass Group,Compass Group,Restaurants & bars,Sugar Land,Fort Bend,Gulf Coast,153.0,2023-08-01,-2.0,False
 2023-08-03,2023-08,2023,Yellow Freight (Fort Worth},Yellow Corp,Transportation & logistics,Fort Worth,Tarrant,Tarrant County,84.0,2023-07-28,-6.0,False
+2023-08-03,2023-08,2023,Yellow Freight (Abilene),Yellow Corp,Transportation & logistics,Abilene,Taylor,West Central,4.0,2023-07-28,-6.0,False
 2023-08-03,2023-08,2023,Yellow Freight (Sherman),Yellow Corp,Transportation & logistics,Sherman,Grayson,Texoma,25.0,2023-07-28,-6.0,False
 2023-08-03,2023-08,2023,Yellow Freight (Waco),Yellow Corp,Transportation & logistics,Waco,Mclennan,Heart of Texas,17.0,2023-07-28,-6.0,False
 2023-08-03,2023-08,2023,Yellow Freight (El Paso),Yellow Corp,Transportation & logistics,El Paso,El Paso,Borderplex,45.0,2023-07-28,-6.0,False
@@ -1552,25 +1552,25 @@ notice_date,month,year,employer,organization,sector,city,county,wda,layoffs,layo
 2023-08-17,2023-08,2023,"Wayforth, LLC (Houston)",Wayforth,Other / unclassified,Houston,Harris,Gulf Coast,16.0,2023-08-18,1.0,False
 2023-08-18,2023-08,2023,"S&B Plant Services, LTD. (Deer Park)",S&B Plant Services,Manufacturing,Deer Park,Harris,Gulf Coast,163.0,2023-10-02,45.0,False
 2023-08-18,2023-08,2023,"S&B Plant Services, LTD (Pasadena)",S&B Plant Services,Manufacturing,Pasadena,Harris,Gulf Coast,32.0,2023-10-02,45.0,False
-2023-08-18,2023-08,2023,"Appfolio, Inc.",Appfolio,Other / unclassified,Richardson,Dallas,Dallas County,38.0,2023-11-15,89.0,False
 2023-08-18,2023-08,2023,"S&B Plant Service, LTD (La Porte)",S&B Plant Service,Manufacturing,La Porte,Harris,Gulf Coast,3.0,2023-10-02,45.0,False
+2023-08-18,2023-08,2023,"Appfolio, Inc.",Appfolio,Other / unclassified,Richardson,Dallas,Dallas County,38.0,2023-11-15,89.0,False
 2023-08-23,2023-08,2023,CVS Health (Richardson),CVS Health,Healthcare,Richardson,Dallas,Dallas County,167.0,2023-10-21,59.0,False
 2023-08-23,2023-08,2023,Harland Clarke Corp,Harland Clarke,Other / unclassified,Grapevine,Tarrant,Tarrant County,130.0,2023-12-01,100.0,False
 2023-08-24,2023-08,2023,VSPOne Dallas,VSPOne Dallas,Other / unclassified,Lewisville,Denton,North Central Texas,15.0,2023-10-26,63.0,False
 2023-08-25,2023-08,2023,Carling Technologies,Carling Technologies,"Tech, telecom & BPO",Brownsville,Cameron,Cameron County,83.0,2023-11-03,70.0,False
-2023-08-29,2023-08,2023,Freedom Graphic Systems Inc.,Freedom Graphic Systems,"Tech, telecom & BPO",Grand Prairie,Dallas,Dallas County,59.0,2023-11-17,80.0,False
 2023-08-29,2023-08,2023,Holiday Inn Club Vacations-Pantego,Holiday Inn Club Vacations,Hotels & leisure,Pantego,Tarrant,Tarrant County,56.0,2023-10-27,59.0,False
+2023-08-29,2023-08,2023,Freedom Graphic Systems Inc.,Freedom Graphic Systems,"Tech, telecom & BPO",Grand Prairie,Dallas,Dallas County,59.0,2023-11-17,80.0,False
 2023-08-31,2023-08,2023,"GXO Logistics of Texas Supply Chain, Inc",GXO Logistics of Texas Supply Chain,Transportation & logistics,Wilmer,Dallas,Dallas County,92.0,2023-10-31,61.0,False
 2023-09-07,2023-09,2023,ED Tucker Powersports,ED Tucker Powersports,Other / unclassified,Fort Worth,Tarrant,Tarrant County,165.0,2023-10-30,53.0,False
 2023-09-08,2023-09,2023,Watts Regulators Co.,Watts Regulators,Other / unclassified,San Antonio,Bexar,Alamo,31.0,2023-11-06,59.0,False
 2023-09-12,2023-09,2023,Raytheon Technologies,Raytheon Technologies,"Tech, telecom & BPO",Dallas,Dallas,Dallas County,27.0,2023-09-11,-1.0,False
-2023-09-18,2023-09,2023,Aramark Christus Children's Hospital,Aramark,Restaurants & bars,San Antonio,Bexar,Alamo,71.0,2023-10-31,43.0,False
-2023-09-18,2023-09,2023,Aramark Christus Santa Rosa Westover Hills,Aramark,Restaurants & bars,San Antonio,Bexar,Alamo,73.0,2023-10-31,43.0,False
-2023-09-18,2023-09,2023,Aramark Christus Hospital St.Elizabeth,Aramark,Restaurants & bars,Beaumont,Jefferson,South East Texas,87.0,2023-10-31,43.0,False
-2023-09-18,2023-09,2023,Aramark @Trinity Mother Frances Hospital,Aramark,Restaurants & bars,Tyler,Smith,East Texas,163.0,2023-10-31,43.0,False
-2023-09-18,2023-09,2023,Aramark @ Christus Good Shepard Medical Center,Aramark,Restaurants & bars,Longview,Gregg,East Texas,97.0,2023-10-31,43.0,False
 2023-09-18,2023-09,2023,Aramark Christus Spohn Shoreline,Aramark,Restaurants & bars,Corpus Christi,Nueces,Coastal Bend,116.0,2023-10-31,43.0,False
+2023-09-18,2023-09,2023,Aramark @ Christus Good Shepard Medical Center,Aramark,Restaurants & bars,Longview,Gregg,East Texas,97.0,2023-10-31,43.0,False
 2023-09-18,2023-09,2023,Aramark Christus St. Michael HospitL,Aramark,Restaurants & bars,Texarkana,Bowie,North East Texas,87.0,2023-10-31,43.0,False
+2023-09-18,2023-09,2023,Aramark Christus Hospital St.Elizabeth,Aramark,Restaurants & bars,Beaumont,Jefferson,South East Texas,87.0,2023-10-31,43.0,False
+2023-09-18,2023-09,2023,Aramark Christus Santa Rosa Westover Hills,Aramark,Restaurants & bars,San Antonio,Bexar,Alamo,73.0,2023-10-31,43.0,False
+2023-09-18,2023-09,2023,Aramark Christus Children's Hospital,Aramark,Restaurants & bars,San Antonio,Bexar,Alamo,71.0,2023-10-31,43.0,False
+2023-09-18,2023-09,2023,Aramark @Trinity Mother Frances Hospital,Aramark,Restaurants & bars,Tyler,Smith,East Texas,163.0,2023-10-31,43.0,False
 2023-09-19,2023-09,2023,Compass United,Compass United,Other / unclassified,San Antonio,Bexar,Alamo,104.0,2023-10-29,40.0,False
 2023-09-19,2023-09,2023,Off Lease LLC,Off Lease,Other / unclassified,Katy,Harris,Gulf Coast,103.0,2023-09-07,-12.0,False
 2023-09-21,2023-09,2023,Owens-Brockway Glass Container Inc.,Owens,Other / unclassified,Waco,Mclennan,Heart of Texas,300.0,2023-10-16,25.0,False
@@ -1579,9 +1579,9 @@ notice_date,month,year,employer,organization,sector,city,county,wda,layoffs,layo
 2023-10-06,2023-10,2023,Invista-Nylon Chemicals Americas,Invista,Manufacturing,Orange,Orange,South East Texas,239.0,2023-10-27,21.0,False
 2023-10-09,2023-10,2023,"Reata Pharmaceuticals, Inc.(Legacy)",Reata Pharmaceuticals,Healthcare,Plano,Collin,North Central Texas,113.0,2023-11-27,49.0,False
 2023-10-09,2023-10,2023,L3Harris Technologies,L3Harris Technologies,"Tech, telecom & BPO",Rockwall,Rockwall,North Central Texas,268.0,2023-11-30,52.0,False
+2023-10-09,2023-10,2023,Fluor Enterprises-M&G Jumbo Project,Fluor,Business & professional services,Corpus Ch,Nueces,Coastal Bend,66.0,2023-09-28,-11.0,False
 2023-10-09,2023-10,2023,American Medical Response (Fort Worth#2),American Medical Response,Healthcare,Fort Worth,Tarrant,Tarrant County,156.0,2023-09-03,-36.0,False
 2023-10-09,2023-10,2023,Raytheon Technologies,Raytheon Technologies,"Tech, telecom & BPO",Dallas,Dallas,Dallas County,38.0,2023-12-08,60.0,False
-2023-10-09,2023-10,2023,Fluor Enterprises-M&G Jumbo Project,Fluor,Business & professional services,Corpus Ch,Nueces,Coastal Bend,66.0,2023-09-28,-11.0,False
 2023-10-10,2023-10,2023,Accenture LLP (Austin),Accenture,"Tech, telecom & BPO",Austin,Travis,Capital Area,351.0,2023-12-08,59.0,False
 2023-10-10,2023-10,2023,"Mittera Group, Inc.",Mittera,Other / unclassified,Carrollton,Dallas,Dallas County,136.0,2023-12-09,60.0,False
 2023-10-12,2023-10,2023,LegalZoom.com,LegalZoom.com,Other / unclassified,Austin,Williamson,Rural Capital,122.0,2023-12-15,64.0,False
@@ -1606,24 +1606,24 @@ notice_date,month,year,employer,organization,sector,city,county,wda,layoffs,layo
 2023-10-26,2023-10,2023,Cygnus Home Services LLC. (San Angelo),Cygnus Home Services,Business & professional services,San Angelo,Tom Green,Concho Valley,5.0,2023-12-15,50.0,False
 2023-10-26,2023-10,2023,Cygnus Home Services LLC. (Round Rock),Cygnus Home Services,Business & professional services,Round Rock,Williamson,Rural Capital,11.0,2023-10-26,0.0,False
 2023-10-26,2023-10,2023,Cygnus Home Services LLC. (Pampa),Cygnus Home Services,Business & professional services,Pampa,Gray,Panhandle,7.0,2023-12-15,50.0,False
-2023-10-26,2023-10,2023,Cygnus Home Services LLC. (Sherman),Cygnus Home Services,Business & professional services,Sherman,Grayson,Texoma,7.0,2023-12-15,50.0,False
 2023-10-26,2023-10,2023,Cygnus Home Services LLC. (Odessa),Cygnus Home Services,Business & professional services,Odessa,Ector,Permian Basin,8.0,2023-10-26,0.0,False
+2023-10-26,2023-10,2023,Cygnus Home Services LLC. (Nacogdoches),Cygnus Home Services,Business & professional services,Nacogdoches,Nacogdoches,Deep East Texas,8.0,2023-12-15,50.0,False
 2023-10-26,2023-10,2023,Cygnus Home Services LLC. (Lubbock),Cygnus Home Services,Business & professional services,Lubbock,Lubbock,South Plains,8.0,2023-12-15,50.0,False
 2023-10-26,2023-10,2023,Cygnus Home Service LLC. (Houston),Cygnus Home Service,Other / unclassified,Houston,Harris,Gulf Coast,13.0,2023-12-15,50.0,False
 2023-10-26,2023-10,2023,Cygnus Home Service LLC (Alvin),Cygnus Home Service,Other / unclassified,Alvin,Brazoria,Gulf Coast,6.0,2023-12-15,50.0,False
 2023-10-26,2023-10,2023,Cygnus Home Service LLC. (Conroe),Cygnus Home Service,Other / unclassified,Conroe,Montgomery,Gulf Coast,9.0,2023-12-15,50.0,False
 2023-10-26,2023-10,2023,Cygnus Home Services LLC. (Mt. Pleasant),Cygnus Home Services,Business & professional services,Mt Pleasant,Titus,North East Texas,10.0,2023-12-15,50.0,False
-2023-10-26,2023-10,2023,Cygnus Home Services LLC. (Nacogdoches),Cygnus Home Services,Business & professional services,Nacogdoches,Nacogdoches,Deep East Texas,8.0,2023-12-15,50.0,False
-2023-10-31,2023-10,2023,Builders FirstSource (Grandview),Builders FirstSource,Other / unclassified,Grandview,Johnson,North Central Texas,76.0,2023-12-30,60.0,False
+2023-10-26,2023-10,2023,Cygnus Home Services LLC. (Sherman),Cygnus Home Services,Business & professional services,Sherman,Grayson,Texoma,7.0,2023-12-15,50.0,False
 2023-10-31,2023-10,2023,PVA Medical Center,PVA Medical Center,Healthcare,San Antonio,Bexar,Alamo,10.0,2023-12-04,34.0,False
 2023-10-31,2023-10,2023,PVA Downtown,PVA Downtown,Other / unclassified,San Antonio,Bexar,Alamo,20.0,2023-12-04,34.0,False
+2023-10-31,2023-10,2023,Builders FirstSource (Grandview),Builders FirstSource,Other / unclassified,Grandview,Johnson,North Central Texas,76.0,2023-12-30,60.0,False
 2023-11-06,2023-11,2023,Raytheon Technologies,Raytheon Technologies,"Tech, telecom & BPO",Dallas,Dallas,Dallas County,34.0,2023-01-05,-305.0,False
 2023-11-06,2023-11,2023,Walmart #1258,Walmart,Retail,Fort Worth,Tarrant,Tarrant County,363.0,2023-02-09,-270.0,False
+2023-11-08,2023-11,2023,CVS Health (Richardson),CVS Health,Healthcare,Richardson,Dallas,Dallas County,2.0,2023-12-31,53.0,False
+2023-11-08,2023-11,2023,CVS Health (Irving),CVS Health,Healthcare,Irving,Dallas,Dallas County,2.0,2023-12-30,52.0,False
 2023-11-08,2023-11,2023,Whole Food Market (Midtown Houston),Whole Food Market,Other / unclassified,Houston,Harris,Gulf Coast,110.0,2023-12-05,27.0,False
 2023-11-08,2023-11,2023,10 Roads Express LLC.,10 Roads Express,Other / unclassified,Fort Worth,Tarrant,Tarrant County,66.0,2023-10-16,-23.0,False
 2023-11-08,2023-11,2023,CMA CGM (America) LLC,Cma Cgm,Other / unclassified,Dallas,Tarrant,Tarrant County,64.0,2023-12-12,34.0,False
-2023-11-08,2023-11,2023,CVS Health (Irving),CVS Health,Healthcare,Irving,Dallas,Dallas County,2.0,2023-12-30,52.0,False
-2023-11-08,2023-11,2023,CVS Health (Richardson),CVS Health,Healthcare,Richardson,Dallas,Dallas County,2.0,2023-12-31,53.0,False
 2023-11-10,2023-11,2023,Hyliion Inc,Hyliion,Other / unclassified,Cedar Park,Williamson,Rural Capital,150.0,2023-11-08,-2.0,False
 2023-11-13,2023-11,2023,ADT Solar (Dallas),ADT Solar,Other / unclassified,Dallas,Dallas,Dallas County,53.0,2023-11-10,-3.0,False
 2023-11-27,2023-11,2023,Bandier Texas LLC.,Bandier,Other / unclassified,Dallas,Dallas,Dallas County,9.0,2023-11-22,-5.0,False
@@ -1631,18 +1631,18 @@ notice_date,month,year,employer,organization,sector,city,county,wda,layoffs,layo
 2023-11-27,2023-11,2023,Cognizant Technology Solutions (Riata),Cognizant,"Tech, telecom & BPO",Austin,Travis,Capital Area,65.0,2023-12-08,11.0,False
 2023-11-27,2023-11,2023,Covenant Aviation Security (Hobby Airport),Covenant Aviation Security,Airlines & aviation,Houston,Harris,Gulf Coast,39.0,2023-12-06,9.0,False
 2023-12-01,2023-12,2023,Vmware Inc. River Place),Vmware Inc. River Place),"Tech, telecom & BPO",Austin,Travis,Capital Area,577.0,2024-01-26,56.0,False
-2023-12-04,2023-12,2023,"Matheson Flight Extenders, Inc.",Matheson Flight Extenders,Other / unclassified,Grapevine,Tarrant,Tarrant County,92.0,2024-01-31,58.0,False
 2023-12-04,2023-12,2023,Granite Peak Fabrication,Granite Peak Fabrication,Manufacturing,Midland,Midland,Permian Basin,89.0,2024-02-02,60.0,False
-2023-12-04,2023-12,2023,DHL Supply Chain - Sugar Land,DHL,Transportation & logistics,Sugar Land,Fort Bend,Gulf Coast,10.0,2024-01-31,58.0,False
+2023-12-04,2023-12,2023,"Matheson Flight Extenders, Inc.",Matheson Flight Extenders,Other / unclassified,Grapevine,Tarrant,Tarrant County,92.0,2024-01-31,58.0,False
 2023-12-04,2023-12,2023,DHL Supply Chain - Missouri City,DHL,Transportation & logistics,Missouri City,Fort Bend,Gulf Coast,50.0,2023-12-04,0.0,False
+2023-12-04,2023-12,2023,DHL Supply Chain - Sugar Land,DHL,Transportation & logistics,Sugar Land,Fort Bend,Gulf Coast,10.0,2024-01-31,58.0,False
 2023-12-07,2023-12,2023,Masonite Coorporation,Masonite Coorporation,Manufacturing,Greenville,Hunt,North Central Texas,75.0,2023-12-06,-1.0,False
 2023-12-11,2023-12,2023,The International Paper Company Sabine Railroad,The International Paper Company Sabine Railroad,Manufacturing,Orange,Orange,South East Texas,12.0,2024-02-06,57.0,False
 2023-12-18,2023-12,2023,Custom Ink,Custom Ink,Retail,Flower Mound,Denton,North Central Texas,256.0,2023-12-15,-3.0,False
 2024-01-04,2024-01,2024,Randalls #2490,Randalls #2490,Other / unclassified,Austin,Travis,Capital Area,76.0,2024-02-10,37.0,False
 2024-01-05,2024-01,2024,Genpact US Services LLC,Genpact US Services,"Tech, telecom & BPO",Richardson,Collin,North Central Texas,365.0,2024-02-28,54.0,False
 2024-01-05,2024-01,2024,Technica Corporation,Technica,"Tech, telecom & BPO",San Antonio,Bexar,Alamo,60.0,2024-02-15,41.0,False
-2024-01-08,2024-01,2024,Masonite Corporation (Greenville),Masonite,Manufacturing,Greenville,Hunt,North Central Texas,75.0,2023-12-06,-33.0,False
 2024-01-08,2024-01,2024,"Packers Sanitation Services, Inc. (PSSI) Friona",Packers Sanitation Services,Business & professional services,Friona,Parmer,Panhandle,103.0,2024-01-11,3.0,False
+2024-01-08,2024-01,2024,Masonite Corporation (Greenville),Masonite,Manufacturing,Greenville,Hunt,North Central Texas,75.0,2023-12-06,-33.0,False
 2024-01-09,2024-01,2024,Tom Thumb Store #3854,Tom Thumb Store #3854,Retail,Grapevine,Tarrant,Tarrant County,71.0,2024-02-17,39.0,False
 2024-01-09,2024-01,2024,"ABM Industries, Inc. Flowers Baking Company","ABM Industries, Inc. Flowers Baking",Retail,San Antonio,Bexar,Alamo,176.0,2024-03-02,53.0,False
 2024-01-12,2024-01,2024,Unity Technologies-Austin,Unity Technologies,"Tech, telecom & BPO",Austin,Travis,Capital Area,92.0,2024-01-09,-3.0,False
@@ -1667,8 +1667,8 @@ notice_date,month,year,employer,organization,sector,city,county,wda,layoffs,layo
 2024-02-22,2024-02,2024,Rio Grande Valley Sugar Growers 2024,Rio Grande Valley Sugar Growers 2024,Other / unclassified,Santa Rosa,Cameron,Cameron County,435.0,2024-04-29,67.0,False
 2024-02-22,2024-02,2024,"Kasasa, LTD",Kasasa,Other / unclassified,Austin,Travis,Capital Area,59.0,2024-02-21,-1.0,False
 2024-02-23,2024-02,2024,Oldcastle Infrastructure,Oldcastle Infrastructure,Other / unclassified,Kennedale,Tarrant,Tarrant County,64.0,2024-04-22,59.0,False
-2024-02-26,2024-02,2024,Frontpoint LLC. (Primary Home Health Care),Frontpoint,Healthcare,Arlington,Tarrant,Tarrant County,53.0,2024-03-11,14.0,False
 2024-02-26,2024-02,2024,Daifuku Services America Corp.,Daifuku Services America,Business & professional services,Carrollton,Dallas,Dallas County,38.0,2024-04-22,56.0,False
+2024-02-26,2024-02,2024,Frontpoint LLC. (Primary Home Health Care),Frontpoint,Healthcare,Arlington,Tarrant,Tarrant County,53.0,2024-03-11,14.0,False
 2024-02-27,2024-02,2024,Expedia Group Inc. (Austin),Expedia,Other / unclassified,Austin,Travis,Capital Area,64.0,2024-05-01,64.0,False
 2024-02-29,2024-02,2024,Denbury Inc,Denbury,Other / unclassified,Plano,Collin,North Central Texas,111.0,2024-04-30,61.0,False
 2024-02-29,2024-02,2024,"Ironhorse Funding, LLC.",Ironhorse Funding,Other / unclassified,Irving,Dallas,Dallas County,9.0,2024-03-08,8.0,False
@@ -1686,21 +1686,21 @@ notice_date,month,year,employer,organization,sector,city,county,wda,layoffs,layo
 2024-04-04,2024-04,2024,"Rooster Teeth Productions, LLC II","Rooster Teeth Productions, LLC II",Other / unclassified,Austin,Travis,Capital Area,6.0,2024-06-08,65.0,False
 2024-04-16,2024-04,2024,Kohler Co.,Kohler,Other / unclassified,Brownwood,Brown,West Central,93.0,2024-06-14,59.0,False
 2024-04-17,2024-04,2024,Joyson Safety Systems,Joyson Safety Systems,"Tech, telecom & BPO",San Antonio,Bexar,Alamo,108.0,2024-06-01,45.0,False
-2024-04-23,2024-04,2024,Expedia Group Inc. (Austin),Expedia,Other / unclassified,Austin,Travis,Capital Area,84.0,2024-06-21,59.0,False
 2024-04-23,2024-04,2024,Tesla,Tesla,Manufacturing,Austin,Travis,Capital Area,2688.0,2024-04-19,-4.0,False
+2024-04-23,2024-04,2024,Expedia Group Inc. (Austin),Expedia,Other / unclassified,Austin,Travis,Capital Area,84.0,2024-06-21,59.0,False
 2024-04-25,2024-04,2024,"Soil Organic, Inc.",Soil Organic,Energy & oilfield,Rice,Navarro,North Central Texas,61.0,2024-09-13,141.0,False
 2024-04-30,2024-04,2024,"Arnold Transportation Services, Inc",Arnold Transportation Services,Transportation & logistics,Grand Prairie,Dallas,Dallas County,157.0,2024-04-30,0.0,False
-2024-05-02,2024-05,2024,Baylor Scott & White Institute for Rehabilitation-Home Health,Baylor Scott & White,Healthcare,Flower Mound,Denton,North Central Texas,81.0,2024-06-30,59.0,False
-2024-05-02,2024-05,2024,Select Specialty Hospital Longview-Select Medical Corporation,Select Specialty Hospital Longview,Healthcare,Longview,Gregg,East Texas,94.0,2024-06-30,59.0,False
-2024-05-02,2024-05,2024,TATA Consultancy Services Limited 2024,TATA Consultancy Services Limited 2024,Business & professional services,Irving,Dallas,Dallas County,94.0,2024-05-06,4.0,False
-2024-05-02,2024-05,2024,"Careismatic Brands, Inc.",Careismatic Brands,Manufacturing,Dallas,Dallas,Dallas County,202.0,2024-05-31,29.0,False
-2024-05-02,2024-05,2024,Aramark Baylor (2100 River Street),Aramark,Restaurants & bars,Waco,Mclennan,Heart of Texas,64.0,2024-05-31,29.0,False
-2024-05-02,2024-05,2024,Denbury Inc.,Denbury,Other / unclassified,Plano,Collin,North Central Texas,3.0,2024-06-30,59.0,False
 2024-05-02,2024-05,2024,GoldStar Transit(Robinson Independent School District),GoldStar Transit,Transportation & logistics,Robinson,Mclennan,Heart of Texas,500.0,2024-06-01,30.0,False
-2024-05-02,2024-05,2024,Westlake Royal Building Products,Westlake Royal Building Products,Other / unclassified,Carrollton,Dallas,Dallas County,260.0,2024-05-04,2.0,False
-2024-05-02,2024-05,2024,Aramark Baylor(1919 S.First Street),Aramark,Restaurants & bars,Waco,Mclennan,Heart of Texas,691.0,2024-05-31,29.0,False
-2024-05-02,2024-05,2024,TATA Consultancy Services Limited 2024(Austin),TATA Consultancy Services Limited 2024,Business & professional services,Austin,Williamson,Rural Capital,21.0,2024-04-15,-17.0,False
 2024-05-02,2024-05,2024,E4D Technologies,E4D Technologies,"Tech, telecom & BPO",Richardson,Collin,North Central Texas,67.0,2024-05-01,-1.0,False
+2024-05-02,2024-05,2024,TATA Consultancy Services Limited 2024(Austin),TATA Consultancy Services Limited 2024,Business & professional services,Austin,Williamson,Rural Capital,21.0,2024-04-15,-17.0,False
+2024-05-02,2024-05,2024,Aramark Baylor(1919 S.First Street),Aramark,Restaurants & bars,Waco,Mclennan,Heart of Texas,691.0,2024-05-31,29.0,False
+2024-05-02,2024-05,2024,Westlake Royal Building Products,Westlake Royal Building Products,Other / unclassified,Carrollton,Dallas,Dallas County,260.0,2024-05-04,2.0,False
+2024-05-02,2024-05,2024,Denbury Inc.,Denbury,Other / unclassified,Plano,Collin,North Central Texas,3.0,2024-06-30,59.0,False
+2024-05-02,2024-05,2024,Aramark Baylor (2100 River Street),Aramark,Restaurants & bars,Waco,Mclennan,Heart of Texas,64.0,2024-05-31,29.0,False
+2024-05-02,2024-05,2024,"Careismatic Brands, Inc.",Careismatic Brands,Manufacturing,Dallas,Dallas,Dallas County,202.0,2024-05-31,29.0,False
+2024-05-02,2024-05,2024,TATA Consultancy Services Limited 2024,TATA Consultancy Services Limited 2024,Business & professional services,Irving,Dallas,Dallas County,94.0,2024-05-06,4.0,False
+2024-05-02,2024-05,2024,Select Specialty Hospital Longview-Select Medical Corporation,Select Specialty Hospital Longview,Healthcare,Longview,Gregg,East Texas,94.0,2024-06-30,59.0,False
+2024-05-02,2024-05,2024,Baylor Scott & White Institute for Rehabilitation-Home Health,Baylor Scott & White,Healthcare,Flower Mound,Denton,North Central Texas,81.0,2024-06-30,59.0,False
 2024-05-03,2024-05,2024,Allied Universal Security Services (Wadsworth),Allied Universal Security Services,Business & professional services,Wadsworth,Matagorda,Gulf Coast,173.0,2024-06-03,31.0,False
 2024-05-07,2024-05,2024,"Arkane Studios, LLC.",Arkane Studios,Other / unclassified,Austin,Travis,Capital Area,96.0,2024-07-06,60.0,False
 2024-05-14,2024-05,2024,"Rarefied Atmosphere, Inc",Rarefied Atmosphere,Other / unclassified,Austin,Travis,Capital Area,106.0,2024-07-12,59.0,False
@@ -1713,48 +1713,48 @@ notice_date,month,year,employer,organization,sector,city,county,wda,layoffs,layo
 2024-05-31,2024-05,2024,Southwest Airlines (Terminal Rd),Southwest Airlines,Airlines & aviation,Houston,Harris,Gulf Coast,97.0,2024-08-04,65.0,False
 2024-06-03,2024-06,2024,"Zachry Industrial, Inc. (Baytown)",Zachry,Energy & oilfield,Baytown,Harris,Gulf Coast,307.0,2024-05-21,-13.0,False
 2024-06-03,2024-06,2024,99 Cents Only Store LLC (Katy),99 Cents Only Store,Retail,Katy,Harris,Gulf Coast,20.0,2024-06-03,0.0,False
-2024-06-03,2024-06,2024,99 Cents Only Store LLC (El Paso),99 Cents Only Store,Retail,El Paso,El Paso,Borderplex,20.0,2024-06-03,0.0,False
 2024-06-03,2024-06,2024,99 Cents Only Store LLC. (Conroe),99 Cents Only Store,Retail,Conroe,Montgomery,Gulf Coast,20.0,2024-06-03,0.0,False
-2024-06-03,2024-06,2024,"Zachry Industrial, Inc.(Orange)",Zachry,Energy & oilfield,Orange,Orange,South East Texas,16.0,2024-05-21,-13.0,False
+2024-06-03,2024-06,2024,99 Cents Only Store LLC (El Paso),99 Cents Only Store,Retail,El Paso,El Paso,Borderplex,20.0,2024-06-03,0.0,False
 2024-06-03,2024-06,2024,"Zachry Industrial, Inc.(Beaumont)",Zachry,Energy & oilfield,Beaumont,Jefferson,South East Texas,15.0,2024-05-21,-13.0,False
 2024-06-03,2024-06,2024,"Zachry Industrial, Inc. (Sabine Pass)",Zachry,Energy & oilfield,Sabine Pass,Jefferson,South East Texas,4072.0,2024-05-21,-13.0,False
+2024-06-03,2024-06,2024,"Zachry Industrial, Inc.(Orange)",Zachry,Energy & oilfield,Orange,Orange,South East Texas,16.0,2024-05-21,-13.0,False
+2024-06-04,2024-06,2024,99 Cents Only Store LLC (State Hwy 249),99 Cents Only Store,Retail,Houston,Harris,Gulf Coast,20.0,2024-06-03,-1.0,False
 2024-06-04,2024-06,2024,99 Cents Only Store LLC (Almeda Genoa),99 Cents Only Store,Retail,Houston,Harris,Gulf Coast,20.0,2024-06-03,-1.0,False
 2024-06-04,2024-06,2024,99 Cents Only Store LLC (Bissonet),99 Cents Only Store,Retail,Houston,Harris,Gulf Coast,20.0,2024-06-03,-1.0,False
 2024-06-04,2024-06,2024,99 Cents Only Store LLC (North Freeway),99 Cents Only Store,Retail,Houston,Harris,Gulf Coast,20.0,2024-06-03,-1.0,False
 2024-06-04,2024-06,2024,99 Cents Only Store LLC (Gessner),99 Cents Only Store,Retail,Houston,Harris,Gulf Coast,20.0,2024-06-04,0.0,False
-2024-06-04,2024-06,2024,99 Cents Only Store LLC (State Hwy 249),99 Cents Only Store,Retail,Houston,Harris,Gulf Coast,20.0,2024-06-03,-1.0,False
-2024-06-04,2024-06,2024,99 Cents Only Store LLC (Pasadena),99 Cents Only Store,Retail,Pasadena,Harris,Gulf Coast,20.0,2024-06-03,-1.0,False
-2024-06-04,2024-06,2024,99 Cents Only Store LLC (Jones Road),99 Cents Only Store,Retail,Houston,Harris,Gulf Coast,20.0,2024-06-03,-1.0,False
+2024-06-04,2024-06,2024,99 Cents Only Store LLC (Sam Houston Pkwy),99 Cents Only Store,Retail,Houston,Harris,Gulf Coast,20.0,2024-06-03,-1.0,False
+2024-06-04,2024-06,2024,99 Cents Only Store LLC (Westheimer #1),99 Cents Only Store,Retail,Houston,Harris,Gulf Coast,20.0,2024-06-03,-1.0,False
 2024-06-04,2024-06,2024,99 Cents Only Store LLC (Westheimer #2),99 Cents Only Store,Retail,Houston,Harris,Gulf Coast,20.0,2024-06-03,-1.0,False
 2024-06-04,2024-06,2024,99 Cents Only Store LLC (Bellaire),99 Cents Only Store,Retail,Houston,Harris,Gulf Coast,20.0,2024-06-03,-1.0,False
 2024-06-04,2024-06,2024,99 Cents Only Store LLC (Lawndale),99 Cents Only Store,Retail,Houston,Harris,Gulf Coast,20.0,2024-06-03,-1.0,False
 2024-06-04,2024-06,2024,99 Cents Only Store LLC (Easttex Frwy),99 Cents Only Store,Retail,Houston,Harris,Gulf Coast,20.0,2024-06-03,-1.0,False
-2024-06-04,2024-06,2024,99 Cents Only Store LLC (Westheimer #1),99 Cents Only Store,Retail,Houston,Harris,Gulf Coast,20.0,2024-06-03,-1.0,False
 2024-06-04,2024-06,2024,99 Cents Only Store LLC (Harlingen),99 Cents Only Store,Retail,Harlingen,Cameron,Cameron County,20.0,2024-06-03,-1.0,False
-2024-06-04,2024-06,2024,99 Cents Only Store LLC (N. Highway 6),99 Cents Only Store,Retail,Houston,Harris,Gulf Coast,20.0,2024-06-03,-1.0,False
+2024-06-04,2024-06,2024,99 Cents Only Store LLC (Jones Road),99 Cents Only Store,Retail,Houston,Harris,Gulf Coast,20.0,2024-06-03,-1.0,False
+2024-06-04,2024-06,2024,99 Cents Only Store LLC (Pasadena),99 Cents Only Store,Retail,Pasadena,Harris,Gulf Coast,20.0,2024-06-03,-1.0,False
 2024-06-04,2024-06,2024,99 Cents Only Store LLC (FM 1960),99 Cents Only Store,Retail,Houston,Harris,Gulf Coast,20.0,2024-06-03,-1.0,False
-2024-06-04,2024-06,2024,99 Cents Only Store LLC (Sam Houston Pkwy),99 Cents Only Store,Retail,Houston,Harris,Gulf Coast,20.0,2024-06-03,-1.0,False
+2024-06-04,2024-06,2024,99 Cents Only Store LLC (N. Highway 6),99 Cents Only Store,Retail,Houston,Harris,Gulf Coast,20.0,2024-06-03,-1.0,False
 2024-06-04,2024-06,2024,99 Cents Only Store LLC (W. Greens Rd),99 Cents Only Store,Retail,Houston,Harris,Gulf Coast,20.0,2024-06-03,-1.0,False
 2024-06-04,2024-06,2024,99 Cents Only Store LLC (Stella Link),99 Cents Only Store,Retail,Houston,Harris,Gulf Coast,20.0,2024-06-03,-1.0,False
 2024-06-04,2024-06,2024,99 Cents Only Store LLC (WW. White),99 Cents Only Store,Retail,San Antonio,Bexar,Alamo,20.0,2024-06-03,-1.0,False
 2024-06-04,2024-06,2024,99 Cents Only Store LLC (Humble #2),99 Cents Only Store,Retail,Humble,Harris,Gulf Coast,20.0,2024-06-03,-1.0,False
 2024-06-04,2024-06,2024,99 Cents Only Store LLC (Humble),99 Cents Only Store,Retail,Humble,Harris,Gulf Coast,20.0,2024-06-03,-1.0,False
 2024-06-04,2024-06,2024,99 Cents Only Store LLC (Katy#2),99 Cents Only Store,Retail,Katy,Harris,Gulf Coast,20.0,2024-06-03,-1.0,False
-2024-06-04,2024-06,2024,99 Cents Only Store LLC (Walzem),99 Cents Only Store,Retail,San Antonio,Bexar,Alamo,20.0,2024-06-03,-1.0,False
-2024-06-04,2024-06,2024,99 Cents Only Store LLC (West Ave.),99 Cents Only Store,Retail,San Antonio,Bexar,Alamo,20.0,2024-06-03,-1.0,False
 2024-06-04,2024-06,2024,99 Cents Only Stores - San Antonio,99 Cents Only Stores,Retail,San Antonio,Bexar,Alamo,20.0,2024-06-03,-1.0,False
+2024-06-04,2024-06,2024,99 Cents Only Store LLC (West Ave.),99 Cents Only Store,Retail,San Antonio,Bexar,Alamo,20.0,2024-06-03,-1.0,False
+2024-06-04,2024-06,2024,99 Cents Only Store LLC (Mcallen),99 Cents Only Store,Retail,Mcallen,Hidalgo,Lower Rio Grande Valley,20.0,2024-06-03,-1.0,False
 2024-06-04,2024-06,2024,Kaiser Aluminum - Sherman,Kaiser Aluminum,Other / unclassified,Sherman,Grayson,Texoma,75.0,2024-07-11,37.0,False
 2024-06-04,2024-06,2024,99 Cents Only Store LLC (Waco),99 Cents Only Store,Retail,Waco,Mclennan,Heart of Texas,20.0,2024-06-03,-1.0,False
 2024-06-04,2024-06,2024,99 Cents Only Stores - Houston - 4,99 Cents Only Stores,Retail,Houston,Harris,Gulf Coast,20.0,2024-06-03,-1.0,False
 2024-06-04,2024-06,2024,99 Cents Only Store LLC (Callaghan Rd.),99 Cents Only Store,Retail,San Antonio,Bexar,Alamo,20.0,2024-06-03,-1.0,False
 2024-06-04,2024-06,2024,99 Cents Only Store LLC (Rosenberg),99 Cents Only Store,Retail,Rosenberg,Fort Bend,Gulf Coast,20.0,2024-06-03,-1.0,False
-2024-06-04,2024-06,2024,99 Cents Only Store LLC (Mcallen),99 Cents Only Store,Retail,Mcallen,Hidalgo,Lower Rio Grande Valley,20.0,2024-06-03,-1.0,False
+2024-06-04,2024-06,2024,99 Cents Only Store LLC (Walzem),99 Cents Only Store,Retail,San Antonio,Bexar,Alamo,20.0,2024-06-03,-1.0,False
 2024-06-10,2024-06,2024,"Intrepid U.S.A., Inc.",Intrepid U.S.A,Other / unclassified,Dallas,Dallas,Dallas County,102.0,2024-08-05,56.0,False
 2024-06-11,2024-06,2024,Hunter Douglas Fabrication Company (Custom Brands Group) Updated,Hunter Douglas Fabrication,Manufacturing,Mckinney,Collin,North Central Texas,53.0,2024-09-13,94.0,True
 2024-06-12,2024-06,2024,Coach USA (Kerrvile Bus Company),Coach,Transportation & logistics,San Antonio,Bexar,Alamo,50.0,2024-09-03,83.0,False
 2024-06-13,2024-06,2024,Target Hospitality (Dilley South Texas Family Residential Center),Target,Healthcare,Dilley,Frio,Alamo,95.0,2024-08-12,60.0,False
-2024-06-14,2024-06,2024,CoreCivic (South Texas Family Residential Center),CoreCivic,"Government, education & nonprofit",Dilley,Frio,Alamo,433.0,2024-08-13,60.0,False
 2024-06-14,2024-06,2024,Charter Communications (Austin),Charter Communications,"Tech, telecom & BPO",Austin,Travis,Capital Area,230.0,2024-08-15,62.0,False
+2024-06-14,2024-06,2024,CoreCivic (South Texas Family Residential Center),CoreCivic,"Government, education & nonprofit",Dilley,Frio,Alamo,433.0,2024-08-13,60.0,False
 2024-06-17,2024-06,2024,Compass Group / Fresh & Ready Foods,Compass Group,Restaurants & bars,Dallas,Dallas,Dallas County,65.0,2024-08-30,74.0,False
 2024-06-20,2024-06,2024,HII Mission Technologies (HII Defense and Federal Solutions),HII Mission Technologies,"Tech, telecom & BPO",San Antonio,Bexar,Alamo,57.0,2024-07-31,41.0,False
 2024-06-24,2024-06,2024,"Ardagh Glass Packaging, Inc.",Ardagh Glass Packaging,Manufacturing,Houston,Harris,Gulf Coast,220.0,2024-07-01,7.0,False
@@ -1765,58 +1765,58 @@ notice_date,month,year,employer,organization,sector,city,county,wda,layoffs,layo
 2024-06-30,2024-06,2024,"Zachry Industrial, Inc. (Baytown) Updated",Zachry,Energy & oilfield,Baytown,Chambers,Gulf Coast,28.0,2024-08-31,62.0,True
 2024-06-30,2024-06,2024,"Zachry Industrial, Inc. (Sabine Pass) Updated",Zachry,Energy & oilfield,Sabine Pass,Jefferson,South East Texas,33.0,2024-08-31,62.0,True
 2024-07-03,2024-07,2024,"ISS Action, Inc.",ISS Action,Other / unclassified,Harlingen,Cameron,Cameron County,197.0,2024-08-31,59.0,False
-2024-07-05,2024-07,2024,ShipBob Inc. (Grapevine),ShipBob,Other / unclassified,Grapevine,Dallas,Dallas County,48.0,2024-09-19,76.0,False
 2024-07-05,2024-07,2024,ShipBob Inc. (Dallas Hub),ShipBob,Other / unclassified,Dallas,Dallas,Dallas County,3.0,2024-09-19,76.0,False
+2024-07-05,2024-07,2024,ShipBob Inc. (Grapevine),ShipBob,Other / unclassified,Grapevine,Dallas,Dallas County,48.0,2024-09-19,76.0,False
+2024-07-17,2024-07,2024,DHL Supply Chain (Carrollton),DHL,Transportation & logistics,Carrollton,Dallas,Dallas County,104.0,2024-09-14,59.0,False
 2024-07-17,2024-07,2024,Vectrus Systems Corporation(V2X) Sheppard Air Force Base,Vectrus Systems,"Tech, telecom & BPO",Wichita Falls,Archer,North Texas,123.0,2024-09-30,75.0,False
 2024-07-17,2024-07,2024,"RXO Last Mile, Inc. (Greens Parkway)",RXO Last Mile,Other / unclassified,Houston,Harris,Gulf Coast,27.0,2024-09-16,61.0,False
-2024-07-17,2024-07,2024,DHL Supply Chain (Carrollton),DHL,Transportation & logistics,Carrollton,Dallas,Dallas County,104.0,2024-09-14,59.0,False
-2024-07-18,2024-07,2024,Master WoodCraft Cabinetry (Marshall),Master WoodCraft Cabinetry,Other / unclassified,Marshall,Harrison,East Texas,298.0,2024-09-13,57.0,False
-2024-07-18,2024-07,2024,Golden Pass LNG Export Terminal (Sunbelt Rentals),Golden Pass LNG Export Terminal,Energy & oilfield,Port Arthur,Jefferson,South East Texas,277.0,2024-05-21,-58.0,False
 2024-07-18,2024-07,2024,Master WoodCraft Cabinetry (Jefferson),Master WoodCraft Cabinetry,Other / unclassified,Jefferson,Marion,East Texas,76.0,2024-09-13,57.0,False
+2024-07-18,2024-07,2024,Golden Pass LNG Export Terminal (Sunbelt Rentals),Golden Pass LNG Export Terminal,Energy & oilfield,Port Arthur,Jefferson,South East Texas,277.0,2024-05-21,-58.0,False
+2024-07-18,2024-07,2024,Master WoodCraft Cabinetry (Marshall),Master WoodCraft Cabinetry,Other / unclassified,Marshall,Harrison,East Texas,298.0,2024-09-13,57.0,False
 2024-07-18,2024-07,2024,"STG International, Inc.",STG International,Other / unclassified,Dilley,Frio,Alamo,107.0,2024-07-31,13.0,False
-2024-07-23,2024-07,2024,Pitney Bowes Inc.(Austin),Pitney Bowes,Other / unclassified,Austin,Travis,Capital Area,12.0,2024-09-17,56.0,False
 2024-07-23,2024-07,2024,Pitney Bowes Inc.(Irving),Pitney Bowes,Other / unclassified,Irving,Dallas,Dallas County,2.0,2024-09-17,56.0,False
+2024-07-23,2024-07,2024,Pitney Bowes Inc.(Austin),Pitney Bowes,Other / unclassified,Austin,Travis,Capital Area,12.0,2024-09-17,56.0,False
 2024-07-25,2024-07,2024,"GEODIS Logistics, LLC (Casestack)",GEODIS,Transportation & logistics,Grand Prairie,Tarrant,Tarrant County,76.0,2024-09-17,54.0,False
 2024-07-25,2024-07,2024,Quality Custom Distribution,Quality Custom Distribution,Transportation & logistics,Schertz,Bexar,Alamo,57.0,2024-09-27,64.0,False
-2024-07-26,2024-07,2024,Holiday Inn Club Vacations Incorporated,Holiday Inn Club Vacations,Hotels & leisure,Galveston,Galveston,Gulf Coast,54.0,2024-07-29,3.0,False
 2024-07-26,2024-07,2024,"BIMBO Bakeries USA, Inc.",BIMBO Bakeries,Other / unclassified,San Antonio,Bexar,Alamo,138.0,2024-10-05,71.0,False
+2024-07-26,2024-07,2024,Holiday Inn Club Vacations Incorporated,Holiday Inn Club Vacations,Hotels & leisure,Galveston,Galveston,Gulf Coast,54.0,2024-07-29,3.0,False
 2024-07-29,2024-07,2024,SunPower Corporation (Waterford),SunPower,Other / unclassified,Austin,Travis,Capital Area,6.0,2024-09-24,57.0,False
 2024-08-01,2024-08,2024,Exxon Mobil (Big Lake),ExxonMobil,Energy & oilfield,Big Lake,Reagan,Concho Valley,2.0,2024-09-30,60.0,False
 2024-08-01,2024-08,2024,Exxon Mobile (Las Colinas Office),ExxonMobil,Energy & oilfield,Irving,Dallas,Dallas County,39.0,2024-09-30,60.0,False
+2024-08-05,2024-08,2024,Exxon Mobil (Midland #2),ExxonMobil,Energy & oilfield,Midland,Midland,Permian Basin,7.0,2024-09-30,56.0,False
 2024-08-05,2024-08,2024,Exxon Mobil (Midland #1),ExxonMobil,Energy & oilfield,Midland,Midland,Permian Basin,1.0,2024-09-30,56.0,False
 2024-08-05,2024-08,2024,Exxon Mobil (Midland #3),ExxonMobil,Energy & oilfield,Midland,Midland,Permian Basin,10.0,2024-09-30,56.0,False
-2024-08-05,2024-08,2024,Exxon Mobil (Midland #2),ExxonMobil,Energy & oilfield,Midland,Midland,Permian Basin,7.0,2024-09-30,56.0,False
 2024-08-06,2024-08,2024,MII Technologies (AOUSC),MII Technologies,"Tech, telecom & BPO",San Antonio,Bexar,Alamo,57.0,2024-10-31,86.0,False
 2024-08-07,2024-08,2024,Conn's Appliances (Beaumont Site),Conn's Appliances,Retail,Beaumont,Jefferson,South East Texas,32.0,2024-09-23,47.0,False
 2024-08-07,2024-08,2024,Conn's Appliances (Woodlands Site),Conn's Appliances,Retail,Beaumont,Jefferson,Gulf Coast,183.0,2024-09-23,47.0,False
-2024-08-07,2024-08,2024,The Gunter Hotel San Antonio,The Gunter Hotel San Antonio,Hotels & leisure,San Antonio,Bexar,Alamo,75.0,2024-10-01,55.0,False
 2024-08-07,2024-08,2024,"Fleco Industries, LLC",Fleco Industries,Manufacturing,Carrollton,Dallas,Dallas County,174.0,2024-09-29,53.0,False
+2024-08-07,2024-08,2024,The Gunter Hotel San Antonio,The Gunter Hotel San Antonio,Hotels & leisure,San Antonio,Bexar,Alamo,75.0,2024-10-01,55.0,False
 2024-08-07,2024-08,2024,Conn's Appliances (San Antonio),Conn's Appliances,Retail,San Antonio,Bexar,Alamo,36.0,2024-09-23,47.0,False
-2024-08-08,2024-08,2024,ABM Texas (TCC Northwest),ABM,Business & professional services,Fort Worth,Tarrant,Tarrant County,23.0,2024-08-31,23.0,False
-2024-08-08,2024-08,2024,Texas Children's Hosptal (Texas Medical Center),Texas Children's Hospital,Healthcare,Houston,Harris,Gulf Coast,997.0,2024-10-02,55.0,False
-2024-08-08,2024-08,2024,ABM Texas (TCC Trinity),ABM,Business & professional services,Fort Worth,Tarrant,Tarrant County,23.0,2024-08-31,23.0,False
-2024-08-08,2024-08,2024,ABM Texas (TCC Southeast),ABM,Business & professional services,Arlington,Tarrant,Tarrant County,23.0,2024-08-31,23.0,False
-2024-08-08,2024-08,2024,ABM Texas (TCC South),ABM,Business & professional services,Fort Worth,Tarrant,Tarrant County,23.0,2024-08-31,23.0,False
 2024-08-08,2024-08,2024,ABM Texas (TCC Northeast),ABM,Business & professional services,Hurst,Tarrant,Tarrant County,23.0,2024-08-31,23.0,False
+2024-08-08,2024-08,2024,ABM Texas (TCC South),ABM,Business & professional services,Fort Worth,Tarrant,Tarrant County,23.0,2024-08-31,23.0,False
+2024-08-08,2024-08,2024,ABM Texas (TCC Southeast),ABM,Business & professional services,Arlington,Tarrant,Tarrant County,23.0,2024-08-31,23.0,False
+2024-08-08,2024-08,2024,Seton Northwest Hospital,Seton Northwest Hospital,Healthcare,Austin,Travis,Capital Area,16.0,2024-10-01,54.0,False
+2024-08-08,2024-08,2024,ABM Texas (TCC Trinity),ABM,Business & professional services,Fort Worth,Tarrant,Tarrant County,23.0,2024-08-31,23.0,False
+2024-08-08,2024-08,2024,ABM Texas (TCC Northwest),ABM,Business & professional services,Fort Worth,Tarrant,Tarrant County,23.0,2024-08-31,23.0,False
+2024-08-08,2024-08,2024,Seton Highland Lakes Hospital,Seton Highland Lakes Hospital,Healthcare,Burnet,Burnet,Rural Capital,15.0,2024-10-01,54.0,False
+2024-08-08,2024-08,2024,Texas Children's Hosptal (Texas Medical Center),Texas Children's Hospital,Healthcare,Houston,Harris,Gulf Coast,997.0,2024-10-02,55.0,False
+2024-08-08,2024-08,2024,Seton Medical Center Williams,Seton Medical Center Williams,Healthcare,Round Rock,Williamson,Rural Capital,15.0,2024-10-01,54.0,False
 2024-08-08,2024-08,2024,Seton Medical Center,Seton Medical Center,Healthcare,Austin,Travis,Capital Area,15.0,2024-10-01,54.0,False
 2024-08-08,2024-08,2024,Seton Southwest Medical Center,Seton Southwest Medical Center,Healthcare,Austin,Travis,Capital Area,15.0,2024-10-01,54.0,False
-2024-08-08,2024-08,2024,Seton Northwest Hospital,Seton Northwest Hospital,Healthcare,Austin,Travis,Capital Area,16.0,2024-10-01,54.0,False
 2024-08-08,2024-08,2024,Seton Medical Center Hays,Seton Medical Center Hays,Healthcare,Kyle,Hays,Rural Capital,16.0,2024-10-01,54.0,False
-2024-08-08,2024-08,2024,Seton Medical Center Williams,Seton Medical Center Williams,Healthcare,Round Rock,Williamson,Rural Capital,15.0,2024-10-01,54.0,False
-2024-08-08,2024-08,2024,Seton Highland Lakes Hospital,Seton Highland Lakes Hospital,Healthcare,Burnet,Burnet,Rural Capital,15.0,2024-10-01,54.0,False
 2024-08-12,2024-08,2024,"Arbor E & T, LLC Equus Workforce Solutions Johnson City Satellite Office","Arbor E & T, LLC Equus Workforce Solutions Johnson City Satellite Office","Tech, telecom & BPO",Johnson City,Blanco,Rural Capital,1.0,2024-09-30,49.0,False
 2024-08-12,2024-08,2024,"Arbor E & T, LLC Equus Workforce Solutions Llano Satellite Office","Arbor E & T, LLC Equus Workforce Solutions Llano Satellite Office","Tech, telecom & BPO",Llano,Llano,Rural Capital,1.0,2024-09-30,49.0,False
-2024-08-12,2024-08,2024,Landshark Bar & Grill,Landshark Bar & Grill,Restaurants & bars,San Antonio,Bexar,Alamo,18.0,2024-08-17,5.0,False
 2024-08-12,2024-08,2024,"INVISTA (Orange) Nylon Chemicals Americas, LLC",Invista,Manufacturing,Orange,Orange,South East Texas,75.0,2024-09-16,35.0,False
 2024-08-12,2024-08,2024,"Arbor E & T, LLC Equus Workforce Solutions Taylor Satellite Office","Arbor E & T, LLC Equus Workforce Solutions Taylor Satellite Office","Tech, telecom & BPO",Taylor,Williamson,Rural Capital,1.0,2024-09-30,49.0,False
-2024-08-12,2024-08,2024,"Arbor E & T, LLC Equus Workforce Solutions Bastrop Office","Arbor E & T, LLC Equus Workforce Solutions Bastrop Office","Tech, telecom & BPO",Bastrop,Bastrop,Rural Capital,8.0,2024-09-30,49.0,False
 2024-08-12,2024-08,2024,"Arbor E & T, LLC Equus Workforce Solutions Bartlett Satellite Office","Arbor E & T, LLC Equus Workforce Solutions Bartlett Satellite Office","Tech, telecom & BPO",Bartlett,Williamson,Rural Capital,1.0,2024-09-30,49.0,False
+2024-08-12,2024-08,2024,"Arbor E & T, LLC Equus Workforce Solutions Bastrop Office","Arbor E & T, LLC Equus Workforce Solutions Bastrop Office","Tech, telecom & BPO",Bastrop,Bastrop,Rural Capital,8.0,2024-09-30,49.0,False
+2024-08-12,2024-08,2024,Landshark Bar & Grill,Landshark Bar & Grill,Restaurants & bars,San Antonio,Bexar,Alamo,18.0,2024-08-17,5.0,False
 2024-08-12,2024-08,2024,"Arbor E&T, LLC Equus Workforce Solutions Round Rock","Arbor E&T, LLC Equus Workforce Solutions Round Rock","Tech, telecom & BPO",Round Rock,Williamson,Rural Capital,26.0,2024-09-30,49.0,False
-2024-08-12,2024-08,2024,"Arbor E & T, LLC Equus Workforce Solutions San Marcos Office","Arbor E & T, LLC Equus Workforce Solutions San Marcos Office","Tech, telecom & BPO",San Marcos,Hays,Rural Capital,17.0,2024-09-30,49.0,False
-2024-08-12,2024-08,2024,"Arbor E & T, LLC Equus Workforce Solutions Lockhart Office","Arbor E & T, LLC Equus Workforce Solutions Lockhart Office","Tech, telecom & BPO",Lockhart,Caldwell,Rural Capital,3.0,2024-09-30,49.0,False
-2024-08-12,2024-08,2024,"Arbor E & T, LLC Equus Workforce Solutions Burnet","Arbor E & T, LLC Equus Workforce Solutions Burnet","Tech, telecom & BPO",Burnet,Burnet,Rural Capital,6.0,2024-09-30,49.0,False
 2024-08-12,2024-08,2024,"Arbor E & T, LLC Equus Workforce Solutions La Grange Office","Arbor E & T, LLC Equus Workforce Solutions La Grange Office","Tech, telecom & BPO",La Grange,Fayette,Rural Capital,1.0,2024-09-30,49.0,False
 2024-08-12,2024-08,2024,"Arbor E & T, LLC Equus Workforce Solutions Giddings Office","Arbor E & T, LLC Equus Workforce Solutions Giddings Office","Tech, telecom & BPO",Giddings,Lee,Rural Capital,3.0,2024-09-30,49.0,False
+2024-08-12,2024-08,2024,"Arbor E & T, LLC Equus Workforce Solutions Lockhart Office","Arbor E & T, LLC Equus Workforce Solutions Lockhart Office","Tech, telecom & BPO",Lockhart,Caldwell,Rural Capital,3.0,2024-09-30,49.0,False
+2024-08-12,2024-08,2024,"Arbor E & T, LLC Equus Workforce Solutions Burnet","Arbor E & T, LLC Equus Workforce Solutions Burnet","Tech, telecom & BPO",Burnet,Burnet,Rural Capital,6.0,2024-09-30,49.0,False
+2024-08-12,2024-08,2024,"Arbor E & T, LLC Equus Workforce Solutions San Marcos Office","Arbor E & T, LLC Equus Workforce Solutions San Marcos Office","Tech, telecom & BPO",San Marcos,Hays,Rural Capital,17.0,2024-09-30,49.0,False
 2024-08-14,2024-08,2024,Conn's HomePlus (Grand Prairie),Conn's HomePlus,Retail,Grand Prairie,Dallas,Dallas County,16.0,2024-10-07,54.0,False
 2024-08-21,2024-08,2024,VSPOne Dallas (VSP Optical Group),VSPOne Dallas,Other / unclassified,Lewisville,Denton,North Central Texas,69.0,2024-10-18,58.0,False
 2024-08-27,2024-08,2024,Callaway Golf Interactive Inc,Callaway Golf Interactive,Hotels & leisure,Austin,Travis,Capital Area,28.0,2024-10-28,62.0,False
@@ -1829,45 +1829,45 @@ notice_date,month,year,employer,organization,sector,city,county,wda,layoffs,layo
 2024-09-12,2024-09,2024,Southwest Key Program (Casa Trail House),Southwest Key Programs,"Government, education & nonprofit",El Paso,El Paso,Borderplex,666.0,2024-11-09,58.0,False
 2024-09-16,2024-09,2024,Laboratory Corporation of America Holdings,Laboratory Corporation of America,Other / unclassified,Houston,Harris,Gulf Coast,53.0,2024-11-22,67.0,False
 2024-09-19,2024-09,2024,Expedia Group Inc. (Austin),Expedia,Other / unclassified,Austin,Travis,Capital Area,57.0,2024-11-18,60.0,False
-2024-09-23,2024-09,2024,Cygnus Home Services LLC. (San Antonio) Yelloh,Cygnus Home Services,Business & professional services,San Antonio,Bexar,Alamo,11.0,2024-11-22,60.0,False
 2024-09-23,2024-09,2024,Cygnus Home Services LLC. (Lewisville) Yelloh,Cygnus Home Services,Business & professional services,Lewisville,Denton,North Central Texas,25.0,2024-11-22,60.0,False
-2024-10-10,2024-10,2024,"Jabil, Inc.",Jabil,Other / unclassified,Richardson,Collin,North Central Texas,136.0,2024-12-06,57.0,False
+2024-09-23,2024-09,2024,Cygnus Home Services LLC. (San Antonio) Yelloh,Cygnus Home Services,Business & professional services,San Antonio,Bexar,Alamo,11.0,2024-11-22,60.0,False
 2024-10-10,2024-10,2024,International Paper Company San Antonio,International Paper Company San Antonio,Manufacturing,San Antonio,Bexar,Alamo,89.0,2024-11-18,39.0,False
+2024-10-10,2024-10,2024,"Jabil, Inc.",Jabil,Other / unclassified,Richardson,Collin,North Central Texas,136.0,2024-12-06,57.0,False
 2024-10-16,2024-10,2024,MP2 Energy LLC (Shell Energy),Shell,Energy & oilfield,Houston,Harris,Gulf Coast,103.0,2024-12-13,58.0,False
 2024-10-16,2024-10,2024,"National Fire & Safety, Inc",National Fire & Safety,Other / unclassified,Dallas,Dallas,Dallas County,99.0,2024-12-16,61.0,False
 2024-10-16,2024-10,2024,Intel Corporation,Intel,"Tech, telecom & BPO",Austin,Travis,Capital Area,251.0,2024-11-15,30.0,False
 2024-10-22,2024-10,2024,DENNIS Uniform,DENNIS Uniform,Other / unclassified,Fort Worth,Tarrant,Tarrant County,139.0,2024-10-19,-3.0,False
-2024-10-23,2024-10,2024,"True Value Company, L.L.C.",True Value,Other / unclassified,Corsicana,Navarro,North Central Texas,107.0,2024-12-14,52.0,False
 2024-10-23,2024-10,2024,Wolfspeed,Wolfspeed,Other / unclassified,Farmers Branch,Dallas,Dallas County,73.0,2024-11-23,31.0,False
+2024-10-23,2024-10,2024,"True Value Company, L.L.C.",True Value,Other / unclassified,Corsicana,Navarro,North Central Texas,107.0,2024-12-14,52.0,False
 2024-10-24,2024-10,2024,Sodexo (Alcon Labs),Sodexo,Restaurants & bars,Fort Worth,Tarrant,Tarrant County,70.0,2024-12-24,61.0,False
-2024-10-29,2024-10,2024,DHL Supply Chain (Sugar Land 2024),DHL,Transportation & logistics,Sugar Land,Fort Bend,Gulf Coast,10.0,2025-01-13,76.0,False
 2024-10-29,2024-10,2024,DHL Supply Chain (Missouri City 2024),DHL,Transportation & logistics,Missouri City,Fort Bend,Gulf Coast,43.0,2025-01-13,76.0,False
 2024-10-29,2024-10,2024,Marathon Oil Corporation,Marathon Oil,Energy & oilfield,Houston,Harris,Gulf Coast,500.0,2024-05-28,-154.0,False
+2024-10-29,2024-10,2024,DHL Supply Chain (Sugar Land 2024),DHL,Transportation & logistics,Sugar Land,Fort Bend,Gulf Coast,10.0,2025-01-13,76.0,False
 2024-10-30,2024-10,2024,Alcom LLC,Alcom,Other / unclassified,Waco,Mclennan,Heart of Texas,83.0,2024-12-16,47.0,False
 2024-11-05,2024-11,2024,"Paragon Industries, Inc.",Paragon Industries,Manufacturing,Stephenville,Erath,North Central Texas,70.0,2025-01-10,66.0,False
 2024-11-05,2024-11,2024,"WIT Services Co., LLC",WIT Services,Business & professional services,Stephenville,Erath,North Central Texas,15.0,2024-12-27,52.0,False
-2024-11-12,2024-11,2024,Exxon Mobile (Las Colinas Office),ExxonMobil,Energy & oilfield,Irving,Dallas,Dallas County,376.0,2024-12-31,49.0,False
 2024-11-12,2024-11,2024,Kuehne + Nagel (KN),Kuehne + Nagel,Other / unclassified,Lewisville,Denton,North Central Texas,68.0,2024-12-13,31.0,False
+2024-11-12,2024-11,2024,Exxon Mobile (Las Colinas Office),ExxonMobil,Energy & oilfield,Irving,Dallas,Dallas County,376.0,2024-12-31,49.0,False
 2024-11-12,2024-11,2024,Exxon Mobil (Midland #3),ExxonMobil,Energy & oilfield,Midland,Midland,Permian Basin,9.0,2024-12-31,49.0,False
 2024-11-12,2024-11,2024,Exxon Mobil (Midland #1),ExxonMobil,Energy & oilfield,Midland,Midland,Permian Basin,9.0,2024-12-31,49.0,False
 2024-11-18,2024-11,2024,Advanced Auto Parts# 7776 (Plano),Advanced Auto Parts# 7776,Other / unclassified,Plano,Collin,North Central Texas,12.0,2025-02-15,89.0,False
-2024-11-18,2024-11,2024,Advanced Auto Parts# 7734 (Burleson),Advanced Auto Parts# 7734,Other / unclassified,Burleson,Johnson,North Central Texas,1.0,2024-02-12,-280.0,False
 2024-11-18,2024-11,2024,Advanced Auto Parts #7912 (Plano),Advanced Auto Parts #7912,Other / unclassified,Plano,Collin,North Central Texas,10.0,2025-02-12,86.0,False
-2024-11-19,2024-11,2024,Advanced Auto Parts #6855 (Pearland),Advanced Auto Parts #6855,Other / unclassified,Pearland,Brazoria,Gulf Coast,10.0,2025-02-15,88.0,False
-2024-11-19,2024-11,2024,Advanced Auto Parts # 7993 (Conroe),Advanced Auto Parts # 7993,Other / unclassified,Conroe,Montgomery,Gulf Coast,6.0,2025-01-29,71.0,False
-2024-11-19,2024-11,2024,Advanced Auto Parts # 8169 (Houston),Advanced Auto Parts # 8169,Other / unclassified,Houston,Harris,Gulf Coast,8.0,2025-02-13,86.0,False
-2024-11-19,2024-11,2024,Advanced Auto Parts # 8054 (Cypress),Advanced Auto Parts # 8054,Other / unclassified,Cypress,Harris,Gulf Coast,12.0,2025-02-15,88.0,False
+2024-11-18,2024-11,2024,Advanced Auto Parts# 7734 (Burleson),Advanced Auto Parts# 7734,Other / unclassified,Burleson,Johnson,North Central Texas,1.0,2024-02-12,-280.0,False
 2024-11-19,2024-11,2024,Advanced Auto Parts (Garland),Advanced Auto Parts,Other / unclassified,Garland,Dallas,Dallas County,10.0,2025-02-12,85.0,False
 2024-11-19,2024-11,2024,Advanced Auto Parts # 8489 (Houston II),Advanced Auto Parts # 8489,Other / unclassified,Houston,Harris,Gulf Coast,7.0,2025-01-27,69.0,False
 2024-11-19,2024-11,2024,Advanced Auto Parts # 8046 (Spring),Advanced Auto Parts # 8046,Other / unclassified,Spring,Montgomery,Gulf Coast,11.0,2025-02-15,88.0,False
-2024-11-19,2024-11,2024,Advanced Auto Parts (Forest Hill),Advanced Auto Parts,Other / unclassified,Forest Hill,Tarrant,Tarrant County,9.0,2025-02-11,84.0,False
-2024-11-19,2024-11,2024,Advanced Auto Parts (Camp Bowie),Advanced Auto Parts,Other / unclassified,Fort Worth,Tarrant,Tarrant County,11.0,2025-02-09,82.0,False
-2024-11-19,2024-11,2024,Advanced Auto Parts (Grand Prairie),Advanced Auto Parts,Other / unclassified,Grand Prairie,Dallas,Dallas County,10.0,2025-02-14,87.0,False
-2024-11-19,2024-11,2024,Advanced Auto Parts (Mccart Ave.),Advanced Auto Parts,Other / unclassified,Fort Worth,Tarrant,Tarrant County,9.0,2025-02-11,84.0,False
+2024-11-19,2024-11,2024,Advanced Auto Parts # 7993 (Conroe),Advanced Auto Parts # 7993,Other / unclassified,Conroe,Montgomery,Gulf Coast,6.0,2025-01-29,71.0,False
+2024-11-19,2024-11,2024,Advanced Auto Parts # 8169 (Houston),Advanced Auto Parts # 8169,Other / unclassified,Houston,Harris,Gulf Coast,8.0,2025-02-13,86.0,False
 2024-11-19,2024-11,2024,Advanced Auto Parts (Carroll Avenue),Advanced Auto Parts,Other / unclassified,Dallas,Dallas,Dallas County,8.0,2025-02-10,83.0,False
+2024-11-19,2024-11,2024,Advanced Auto Parts # 8054 (Cypress),Advanced Auto Parts # 8054,Other / unclassified,Cypress,Harris,Gulf Coast,12.0,2025-02-15,88.0,False
+2024-11-19,2024-11,2024,Advanced Auto Parts (Camp Bowie),Advanced Auto Parts,Other / unclassified,Fort Worth,Tarrant,Tarrant County,11.0,2025-02-09,82.0,False
 2024-11-19,2024-11,2024,Advanced Auto Parts (Josey Ln),Advanced Auto Parts,Other / unclassified,Dallas,Dallas,Dallas County,10.0,2025-02-10,83.0,False
-2024-11-25,2024-11,2024,Exxon Mobil Corporation (Big Lake) #2,ExxonMobil,Energy & oilfield,Big Lake,Reagan,Concho Valley,2.0,2025-03-31,126.0,False
+2024-11-19,2024-11,2024,Advanced Auto Parts (Mccart Ave.),Advanced Auto Parts,Other / unclassified,Fort Worth,Tarrant,Tarrant County,9.0,2025-02-11,84.0,False
+2024-11-19,2024-11,2024,Advanced Auto Parts (Forest Hill),Advanced Auto Parts,Other / unclassified,Forest Hill,Tarrant,Tarrant County,9.0,2025-02-11,84.0,False
+2024-11-19,2024-11,2024,Advanced Auto Parts (Grand Prairie),Advanced Auto Parts,Other / unclassified,Grand Prairie,Dallas,Dallas County,10.0,2025-02-14,87.0,False
+2024-11-19,2024-11,2024,Advanced Auto Parts #6855 (Pearland),Advanced Auto Parts #6855,Other / unclassified,Pearland,Brazoria,Gulf Coast,10.0,2025-02-15,88.0,False
 2024-11-25,2024-11,2024,Exxon Mobil Corporation (Big Lake) #1,ExxonMobil,Energy & oilfield,Big Lake,Reagan,Concho Valley,1.0,2024-12-31,36.0,False
+2024-11-25,2024-11,2024,Exxon Mobil Corporation (Big Lake) #2,ExxonMobil,Energy & oilfield,Big Lake,Reagan,Concho Valley,2.0,2025-03-31,126.0,False
 2024-11-25,2024-11,2024,"SDH Service East, LLC",SDH Service East,Other / unclassified,San Antonio,Bexar,Alamo,166.0,2024-01-23,-307.0,False
 2024-12-04,2024-12,2024,TTEC Government Solutions,TTEC Government Solutions,"Tech, telecom & BPO",Austin,Travis,Capital Area,650.0,2025-02-07,65.0,False
 2024-12-11,2024-12,2024,DallasNews Corporation,DallasNews,Other / unclassified,Plano,Collin,North Central Texas,75.0,2025-02-01,52.0,False
@@ -1876,220 +1876,220 @@ notice_date,month,year,employer,organization,sector,city,county,wda,layoffs,layo
 2024-12-18,2024-12,2024,Stealth Monitoring,Stealth Monitoring,Other / unclassified,Addison,Collin,Dallas County,29.0,2025-02-11,55.0,False
 2024-12-27,2024-12,2024,"Tenneco, Inc.",Tenneco,Manufacturing,El Paso,El Paso,Borderplex,140.0,2025-02-15,50.0,False
 2025-01-07,2025-01,2025,"ICON Technology, Inc.",ICON Technology,"Tech, telecom & BPO",Austin,Travis,Capital Area,114.0,2025-03-08,60.0,False
-2025-01-08,2025-01,2025,Crothall Healthcare-Houston,Crothall Healthcare,Healthcare,Houston,Harris,Gulf Coast,69.0,2024-12-15,-24.0,False
 2025-01-08,2025-01,2025,Commanche Peak Nuclear Power Plant,Commanche Peak Nuclear Power Plant,Manufacturing,Glen Rose,Somervell,North Central Texas,86.0,2025-01-31,23.0,False
 2025-01-08,2025-01,2025,C & S Family of Companies,C & S Family of Companies,Other / unclassified,Houston,Harris,Gulf Coast,21.0,2025-03-14,65.0,False
+2025-01-08,2025-01,2025,Crothall Healthcare-Houston,Crothall Healthcare,Healthcare,Houston,Harris,Gulf Coast,69.0,2024-12-15,-24.0,False
 2025-01-09,2025-01,2025,"Scentsy, Inc.",Scentsy,Other / unclassified,Coppell,Dallas,Dallas County,94.0,2025-03-01,51.0,False
-2025-01-14,2025-01,2025,RR Donnelley,RR Donnelley,Other / unclassified,Nacogdoches,Nacogdoches,Deep East Texas,88.0,2025-03-15,60.0,False
 2025-01-14,2025-01,2025,"COSMAX NBT USA, INC #1","Cosmax Nbt Usa, Inc #1",Other / unclassified,Garland,Dallas,Dallas County,80.0,2025-02-28,45.0,False
+2025-01-14,2025-01,2025,RR Donnelley,RR Donnelley,Other / unclassified,Nacogdoches,Nacogdoches,Deep East Texas,88.0,2025-03-15,60.0,False
 2025-01-15,2025-01,2025,Macy's - Houston (Almeda),Macy's,Retail,Houston,Harris,Gulf Coast,72.0,2025-03-18,62.0,False
 2025-01-21,2025-01,2025,"Chalk Mountain Services of Texas of Texas, LLC (Pleasanton)",Chalk Mountain Services,Business & professional services,Pleasanton,Atascosa,Alamo,1.0,2025-02-02,12.0,False
 2025-01-27,2025-01,2025,"Construction Specialties Platforn Holdings, LLC",Construction Specialties Platforn,Business & professional services,Denton,Denton,North Central Texas,89.0,2025-03-31,63.0,False
-2025-01-29,2025-01,2025,S & B Engineers and Constructors (Eastman),S & B Engineers and Constructors,Other / unclassified,Longview,Gregg,East Texas,43.0,2025-03-28,58.0,False
 2025-01-29,2025-01,2025,Allied Aviation-Southlake,Allied Aviation,Airlines & aviation,Southlake,Tarrant,Tarrant County,362.0,2025-03-31,61.0,False
 2025-01-29,2025-01,2025,Manpower Group (Irving),Manpower,Other / unclassified,Irving,Dallas,Dallas County,173.0,2025-03-28,58.0,False
+2025-01-29,2025-01,2025,S & B Engineers and Constructors (Eastman),S & B Engineers and Constructors,Other / unclassified,Longview,Gregg,East Texas,43.0,2025-03-28,58.0,False
 2025-01-30,2025-01,2025,One TouchPoint,One TouchPoint,Other / unclassified,Austin,Travis,Capital Area,43.0,2025-01-31,1.0,False
-2025-02-05,2025-02,2025,Hll Mission Technologies(Administrative Office of the US Courts (AOUSC),Hll Mission Technologies,"Tech, telecom & BPO",San Antonio,Bexar,Alamo,56.0,2025-03-31,54.0,False
-2025-02-05,2025-02,2025,Pathlight Property Management (OPVHHJV LLC),Pathlight Property Management,Other / unclassified,Plano,Collin,North Central Texas,192.0,2025-03-31,54.0,False
-2025-02-05,2025-02,2025,"LX Pantos America, Inc.",LX Pantos America,Other / unclassified,Fort Worth,Tarrant,Tarrant County,131.0,2025-04-04,58.0,False
 2025-02-05,2025-02,2025,Syzygy Plasmonics (Kirby),Syzygy Plasmonics,Other / unclassified,Houston,Harris,Gulf Coast,10.0,2025-03-31,54.0,False
 2025-02-05,2025-02,2025,Syzygy Plasmonics,Syzygy Plasmonics,Other / unclassified,Houston,Harris,Gulf Coast,58.0,2025-03-31,54.0,False
-2025-02-10,2025-02,2025,Catholic Charities Archdiocese Of Galveston-Houston (San Felipe),Catholic Charities Archdiocese Of Galveston,"Government, education & nonprofit",Houston,Harris,Gulf Coast,8.0,2025-02-07,-3.0,False
-2025-02-10,2025-02,2025,Catholic Charities Archdiocese Of Galveston-Houston (Smith Street),Catholic Charities Archdiocese Of Galveston,"Government, education & nonprofit",Houston,Harris,Gulf Coast,43.0,2025-02-07,-3.0,False
+2025-02-05,2025-02,2025,Pathlight Property Management (OPVHHJV LLC),Pathlight Property Management,Other / unclassified,Plano,Collin,North Central Texas,192.0,2025-03-31,54.0,False
+2025-02-05,2025-02,2025,"LX Pantos America, Inc.",LX Pantos America,Other / unclassified,Fort Worth,Tarrant,Tarrant County,131.0,2025-04-04,58.0,False
+2025-02-05,2025-02,2025,Hll Mission Technologies(Administrative Office of the US Courts (AOUSC),Hll Mission Technologies,"Tech, telecom & BPO",San Antonio,Bexar,Alamo,56.0,2025-03-31,54.0,False
 2025-02-10,2025-02,2025,Catholic Charities Archdiocese Of Galveston-Houston (Louisiana Street),Catholic Charities Archdiocese Of Galveston,"Government, education & nonprofit",Houston,Harris,Gulf Coast,11.0,2025-02-07,-3.0,False
+2025-02-10,2025-02,2025,Catholic Charities Archdiocese Of Galveston-Houston (San Felipe),Catholic Charities Archdiocese Of Galveston,"Government, education & nonprofit",Houston,Harris,Gulf Coast,8.0,2025-02-07,-3.0,False
 2025-02-10,2025-02,2025,Catholic Charities Archdiocese Of Galveston-Houston (Bering Drive),Catholic Charities Archdiocese Of Galveston,"Government, education & nonprofit",Houston,Harris,Gulf Coast,58.0,2025-02-07,-3.0,False
-2025-02-11,2025-02,2025,Catholic Charities of Dallas (Refuge Resettlement Program),Catholic Charities of Dallas,"Government, education & nonprofit",Dallas,Dallas,Dallas County,63.0,2025-02-11,0.0,False
+2025-02-10,2025-02,2025,Catholic Charities Archdiocese Of Galveston-Houston (Smith Street),Catholic Charities Archdiocese Of Galveston,"Government, education & nonprofit",Houston,Harris,Gulf Coast,43.0,2025-02-07,-3.0,False
 2025-02-11,2025-02,2025,Animal Supply Co. LLC,Animal Supply,Other / unclassified,Grand Prairie,Tarrant,Tarrant County,145.0,2025-02-21,10.0,False
 2025-02-11,2025-02,2025,Propio Language Services,Propio Language Services,Business & professional services,San Antonio,Bexar,Alamo,40.0,2025-02-11,0.0,False
+2025-02-11,2025-02,2025,Catholic Charities of Dallas (Refuge Resettlement Program),Catholic Charities of Dallas,"Government, education & nonprofit",Dallas,Dallas,Dallas County,63.0,2025-02-11,0.0,False
 2025-02-18,2025-02,2025,Raices,Raices,"Government, education & nonprofit",San Antonio,Bexar,Alamo,61.0,2025-02-12,-6.0,False
 2025-02-19,2025-02,2025,Neiman Marcus-One Marcus Square,Neiman Marcus,Other / unclassified,Dallas,Dallas,Dallas County,1.0,2025-03-31,40.0,False
 2025-02-19,2025-02,2025,Southwest - Dallas Lovefield Airport,Southwest Airlines,Airlines & aviation,Dallas,Dallas,Dallas County,626.0,2025-04-22,62.0,False
-2025-02-24,2025-02,2025,Christus Health Santa Rosa Medical Center,Christus Health Santa Rosa Medical Center,Healthcare,San Antonio,Bexar,Alamo,479.0,2025-04-25,60.0,False
 2025-02-24,2025-02,2025,L3Harris Technologies (JAVA MAN Program),L3Harris Technologies,"Tech, telecom & BPO",Rockwall,Rockwall,North Central Texas,179.0,2025-04-22,57.0,False
+2025-02-24,2025-02,2025,Christus Health Santa Rosa Medical Center,Christus Health Santa Rosa Medical Center,Healthcare,San Antonio,Bexar,Alamo,479.0,2025-04-25,60.0,False
 2025-02-25,2025-02,2025,Houston Refining LP (2025),Houston Refining,Energy & oilfield,Houston,Harris,Gulf Coast,345.0,2025-04-17,51.0,False
-2025-02-26,2025-02,2025,"MVM, Inc. (McAllen)",MVM,Other / unclassified,Mcallen,Hidalgo,Lower Rio Grande Valley,132.0,2025-03-18,20.0,False
 2025-02-26,2025-02,2025,MVM,MVM,Other / unclassified,El Paso,El Paso,Borderplex,247.0,2025-03-18,20.0,False
-2025-03-03,2025-03,2025,JELD -WEN -Coppell,JELD,Other / unclassified,Coppell,Dallas,Dallas County,56.0,2025-04-28,56.0,False
+2025-02-26,2025-02,2025,"MVM, Inc. (McAllen)",MVM,Other / unclassified,Mcallen,Hidalgo,Lower Rio Grande Valley,132.0,2025-03-18,20.0,False
 2025-03-03,2025-03,2025,"LUKE Holdings, Inc. (El Paso)",LUKE,Other / unclassified,El Paso,El Paso,Borderplex,227.0,2025-02-28,-3.0,False
 2025-03-03,2025-03,2025,"LUKE Holdings, Inc.(Laredo)",LUKE,Other / unclassified,Laredo,Webb,South Texas,73.0,2025-02-28,-3.0,False
+2025-03-03,2025-03,2025,JELD -WEN -Coppell,JELD,Other / unclassified,Coppell,Dallas,Dallas County,56.0,2025-04-28,56.0,False
 2025-03-05,2025-03,2025,"LUKE Holdings, Inc (Eagle Pass)",LUKE,Other / unclassified,Eagle Pass,Maverick,Middle Rio Grande,129.0,2025-02-28,-5.0,False
-2025-03-05,2025-03,2025,Pure Safety Group Inc. DBA Guardian Fall,Pure Safety,Other / unclassified,Houston,Harris,Gulf Coast,59.0,2025-03-20,15.0,False
-2025-03-05,2025-03,2025,"LUKE Holdings, Inc. (Del Rio)",LUKE,Other / unclassified,Del Rio,Val Verde,Middle Rio Grande,36.0,2025-02-28,-5.0,False
 2025-03-05,2025-03,2025,"LUKE Holdings, Inc. (Donna)",LUKE,Other / unclassified,Donna,Hidalgo,Lower Rio Grande Valley,201.0,2025-02-28,-5.0,False
-2025-03-06,2025-03,2025,"Hatco, Inc",Hatco,Other / unclassified,Longview,Gregg,East Texas,68.0,2025-02-27,-7.0,False
+2025-03-05,2025-03,2025,"LUKE Holdings, Inc. (Del Rio)",LUKE,Other / unclassified,Del Rio,Val Verde,Middle Rio Grande,36.0,2025-02-28,-5.0,False
+2025-03-05,2025-03,2025,Pure Safety Group Inc. DBA Guardian Fall,Pure Safety,Other / unclassified,Houston,Harris,Gulf Coast,59.0,2025-03-20,15.0,False
 2025-03-06,2025-03,2025,Ryder -Hutchins,Ryder,Transportation & logistics,Hutchins,Dallas,Dallas County,110.0,2025-05-10,65.0,False
+2025-03-06,2025-03,2025,"Hatco, Inc",Hatco,Other / unclassified,Longview,Gregg,East Texas,68.0,2025-02-27,-7.0,False
 2025-03-10,2025-03,2025,"Catholic Charities, Diocese of Fort Worth, INC","Catholic Charities, Diocese of Fort Worth","Government, education & nonprofit",Fort Worth,Tarrant,Tarrant County,169.0,2025-03-14,4.0,False
+2025-03-11,2025-03,2025,Interfaith Ministries Of Greater Houston (Refugee Services Program),Interfaith Ministries Of Greater Houston,"Government, education & nonprofit",Houston,Harris,Gulf Coast,101.0,2025-03-14,3.0,False
+2025-03-11,2025-03,2025,"De La Paz Cleaning and Rental Services, LLC (North Eagle Pass)",De La Paz Cleaning and Rental Services,Business & professional services,Eagle Pass,Maverick,Middle Rio Grande,60.0,2025-03-03,-8.0,False
 2025-03-11,2025-03,2025,"Centerra (Constellis, LLC)",Centerra,Other / unclassified,Mcallen,Hidalgo,Lower Rio Grande Valley,23.0,2025-03-07,-4.0,False
 2025-03-11,2025-03,2025,"De La Paz Cleaning and Rental Services, LLC (Donna)",De La Paz Cleaning and Rental Services,Business & professional services,Donna,Hidalgo,Lower Rio Grande Valley,125.0,2025-03-07,-4.0,False
-2025-03-11,2025-03,2025,"De La Paz Cleaning and Rental Services, LLC (North Eagle Pass)",De La Paz Cleaning and Rental Services,Business & professional services,Eagle Pass,Maverick,Middle Rio Grande,60.0,2025-03-03,-8.0,False
-2025-03-11,2025-03,2025,Interfaith Ministries Of Greater Houston (Refugee Services Program),Interfaith Ministries Of Greater Houston,"Government, education & nonprofit",Houston,Harris,Gulf Coast,101.0,2025-03-14,3.0,False
 2025-03-12,2025-03,2025,Constellis LLC (Laredo Border Station),Constellis,Other / unclassified,Laredo,Webb,South Texas,121.0,2025-03-07,-5.0,False
 2025-03-12,2025-03,2025,Grocery Delivery E Services USA DBA Hello Fresh (Tarrant),Grocery Delivery E Services,Transportation & logistics,Grand Prairie,Tarrant,Tarrant County,273.0,2025-05-13,62.0,False
 2025-03-12,2025-03,2025,Constellis LLC (Laredo #2),Constellis,Other / unclassified,Laredo,Webb,South Texas,30.0,2025-03-07,-5.0,False
-2025-03-12,2025-03,2025,"De La Paz Cleaning and Rental Services, LLC (Laredo)",De La Paz Cleaning and Rental Services,Business & professional services,Laredo,Webb,South Texas,142.0,2025-03-07,-5.0,False
 2025-03-12,2025-03,2025,Country Pure Foods,Country Pure Foods,Manufacturing,Houston,Harris,Gulf Coast,60.0,2025-05-09,58.0,False
+2025-03-12,2025-03,2025,"De La Paz Cleaning and Rental Services, LLC (Laredo)",De La Paz Cleaning and Rental Services,Business & professional services,Laredo,Webb,South Texas,142.0,2025-03-07,-5.0,False
 2025-03-12,2025-03,2025,Chewy Inc. Fullfillment Center,Chewy Inc. Fullfillment Center,Transportation & logistics,Dallas,Dallas,Dallas County,674.0,2025-05-10,59.0,False
 2025-03-17,2025-03,2025,"C&S Family of Companies (GSC Wholesale, LLC)",C&S Family of Companies,Transportation & logistics,Houston,Harris,Gulf Coast,21.0,2025-03-14,-3.0,False
 2025-03-18,2025-03,2025,"Church World Service, Inc.",Church World Service,"Government, education & nonprofit",Houston,Harris,Gulf Coast,63.0,2025-02-03,-43.0,False
 2025-03-19,2025-03,2025,"BH Security, LLC DBA Brinks Home",BH Security,Business & professional services,Dallas,Dallas,Dallas County,61.0,2025-06-30,103.0,False
+2025-03-26,2025-03,2025,SouthState Bank,SouthState Bank,Finance & insurance,Mckinney,Collin,North Central Texas,141.0,2025-05-31,66.0,False
 2025-03-26,2025-03,2025,Waco Familly Medicine (MCC),Waco Familly Medicine,Other / unclassified,Waco,Mclennan,Heart of Texas,52.0,2025-03-21,-5.0,False
 2025-03-26,2025-03,2025,Waco Family Medicine (Bell's Hill),Waco Family Medicine,Other / unclassified,Waco,Mclennan,Heart of Texas,52.0,2025-03-21,-5.0,False
 2025-03-26,2025-03,2025,Durhan School Services-Wichita Falls,Durhan School Services,"Government, education & nonprofit",Wichita Falls,Archer,North Texas,1.0,2025-06-30,96.0,False
-2025-03-26,2025-03,2025,SouthState Bank,SouthState Bank,Finance & insurance,Mckinney,Collin,North Central Texas,141.0,2025-05-31,66.0,False
 2025-03-26,2025-03,2025,Waco Family Medicine (Meyer Center),Waco Family Medicine,Other / unclassified,Waco,Mclennan,Heart of Texas,52.0,2025-03-21,-5.0,False
 2025-03-26,2025-03,2025,American Bar Association (ProBAR),American Bar Association,Restaurants & bars,Harlingen,Cameron,Cameron County,191.0,2025-05-19,54.0,False
 2025-03-26,2025-03,2025,VF's Dickies Headquarters,VF's Dickies Headquarters,Other / unclassified,Fort Worth,Tarrant,Tarrant County,125.0,2025-05-30,65.0,False
-2025-04-02,2025-04,2025,Southeast Service Corporation Services for Education (Georgetown ISD),Southeast Service Corporation Services for Education,"Government, education & nonprofit",Georgetown,Williamson,Rural Capital,60.0,2025-05-31,59.0,False
 2025-04-02,2025-04,2025,Denali,Denali,Other / unclassified,Plano,Collin,North Central Texas,28.0,2025-06-02,61.0,False
 2025-04-02,2025-04,2025,Envision Physician Services LLC,Envision Physician Services,Business & professional services,San Antonio,Bexar,Alamo,120.0,2025-05-31,59.0,False
+2025-04-02,2025-04,2025,Southeast Service Corporation Services for Education (Georgetown ISD),Southeast Service Corporation Services for Education,"Government, education & nonprofit",Georgetown,Williamson,Rural Capital,60.0,2025-05-31,59.0,False
+2025-04-08,2025-04,2025,Catholic Charities Archdiocese Of Galveston-Houston (Cabrini CFLA)San Felipe,Catholic Charities Archdiocese Of Galveston,"Government, education & nonprofit",Houston,Harris,Gulf Coast,36.0,2025-03-31,-8.0,False
 2025-04-08,2025-04,2025,Catholic Charities Archdiocese Of Galveston-Houston (Cabrini CFLA)Louisiana Street,Catholic Charities Archdiocese Of Galveston,"Government, education & nonprofit",Houston,Harris,Gulf Coast,6.0,,,False
 2025-04-08,2025-04,2025,Catholic Charities Archdiocese Of Galveston-Houston (Cabrini CFLA)Collins Road,Catholic Charities Archdiocese Of Galveston,"Government, education & nonprofit",Richmond,Fort Bend,Gulf Coast,2.0,2025-03-31,-8.0,False
-2025-04-08,2025-04,2025,Catholic Charities Archdiocese Of Galveston-Houston (Cabrini CFLA)South Loop West,Catholic Charities Archdiocese Of Galveston,"Government, education & nonprofit",Houston,Harris,Gulf Coast,1.0,2025-03-31,-8.0,False
-2025-04-08,2025-04,2025,Catholic Charities Archdiocese Of Galveston-Houston (Cabrini CFLA)San Felipe,Catholic Charities Archdiocese Of Galveston,"Government, education & nonprofit",Houston,Harris,Gulf Coast,36.0,2025-03-31,-8.0,False
 2025-04-08,2025-04,2025,"Movate, Inc.",Movate,Other / unclassified,Temple,Bell,North Central Texas,51.0,2025-05-31,53.0,False
 2025-04-08,2025-04,2025,US Cellular Corporation,US Cellular,Other / unclassified,Wichita Falls,Archer,Heart of Texas,1.0,2025-06-02,55.0,False
 2025-04-08,2025-04,2025,Raices (April 2025),Raices,"Government, education & nonprofit",San Antonio,Bexar,Alamo,159.0,2025-04-02,-6.0,False
+2025-04-08,2025-04,2025,Catholic Charities Archdiocese Of Galveston-Houston (Cabrini CFLA)South Loop West,Catholic Charities Archdiocese Of Galveston,"Government, education & nonprofit",Houston,Harris,Gulf Coast,1.0,2025-03-31,-8.0,False
 2025-04-16,2025-04,2025,Virtex Enterprises LP,Virtex Enterprises,Other / unclassified,Austin,Travis,Capital Area,84.0,2025-06-14,59.0,False
 2025-04-16,2025-04,2025,MedStar Mobile Healthcare,MedStar Mobile Healthcare,Healthcare,Fort Worth,Tarrant,Tarrant County,589.0,2025-07-01,76.0,False
+2025-04-23,2025-04,2025,"Graphic Solutions, Inc. (Spring Valley)",Graphic Solutions,"Tech, telecom & BPO",Dallas,Dallas,Dallas County,64.0,2025-06-13,51.0,False
 2025-04-23,2025-04,2025,Graphic Solutuions Inc. (Farmers Branch),Graphic Solutuions,Other / unclassified,Farmers Branch,Dallas,Dallas County,5.0,2025-06-13,51.0,False
 2025-04-23,2025-04,2025,"Graphic Solutions, Inc (Welch Rd)",Graphic Solutions,"Tech, telecom & BPO",Dallas,Dallas,Dallas County,2.0,2025-06-13,51.0,False
-2025-04-23,2025-04,2025,"Graphic Solutions, Inc. (Spring Valley)",Graphic Solutions,"Tech, telecom & BPO",Dallas,Dallas,Dallas County,64.0,2025-06-13,51.0,False
-2025-04-30,2025-04,2025,Texas Central School Bus (Purnell),Texas Central School Bus,Transportation & logistics,Lewisville,Denton,North Central Texas,174.0,2025-07-17,78.0,False
-2025-04-30,2025-04,2025,Texas Central School Bus (Mill),Texas Central School Bus,Transportation & logistics,Lewisville,Denton,North Central Texas,131.0,2025-07-15,76.0,False
 2025-04-30,2025-04,2025,Texas Central School Bus (Cougar Alley),Texas Central School Bus,Transportation & logistics,The Colony,Denton,North Central Texas,155.0,2025-07-15,76.0,False
+2025-04-30,2025-04,2025,Texas Central School Bus (Mill),Texas Central School Bus,Transportation & logistics,Lewisville,Denton,North Central Texas,131.0,2025-07-15,76.0,False
+2025-04-30,2025-04,2025,Texas Central School Bus (Purnell),Texas Central School Bus,Transportation & logistics,Lewisville,Denton,North Central Texas,174.0,2025-07-17,78.0,False
 2025-04-30,2025-04,2025,PULAU Corporation,PULAU,Other / unclassified,Killeen,Bell,Central Texas,64.0,2025-06-30,61.0,False
 2025-05-01,2025-05,2025,Chick-Fil-A (N. Collins St. Plant),Chick,Manufacturing,Arlington,Tarrant,Tarrant County,10.0,2025-06-07,37.0,False
-2025-05-06,2025-05,2025,Smurfikt Westrock Facility (ForneyTexas),Smurfikt Westrock Facility,Other / unclassified,Forney,Kaufman,North Central Texas,200.0,2025-06-30,55.0,False
 2025-05-06,2025-05,2025,Tom Thumb Store #3579,Tom Thumb Store #3579,Retail,Allen,Collin,North Central Texas,75.0,,,False
+2025-05-06,2025-05,2025,Smurfikt Westrock Facility (ForneyTexas),Smurfikt Westrock Facility,Other / unclassified,Forney,Kaufman,North Central Texas,200.0,2025-06-30,55.0,False
 2025-05-07,2025-05,2025,TRIGO (Tesla),Tesla,Manufacturing,Austin,Travis,Capital Area,50.0,2025-04-28,-9.0,False
-2025-05-08,2025-05,2025,Museum of Ice Cream,Museum of Ice Cream,Hotels & leisure,Austin,Travis,Capital Area,38.0,2025-07-10,63.0,False
 2025-05-08,2025-05,2025,WSS (Foot Locker),WSS,Other / unclassified,Houston,Harris,Gulf Coast,57.0,2025-07-07,60.0,False
-2025-05-14,2025-05,2025,Atria Wealth Solutions,Atria Wealth Solutions,"Tech, telecom & BPO",Houston,Fort Bend,Gulf Coast,55.0,2025-07-04,51.0,False
-2025-05-14,2025-05,2025,International Paper Company (McAllen),International Paper,Manufacturing,Mcallen,Hidalgo,Lower Rio Grande Valley,5.0,2025-05-09,-5.0,False
-2025-05-14,2025-05,2025,International Paper Company (Edinburg W. Chapin),International Paper,Manufacturing,Edinburg,Hidalgo,Lower Rio Grande Valley,64.0,2025-05-09,-5.0,False
+2025-05-08,2025-05,2025,Museum of Ice Cream,Museum of Ice Cream,Hotels & leisure,Austin,Travis,Capital Area,38.0,2025-07-10,63.0,False
 2025-05-14,2025-05,2025,International Paper Company(Edinburg),International Paper,Manufacturing,Edinburg,Hidalgo,Lower Rio Grande Valley,63.0,2025-05-09,-5.0,False
-2025-05-16,2025-05,2025,Chevron (Deauville Blvd),Chevron,Energy & oilfield,Midland,Midland,Permian Basin,185.0,2025-07-15,60.0,False
+2025-05-14,2025-05,2025,International Paper Company (Edinburg W. Chapin),International Paper,Manufacturing,Edinburg,Hidalgo,Lower Rio Grande Valley,64.0,2025-05-09,-5.0,False
+2025-05-14,2025-05,2025,International Paper Company (McAllen),International Paper,Manufacturing,Mcallen,Hidalgo,Lower Rio Grande Valley,5.0,2025-05-09,-5.0,False
+2025-05-14,2025-05,2025,Atria Wealth Solutions,Atria Wealth Solutions,"Tech, telecom & BPO",Houston,Fort Bend,Gulf Coast,55.0,2025-07-04,51.0,False
 2025-05-16,2025-05,2025,Chevron (S. County Rd.),Chevron,Energy & oilfield,Midland,Midland,Permian Basin,1.0,2025-07-15,60.0,False
+2025-05-16,2025-05,2025,Chevron (Deauville Blvd),Chevron,Energy & oilfield,Midland,Midland,Permian Basin,185.0,2025-07-15,60.0,False
 2025-05-16,2025-05,2025,Chevron (N. FM 1788),Chevron,Energy & oilfield,Midland,Midland,Permian Basin,14.0,2025-07-15,60.0,False
 2025-05-20,2025-05,2025,FedEx Supply Chain Logistics & Electronics (Ft. Worth),FedEx,Transportation & logistics,Fort Worth,Tarrant,Tarrant County,305.0,2025-07-06,47.0,False
-2025-05-21,2025-05,2025,Child Care Associates (Arlington 2),Child Care Associates,Healthcare,Arlington,Tarrant,Tarrant County,22.0,2025-06-30,40.0,False
-2025-05-21,2025-05,2025,Child Care Associates (JA Hargrave),Child Care Associates,Healthcare,Fort Worth,Tarrant,Tarrant County,19.0,2025-06-30,40.0,False
-2025-05-21,2025-05,2025,Child Care Associates (Linda Kay),Child Care Associates,Healthcare,Hurst,Tarrant,Tarrant County,15.0,2025-06-30,40.0,False
-2025-05-21,2025-05,2025,Sodexo (International Leadership TX),Sodexo,Restaurants & bars,Irving,Dallas,Dallas County,165.0,2025-06-30,40.0,False
-2025-05-21,2025-05,2025,F&S Produce West LLC,F&S Produce West,Transportation & logistics,Houston,Harris,Gulf Coast,225.0,2025-07-20,60.0,False
-2025-05-21,2025-05,2025,Child Care Associates (Morris Foundation),Child Care Associates,Healthcare,Fort Worth,Tarrant,Tarrant County,17.0,2025-06-30,40.0,False
-2025-05-21,2025-05,2025,Child Care Associates(North Fort Worth),Child Care Associates,Healthcare,Fort Worth,Tarrant,Tarrant County,16.0,2025-06-30,40.0,False
-2025-05-21,2025-05,2025,Child Care Associates (Everman),Child Care Associates,Healthcare,Fort Worth,Tarrant,Tarrant County,9.0,2025-06-30,40.0,False
+2025-05-21,2025-05,2025,Child Care Associates (Blanche),Child Care Associates,Healthcare,Fort Worth,Tarrant,Tarrant County,17.0,2025-06-30,40.0,False
 2025-05-21,2025-05,2025,Child Care Associates (Diamond Road),Child Care Associates,Healthcare,Fort Worth,Tarrant,Tarrant County,13.0,2025-06-30,40.0,False
+2025-05-21,2025-05,2025,F&S Produce West LLC,F&S Produce West,Transportation & logistics,Houston,Harris,Gulf Coast,225.0,2025-07-20,60.0,False
+2025-05-21,2025-05,2025,Sodexo (International Leadership TX),Sodexo,Restaurants & bars,Irving,Dallas,Dallas County,165.0,2025-06-30,40.0,False
+2025-05-21,2025-05,2025,Child Care Associates (Everman),Child Care Associates,Healthcare,Fort Worth,Tarrant,Tarrant County,9.0,2025-06-30,40.0,False
+2025-05-21,2025-05,2025,Child Care Associates (JA Hargrave),Child Care Associates,Healthcare,Fort Worth,Tarrant,Tarrant County,19.0,2025-06-30,40.0,False
+2025-05-21,2025-05,2025,Child Care Associates (Arlington 2),Child Care Associates,Healthcare,Arlington,Tarrant,Tarrant County,22.0,2025-06-30,40.0,False
+2025-05-21,2025-05,2025,Child Care Associates(North Fort Worth),Child Care Associates,Healthcare,Fort Worth,Tarrant,Tarrant County,16.0,2025-06-30,40.0,False
 2025-05-21,2025-05,2025,Child Care Associates (Rosedale V),Child Care Associates,Healthcare,Fort Worth,Tarrant,Tarrant County,16.0,2025-06-30,40.0,False
+2025-05-21,2025-05,2025,Child Care Associates (Carson),Child Care Associates,Healthcare,Fort Worth,Tarrant,Tarrant County,14.0,2025-05-21,0.0,False
 2025-05-21,2025-05,2025,Child Care Associates (Reagan),Child Care Associates,Healthcare,Fort Worth,Tarrant,Tarrant County,14.0,2025-06-30,40.0,False
 2025-05-21,2025-05,2025,Child Care Associates (Meachum),Child Care Associates,Healthcare,Fort Worth,Tarrant,Tarrant County,15.0,2025-06-30,40.0,False
-2025-05-21,2025-05,2025,Child Care Associates (Carson),Child Care Associates,Healthcare,Fort Worth,Tarrant,Tarrant County,14.0,2025-05-21,0.0,False
 2025-05-21,2025-05,2025,Child Care Associates (Mansfield),Child Care Associates,Healthcare,Mansfield,Tarrant,Tarrant County,15.0,2025-06-30,40.0,False
+2025-05-21,2025-05,2025,Child Care Associates (Linda Kay),Child Care Associates,Healthcare,Hurst,Tarrant,Tarrant County,15.0,2025-06-30,40.0,False
 2025-05-21,2025-05,2025,Child Care Associates (Tucker),Child Care Associates,Healthcare,Arlington,Tarrant,Tarrant County,7.0,2025-06-30,40.0,False
 2025-05-21,2025-05,2025,Child Care Associates,Child Care Associates,Healthcare,Fort Worth,Tarrant,Tarrant County,93.0,2025-06-30,40.0,False
-2025-05-21,2025-05,2025,Child Care Associates (Blanche),Child Care Associates,Healthcare,Fort Worth,Tarrant,Tarrant County,17.0,2025-06-30,40.0,False
+2025-05-21,2025-05,2025,Child Care Associates (Morris Foundation),Child Care Associates,Healthcare,Fort Worth,Tarrant,Tarrant County,17.0,2025-06-30,40.0,False
 2025-05-27,2025-05,2025,LACROIX,Lacroix,Other / unclassified,El Paso,El Paso,Borderplex,7.0,2025-07-01,35.0,False
+2025-05-28,2025-05,2025,Texana Center Sunset Group Home,Texana Center Sunset Group Home,Other / unclassified,Wharton,Wharton,Gulf Coast,8.0,2025-05-21,-7.0,False
+2025-05-28,2025-05,2025,Texana Center Russeff Filed Home,Texana Center Russeff Filed,Other / unclassified,Rosenberg,Fort Bend,Gulf Coast,5.0,2025-05-21,-7.0,False
+2025-05-28,2025-05,2025,Texana Center Maude Group Home,Texana Center Maude Group Home,Other / unclassified,Wharton,Wharton,Gulf Coast,4.0,2025-05-21,-7.0,False
+2025-05-28,2025-05,2025,Texana Center University Group Home,Texana Center University Group Home,"Government, education & nonprofit",Wharton,Wharton,Gulf Coast,5.0,2025-05-21,-7.0,False
+2025-05-28,2025-05,2025,Texana Center Willowbend Group Home,Texana Center Willowbend Group Home,Other / unclassified,Wharton,Wharton,Gulf Coast,6.0,2025-05-21,-7.0,False
+2025-05-28,2025-05,2025,Texana Center Camden Landing Group Home,Texana Center Camden Landing Group Home,Other / unclassified,Rosenberg,Fort Bend,Gulf Coast,5.0,2025-05-21,-7.0,False
+2025-05-28,2025-05,2025,Texana Center El Campo Learning Center,Texana Center El Campo Learning Center,Other / unclassified,El Campo,Wharton,Gulf Coast,9.0,2025-05-21,-7.0,False
+2025-05-28,2025-05,2025,Texana Center North Street Group Home,Texana Center North Street Group Home,Other / unclassified,Rosenberg,Fort Bend,Gulf Coast,7.0,2025-05-21,-7.0,False
+2025-05-28,2025-05,2025,Texana Center Aqua Vista Group,Texana Center Aqua Vista,Other / unclassified,Rosenberg,Fort Bend,Heart of Texas,4.0,2025-05-21,-7.0,False
+2025-05-28,2025-05,2025,Texana Center Glenn Lakes Group Home,Texana Center Glenn Lakes Group Home,Other / unclassified,Missouri City,Fort Bend,Gulf Coast,7.0,2025-05-21,-7.0,False
+2025-05-28,2025-05,2025,Texana Center Dovecoft Group Home,Texana Center Dovecoft Group Home,Other / unclassified,Rosenberg,Fort Bend,Gulf Coast,6.0,2025-05-21,-7.0,False
 2025-05-28,2025-05,2025,Texana Center (Building B) Airport Service Center,Texana Center,Airlines & aviation,Rosenberg,Fort Bend,Gulf Coast,25.0,2025-05-21,-7.0,False
 2025-05-28,2025-05,2025,Texana Center (Building A) Airport Service Center,Texana Center,Airlines & aviation,Rosenberg,Fort Bend,Gulf Coast,27.0,2025-05-21,-7.0,False
-2025-05-28,2025-05,2025,Texana Center El Campo Learning Center,Texana Center El Campo Learning Center,Other / unclassified,El Campo,Wharton,Gulf Coast,9.0,2025-05-21,-7.0,False
-2025-05-28,2025-05,2025,Texana Center Glenn Lakes Group Home,Texana Center Glenn Lakes Group Home,Other / unclassified,Missouri City,Fort Bend,Gulf Coast,7.0,2025-05-21,-7.0,False
-2025-05-28,2025-05,2025,Texana Center Aqua Vista Group,Texana Center Aqua Vista,Other / unclassified,Rosenberg,Fort Bend,Heart of Texas,4.0,2025-05-21,-7.0,False
-2025-05-28,2025-05,2025,Texana Center North Street Group Home,Texana Center North Street Group Home,Other / unclassified,Rosenberg,Fort Bend,Gulf Coast,7.0,2025-05-21,-7.0,False
-2025-05-28,2025-05,2025,Texana Center Dovecoft Group Home,Texana Center Dovecoft Group Home,Other / unclassified,Rosenberg,Fort Bend,Gulf Coast,6.0,2025-05-21,-7.0,False
-2025-05-28,2025-05,2025,Texana Center Camden Landing Group Home,Texana Center Camden Landing Group Home,Other / unclassified,Rosenberg,Fort Bend,Gulf Coast,5.0,2025-05-21,-7.0,False
-2025-05-28,2025-05,2025,Texana Center Sunset Group Home,Texana Center Sunset Group Home,Other / unclassified,Wharton,Wharton,Gulf Coast,8.0,2025-05-21,-7.0,False
-2025-05-28,2025-05,2025,Texana Center Willowbend Group Home,Texana Center Willowbend Group Home,Other / unclassified,Wharton,Wharton,Gulf Coast,6.0,2025-05-21,-7.0,False
-2025-05-28,2025-05,2025,Texana Center University Group Home,Texana Center University Group Home,"Government, education & nonprofit",Wharton,Wharton,Gulf Coast,5.0,2025-05-21,-7.0,False
-2025-05-28,2025-05,2025,Texana Center Maude Group Home,Texana Center Maude Group Home,Other / unclassified,Wharton,Wharton,Gulf Coast,4.0,2025-05-21,-7.0,False
-2025-05-28,2025-05,2025,Texana Center Russeff Filed Home,Texana Center Russeff Filed,Other / unclassified,Rosenberg,Fort Bend,Gulf Coast,5.0,2025-05-21,-7.0,False
 2025-06-03,2025-06,2025,JC Penney (Allaince Supply Chain),JCPenney,Retail,Haslet,Tarrant,Tarrant County,296.0,2025-08-01,59.0,False
 2025-06-03,2025-06,2025,Sunnova Energy Corporation,Sunnova Energy,Energy & oilfield,Houston,Harris,Gulf Coast,,2025-05-30,-4.0,False
-2025-06-04,2025-06,2025,Eckerd Connects (David Carrasco Job Corps),Eckerd Connects,Other / unclassified,El Paso,El Paso,Borderplex,77.0,2025-06-13,9.0,False
 2025-06-04,2025-06,2025,XiFin,XiFin,Other / unclassified,Austin,Travis,Capital Area,87.0,2025-05-29,-6.0,False
+2025-06-04,2025-06,2025,Eckerd Connects (David Carrasco Job Corps),Eckerd Connects,Other / unclassified,El Paso,El Paso,Borderplex,77.0,2025-06-13,9.0,False
 2025-06-11,2025-06,2025,Movate Inc. (The Genesis Project),Movate,Other / unclassified,Temple,Bell,Central Texas,26.0,2025-08-08,58.0,False
 2025-06-11,2025-06,2025,Randalls Store #1041,Randalls Store #1041,Retail,Houston,Harris,Gulf Coast,102.0,2025-08-16,66.0,False
 2025-06-11,2025-06,2025,Tom Thumb Store #3645 Plano,Tom Thumb Store #3645 Plano,Retail,Plano,Collin,North Central Texas,75.0,2025-07-26,45.0,False
 2025-06-17,2025-06,2025,Lockheed Martin Corp. -Fort Bliss ATMP,Lockheed Martin,Other / unclassified,Fort Bliss,El Paso,Borderplex,17.0,2025-06-30,13.0,False
-2025-06-18,2025-06,2025,"Khoros, LLC.",Khoros,Other / unclassified,Austin,Travis,Capital Area,116.0,2025-08-19,62.0,False
-2025-06-18,2025-06,2025,Tyson Foods (Fort Worth Distribution Center),Tyson Foods,Transportation & logistics,Fort Worth,Tarrant,Tarrant County,275.0,2025-08-15,58.0,False
 2025-06-18,2025-06,2025,"Encino Energy, LLC",Encino Energy,Energy & oilfield,Houston,Harris,Gulf Coast,121.0,2025-08-17,60.0,False
-2025-06-20,2025-06,2025,Management & Training Corp. (Bradshaw State Jail),Management & Training Corp (MTC),"Government, education & nonprofit",Henderson,Rusk,East Texas,172.0,2025-08-31,72.0,False
+2025-06-18,2025-06,2025,Tyson Foods (Fort Worth Distribution Center),Tyson Foods,Transportation & logistics,Fort Worth,Tarrant,Tarrant County,275.0,2025-08-15,58.0,False
+2025-06-18,2025-06,2025,"Khoros, LLC.",Khoros,Other / unclassified,Austin,Travis,Capital Area,116.0,2025-08-19,62.0,False
 2025-06-20,2025-06,2025,Management & Training Corp. (Billy Moore Correctional Center),Management & Training Corp (MTC),"Government, education & nonprofit",Overton,Rusk,East Texas,109.0,2025-08-31,72.0,False
-2025-06-24,2025-06,2025,Management & Training Corporation (Kyle Correctional Center),Management & Training Corp (MTC),"Government, education & nonprofit",Kyle,Hays,Rural Capital,98.0,2025-08-31,68.0,False
-2025-06-24,2025-06,2025,Management & Training Corporation (Gregory S. Coleman Unit),Management & Training Corp (MTC),"Government, education & nonprofit",Lockhart,Caldwell,Rural Capital,135.0,2025-08-31,68.0,False
-2025-06-24,2025-06,2025,Management & Training Corporation (Lindsey State Jail),Management & Training Corp (MTC),"Government, education & nonprofit",Jacksboro,Jack,North Texas,117.0,2025-08-31,68.0,False
-2025-06-24,2025-06,2025,Management & Training Corporation (Bridgeport Correctional Facility),Management & Training Corp (MTC),"Government, education & nonprofit",Bridgeport,Wise,North Central Texas,103.0,2025-08-31,68.0,False
+2025-06-20,2025-06,2025,Management & Training Corp. (Bradshaw State Jail),Management & Training Corp (MTC),"Government, education & nonprofit",Henderson,Rusk,East Texas,172.0,2025-08-31,72.0,False
 2025-06-24,2025-06,2025,"Compass Group, Inc.d.b.a.Chartwells (Lancaster ISD)",Compass Group,Restaurants & bars,Lancaster,Dallas,Dallas County,83.0,2025-06-30,6.0,False
 2025-06-24,2025-06,2025,Management & Training Corporation (Willacy County State Jail),Management & Training Corp (MTC),"Government, education & nonprofit",Raymondville,Willacy,Lower Rio Grande Valley,166.0,2025-08-31,68.0,False
-2025-07-02,2025-07,2025,Santa Maria Hostel,Santa Maria Hostel,Other / unclassified,Houston,Harris,Gulf Coast,41.0,2025-08-31,60.0,False
-2025-07-02,2025-07,2025,FedEx Corporation (Plano),FedEx,Transportation & logistics,Plano,Collin,North Central Texas,50.0,2025-09-01,61.0,False
+2025-06-24,2025-06,2025,Management & Training Corporation (Lindsey State Jail),Management & Training Corp (MTC),"Government, education & nonprofit",Jacksboro,Jack,North Texas,117.0,2025-08-31,68.0,False
+2025-06-24,2025-06,2025,Management & Training Corporation (Kyle Correctional Center),Management & Training Corp (MTC),"Government, education & nonprofit",Kyle,Hays,Rural Capital,98.0,2025-08-31,68.0,False
+2025-06-24,2025-06,2025,Management & Training Corporation (Gregory S. Coleman Unit),Management & Training Corp (MTC),"Government, education & nonprofit",Lockhart,Caldwell,Rural Capital,135.0,2025-08-31,68.0,False
+2025-06-24,2025-06,2025,Management & Training Corporation (Bridgeport Correctional Facility),Management & Training Corp (MTC),"Government, education & nonprofit",Bridgeport,Wise,North Central Texas,103.0,2025-08-31,68.0,False
 2025-07-02,2025-07,2025,TT Electronics Facility IRC (Plano),TT Electronics Facility IRC,Other / unclassified,Plano,Collin,North Central Texas,75.0,2025-08-31,60.0,False
-2025-07-02,2025-07,2025,Fed Ex Corporation (Garland),Fed Ex,Other / unclassified,Garland,Dallas,Dallas County,81.0,2025-09-01,61.0,False
 2025-07-02,2025-07,2025,International Business Machines-Coppell,International Business Machines,Other / unclassified,Coppell,Dallas,Dallas County,59.0,2025-08-29,58.0,False
+2025-07-02,2025-07,2025,Fed Ex Corporation (Garland),Fed Ex,Other / unclassified,Garland,Dallas,Dallas County,81.0,2025-09-01,61.0,False
 2025-07-02,2025-07,2025,Memorial Herman Health System Skilled Nursing Facility,Memorial Herman Health System Skilled Nursing Facility,Healthcare,Houston,Harris,Gulf Coast,83.0,2025-09-01,61.0,False
+2025-07-02,2025-07,2025,FedEx Corporation (Plano),FedEx,Transportation & logistics,Plano,Collin,North Central Texas,50.0,2025-09-01,61.0,False
+2025-07-02,2025-07,2025,Santa Maria Hostel,Santa Maria Hostel,Other / unclassified,Houston,Harris,Gulf Coast,41.0,2025-08-31,60.0,False
 2025-07-08,2025-07,2025,"Movate, Inc. (AT&T Project)",AT&T,"Tech, telecom & BPO",Temple,Bell,Central Texas,71.0,2025-07-01,-7.0,False
+2025-07-09,2025-07,2025,Management & Training Corporation (Travis County State Jail),Management & Training Corp (MTC),Transportation & logistics,Austin,Travis,Capital Area,4.0,2025-08-31,53.0,False
+2025-07-09,2025-07,2025,Management & Training Corporation (Plane State Jail),Management & Training Corp (MTC),"Government, education & nonprofit",Dayton,Liberty,Gulf Coast,8.0,2025-08-31,53.0,False
+2025-07-09,2025-07,2025,Management & Training Corporation (Lychner State Jail),Management & Training Corp (MTC),"Government, education & nonprofit",Humble,Harris,Gulf Coast,17.0,2025-08-31,53.0,False
+2025-07-09,2025-07,2025,Management & Training Corporation (Hutchins State Jail),Management & Training Corp (MTC),"Government, education & nonprofit",Dallas,Dallas,Dallas County,8.0,2025-08-31,53.0,False
+2025-07-09,2025-07,2025,Management & Training Corporation (Gist State Jail),Management & Training Corp (MTC),"Government, education & nonprofit",Beaumont,Jefferson,South East Texas,6.0,2025-08-31,53.0,False
+2025-07-09,2025-07,2025,Management & Training Corporation (Dominguez State Jail),Management & Training Corp (MTC),"Government, education & nonprofit",San Antonio,Bexar,Alamo,8.0,2025-08-31,53.0,False
 2025-07-09,2025-07,2025,Intel Corporation,Intel,"Tech, telecom & BPO",Austin,Travis,Capital Area,110.0,2025-07-15,6.0,False
 2025-07-09,2025-07,2025,"GI Alliance Management, LLC",GI Alliance Management,Other / unclassified,Southlake,Denton,Tarrant County,25.0,2025-09-01,54.0,False
-2025-07-09,2025-07,2025,Management & Training Corporation (Dominguez State Jail),Management & Training Corp (MTC),"Government, education & nonprofit",San Antonio,Bexar,Alamo,8.0,2025-08-31,53.0,False
-2025-07-09,2025-07,2025,Management & Training Corporation (Gist State Jail),Management & Training Corp (MTC),"Government, education & nonprofit",Beaumont,Jefferson,South East Texas,6.0,2025-08-31,53.0,False
-2025-07-09,2025-07,2025,Management & Training Corporation (Lychner State Jail),Management & Training Corp (MTC),"Government, education & nonprofit",Humble,Harris,Gulf Coast,17.0,2025-08-31,53.0,False
-2025-07-09,2025-07,2025,Management & Training Corporation (Plane State Jail),Management & Training Corp (MTC),"Government, education & nonprofit",Dayton,Liberty,Gulf Coast,8.0,2025-08-31,53.0,False
-2025-07-09,2025-07,2025,Management & Training Corporation (Travis County State Jail),Management & Training Corp (MTC),Transportation & logistics,Austin,Travis,Capital Area,4.0,2025-08-31,53.0,False
-2025-07-09,2025-07,2025,Management & Training Corporation (Hutchins State Jail),Management & Training Corp (MTC),"Government, education & nonprofit",Dallas,Dallas,Dallas County,8.0,2025-08-31,53.0,False
+2025-07-10,2025-07,2025,"Sodexo, Inc.and Affiliates (Texas Southern University)",Sodexo,Restaurants & bars,Houston,Harris,Gulf Coast,81.0,2025-07-31,21.0,False
 2025-07-10,2025-07,2025,International Paper Company(N. 26th),International Paper,Manufacturing,Edinburg,Hidalgo,Lower Rio Grande Valley,5.0,2025-09-01,53.0,False
 2025-07-10,2025-07,2025,International Paper Company(W. Chaplin),International Paper,Manufacturing,Edinburg,Hidalgo,Lower Rio Grande Valley,66.0,2025-09-01,53.0,False
 2025-07-10,2025-07,2025,International Paper Company(N. Closner Blvd.),International Paper,Manufacturing,Edinburg,Hidalgo,Lower Rio Grande Valley,66.0,2025-09-01,53.0,False
-2025-07-10,2025-07,2025,"Sodexo, Inc.and Affiliates (Texas Southern University)",Sodexo,Restaurants & bars,Houston,Harris,Gulf Coast,81.0,2025-07-31,21.0,False
 2025-07-16,2025-07,2025,"AMERICA, INC., d/b/a LIXIL",America,Other / unclassified,Grand Prairie,Tarrant,Tarrant County,65.0,2025-09-08,54.0,False
 2025-07-21,2025-07,2025,Chevron Corporation (HESS Corporation),Chevron,Energy & oilfield,Houston,Harris,Gulf Coast,575.0,2025-09-26,67.0,False
 2025-07-21,2025-07,2025,SM Cargo,SM Cargo,Other / unclassified,Houston,Harris,Gulf Coast,194.0,2025-09-21,62.0,False
 2025-07-23,2025-07,2025,Peraton Balloon Operations (NASA),Peraton Balloon Operations,Other / unclassified,Palestine,Anderson,East Texas,81.0,2025-09-30,69.0,False
-2025-07-30,2025-07,2025,"Equus Workforce Solutions Terrell (Arbor E&T, LLC)",Equus Workforce Solutions Terrell,"Tech, telecom & BPO",Terrell,Kaufman,North Central Texas,8.0,2025-09-30,62.0,False
-2025-07-30,2025-07,2025,"Equus Workforce Solutions Stephenville (Arbor E&T, LLC)",Equus Workforce Solutions Stephenville,"Tech, telecom & BPO",Stephenville,Erath,North Central Texas,2.0,2025-09-30,62.0,False
-2025-07-30,2025-07,2025,"Equus Workforce Solutions McKinney (Arbor E&T, LLC)",Equus Workforce Solutions McKinney,"Tech, telecom & BPO",Mckinney,Collin,North Central Texas,15.0,2025-09-30,62.0,False
-2025-07-30,2025-07,2025,"Equus Workforce Solutions Greenville (Arbor E&T, LLC)",Equus Workforce Solutions Greenville,"Tech, telecom & BPO",Greenville,Hunt,North Central Texas,9.0,2025-09-30,62.0,False
 2025-07-30,2025-07,2025,"Equus Workforce Solutions Denton (Arbor E&T, LLC)",Equus Workforce Solutions Denton,"Tech, telecom & BPO",Denton,Denton,North Central Texas,27.0,2025-09-30,62.0,False
 2025-07-30,2025-07,2025,"Equus Workforce Solutions Arlington (Arbor E&T, LLC)",Equus Workforce Solutions Arlington,"Tech, telecom & BPO",Arlington,Tarrant,North Central Texas,4.0,2025-09-30,62.0,False
+2025-07-30,2025-07,2025,"Equus Workforce Solutions Greenville (Arbor E&T, LLC)",Equus Workforce Solutions Greenville,"Tech, telecom & BPO",Greenville,Hunt,North Central Texas,9.0,2025-09-30,62.0,False
 2025-07-30,2025-07,2025,Trinity Rail-Trinity Tank Car-Jordan Valley,Trinity Rail,Other / unclassified,Longview,Gregg,East Texas,170.0,2025-09-30,62.0,False
+2025-07-30,2025-07,2025,"Equus Workforce Solutions Stephenville (Arbor E&T, LLC)",Equus Workforce Solutions Stephenville,"Tech, telecom & BPO",Stephenville,Erath,North Central Texas,2.0,2025-09-30,62.0,False
+2025-07-30,2025-07,2025,"Equus Workforce Solutions Terrell (Arbor E&T, LLC)",Equus Workforce Solutions Terrell,"Tech, telecom & BPO",Terrell,Kaufman,North Central Texas,8.0,2025-09-30,62.0,False
 2025-07-30,2025-07,2025,"Equus Workforce Solutions Weatherford (Arbor E&T, LLC)",Weatherford,Energy & oilfield,Weatherford,Parker,North Central Texas,16.0,2025-09-30,62.0,False
+2025-07-30,2025-07,2025,"Equus Workforce Solutions McKinney (Arbor E&T, LLC)",Equus Workforce Solutions McKinney,"Tech, telecom & BPO",Mckinney,Collin,North Central Texas,15.0,2025-09-30,62.0,False
+2025-07-31,2025-07,2025,"Turner Industries (Paris, Texas September 2025)",Turner Industries,Energy & oilfield,Paris,Lamar,North East Texas,211.0,2025-09-30,61.0,False
+2025-07-31,2025-07,2025,"Southwest Key Programs, Inc. (Casa Montezuma)",Southwest Key Programs,"Government, education & nonprofit",Channelview,Harris,Gulf Coast,238.0,2025-10-05,66.0,False
 2025-07-31,2025-07,2025,"Southwest Key Programs, Inc. (Casa Sueno)",Southwest Key Programs,"Government, education & nonprofit",Weslaco,Hidalgo,Lower Rio Grande Valley,93.0,2025-10-05,66.0,False
 2025-07-31,2025-07,2025,"Southwest Key Programs, Inc. (Casa Sunzal)",Southwest Key Programs,"Government, education & nonprofit",Houston,Harris,Gulf Coast,223.0,2025-10-05,66.0,False
-2025-07-31,2025-07,2025,"Southwest Key Programs, Inc. (Casa Montezuma)",Southwest Key Programs,"Government, education & nonprofit",Channelview,Harris,Gulf Coast,238.0,2025-10-05,66.0,False
-2025-07-31,2025-07,2025,"Turner Industries (Paris, Texas September 2025)",Turner Industries,Energy & oilfield,Paris,Lamar,North East Texas,211.0,2025-09-30,61.0,False
-2025-07-31,2025-07,2025,"Southwest Key Programs, Inc. (Casa Houston Reliant)",Southwest Key Programs,"Government, education & nonprofit",Houston,Harris,Gulf Coast,211.0,2025-10-05,66.0,False
 2025-07-31,2025-07,2025,"Southwest Key Programs, Inc. (Casa Quetzal)",Southwest Key Programs,"Government, education & nonprofit",Houston,Harris,Gulf Coast,309.0,2025-10-05,66.0,False
 2025-07-31,2025-07,2025,"Southwest Key Programs, Inc. (Houston HQ)",Southwest Key Programs,"Government, education & nonprofit",Houston,Harris,Gulf Coast,11.0,2025-10-05,66.0,False
+2025-07-31,2025-07,2025,"Southwest Key Programs, Inc. (Casa Houston Reliant)",Southwest Key Programs,"Government, education & nonprofit",Houston,Harris,Gulf Coast,211.0,2025-10-05,66.0,False
 2025-07-31,2025-07,2025,Planned Parenthood Gulf Coast (Prevention Park Facility),Planned Parenthood Gulf Coast,Other / unclassified,Houston,Harris,Gulf Coast,114.0,2025-09-30,61.0,False
 2025-07-31,2025-07,2025,"Southwest Key Programs, Inc. (Casa Oasis)",Southwest Key Programs,"Government, education & nonprofit",Mcallen,Hidalgo,Lower Rio Grande Valley,128.0,2025-10-05,66.0,False
 2025-07-31,2025-07,2025,"Equus Workforce Solutions-Buckner Blvd.(Arbor E&T, LLC)",Equus Workforce Solutions,"Tech, telecom & BPO",Dallas,Dallas,Dallas County,16.0,2025-09-30,61.0,False
 2025-07-31,2025-07,2025,"Equus Workforce Solutions-Alpha Rd.(Arbor E&T, LLC)",Equus Workforce Solutions,"Tech, telecom & BPO",Dallas,Dallas,Dallas County,17.0,2025-09-30,61.0,False
 2025-07-31,2025-07,2025,"Equus Workforce Solutions-Irving Blvd. (Arbor E&T, LLC)",Equus Workforce Solutions,"Tech, telecom & BPO",Irving,Dallas,Dallas County,13.0,2025-09-30,61.0,False
 2025-07-31,2025-07,2025,"Equus Workforce Solutions-Greenville Ave. (Arbor E&T, LLC)",Equus Workforce Solutions,"Tech, telecom & BPO",Dallas,Dallas,Dallas County,10.0,2025-09-30,61.0,False
-2025-07-31,2025-07,2025,"Equus Workforce Solutions-Highway 161. (Arbor E&T, LLC)",Equus Workforce Solutions,"Tech, telecom & BPO",Grand Prairie,Dallas,Dallas County,71.0,2025-09-30,61.0,False
 2025-07-31,2025-07,2025,"Equus Workforce Solutions-Malcolm X Blvd.(Arbor E&T, LLC)",Equus Workforce Solutions,"Tech, telecom & BPO",Dallas,Dallas,Dallas County,16.0,2025-09-30,61.0,False
+2025-07-31,2025-07,2025,"Equus Workforce Solutions-Highway 161. (Arbor E&T, LLC)",Equus Workforce Solutions,"Tech, telecom & BPO",Grand Prairie,Dallas,Dallas County,71.0,2025-09-30,61.0,False
 2025-07-31,2025-07,2025,"Equus Workforce Solutions-N.Tenth St. (Arbor E&T, LLC)",Equus Workforce Solutions,"Tech, telecom & BPO",Garland,Dallas,Dallas County,10.0,2025-09-30,61.0,False
 2025-07-31,2025-07,2025,"Equus Workforce Solutions-Camp Wisdom (Arbor E&T, LLC)",Equus Workforce Solutions,"Tech, telecom & BPO",Dallas,Dallas,Dallas County,1.0,2025-09-30,61.0,False
 2025-08-01,2025-08,2025,"Equus Workforce Solutions Houston Opertions- Westheimer Rd. (Arbor E&T, LLC)",Equus Workforce Solutions Houston Opertions,"Tech, telecom & BPO",Houston,Harris,Gulf Coast,28.0,2025-09-30,60.0,False
 2025-08-01,2025-08,2025,"Equus Workforce Solutions Houston Opertions- Pearland (Arbor E&T, LLC)",Equus Workforce Solutions Houston Opertions,"Tech, telecom & BPO",Pearland,Brazoria,Gulf Coast,13.0,2025-09-30,60.0,False
 2025-08-01,2025-08,2025,"Equus Workforce Solutions Houston Opertions- Acres Home (Arbor E&T, LLC)",Equus Workforce Solutions Houston Opertions,"Tech, telecom & BPO",Houston,Harris,Gulf Coast,12.0,2025-09-30,60.0,False
 2025-08-06,2025-08,2025,"Southwest Key Programs, Inc. (Casa Canutillo)",Southwest Key Programs,"Government, education & nonprofit",Canutillo,El Paso,Borderplex,3.0,2025-10-05,60.0,False
-2025-08-06,2025-08,2025,"Southwest Key Programs, Inc.(Casa Nueva Esperanza)",Southwest Key Programs,"Government, education & nonprofit",Brownsville,Cameron,Cameron County,9.0,2025-10-05,60.0,False
-2025-08-06,2025-08,2025,"Southwest Key Programs, Inc. (Casa Rio Grande)",Southwest Key Programs,"Government, education & nonprofit",San Benito,Cameron,Cameron County,3.0,2025-10-05,60.0,False
 2025-08-06,2025-08,2025,"Southwest Key Programs, Inc.(South Texas HQ)",Southwest Key Programs,"Government, education & nonprofit",Brownsville,Cameron,Cameron County,13.0,2025-10-05,60.0,False
-2025-08-06,2025-08,2025,"Southwest Key Programs, Inc. (Casa Norma Linda)",Southwest Key Programs,"Government, education & nonprofit",Los Fresnos,Cameron,Cameron County,3.0,2025-10-05,60.0,False
-2025-08-06,2025-08,2025,"Southwest Key Programs, Inc. La Esperanza)",Southwest Key Programs,"Government, education & nonprofit",Brownsville,Cameron,Cameron County,4.0,2025-10-05,60.0,False
+2025-08-06,2025-08,2025,"Southwest Key Programs, Inc. (Casa Rio Grande)",Southwest Key Programs,"Government, education & nonprofit",San Benito,Cameron,Cameron County,3.0,2025-10-05,60.0,False
 2025-08-06,2025-08,2025,"Southwest Key Programs, Inc. (Casa Franklin)",Southwest Key Programs,"Government, education & nonprofit",El Paso,El Paso,Borderplex,1.0,2025-10-05,60.0,False
+2025-08-06,2025-08,2025,"Southwest Key Programs, Inc. (Casa Norma Linda)",Southwest Key Programs,"Government, education & nonprofit",Los Fresnos,Cameron,Cameron County,3.0,2025-10-05,60.0,False
+2025-08-06,2025-08,2025,"Southwest Key Programs, Inc.(Casa Nueva Esperanza)",Southwest Key Programs,"Government, education & nonprofit",Brownsville,Cameron,Cameron County,9.0,2025-10-05,60.0,False
+2025-08-06,2025-08,2025,UPS (Dallas Facility),UPS,Transportation & logistics,Dallas,Dallas,Dallas County,62.0,2025-08-05,-1.0,False
 2025-08-06,2025-08,2025,"Southwest Key Programs, Inc. (SWK National Headquarters)",Southwest Key Programs,"Government, education & nonprofit",Austin,Travis,Capital Area,45.0,2025-10-06,61.0,False
 2025-08-06,2025-08,2025,"Solarcycle, Inc.",Solarcycle,Other / unclassified,Odessa,Ector,Permian Basin,70.0,2025-10-06,61.0,False
-2025-08-06,2025-08,2025,UPS (Dallas Facility),UPS,Transportation & logistics,Dallas,Dallas,Dallas County,62.0,2025-08-05,-1.0,False
+2025-08-06,2025-08,2025,"Southwest Key Programs, Inc. La Esperanza)",Southwest Key Programs,"Government, education & nonprofit",Brownsville,Cameron,Cameron County,4.0,2025-10-05,60.0,False
 2025-08-13,2025-08,2025,"CarOffer, LLC",CarOffer,Other / unclassified,Addison,Dallas,Dallas County,101.0,2025-10-06,54.0,False
 2025-08-18,2025-08,2025,"Promises Behavioral Health, LLC",Promises Behavioral Health,Healthcare,Wimberley,Hays,Rural Capital,58.0,2025-10-17,60.0,False
 2025-08-20,2025-08,2025,"Tech Werks, LLC (San Antonio)",Tech Werks,"Tech, telecom & BPO",San Antonio,Bexar,Alamo,87.0,2025-09-15,26.0,False
 2025-08-27,2025-08,2025,MPW Services,MPW Services,Business & professional services,Austin,Travis,Capital Area,82.0,2025-09-01,5.0,False
 2025-09-03,2025-09,2025,"Condair Operations, LLC",Condair Operations,Other / unclassified,Center,Shelby,Deep East Texas,51.0,2025-11-03,61.0,False
-2025-09-04,2025-09,2025,CyraCom International Inc.,CyraCom International,"Tech, telecom & BPO",Houston,Harris,Gulf Coast,327.0,2025-12-01,88.0,False
 2025-09-04,2025-09,2025,"Essendant Management Services, LLC",Essendant Management Services,Business & professional services,Houston,Harris,Gulf Coast,92.0,2025-11-07,64.0,False
+2025-09-04,2025-09,2025,CyraCom International Inc.,CyraCom International,"Tech, telecom & BPO",Houston,Harris,Gulf Coast,327.0,2025-12-01,88.0,False
 2025-09-10,2025-09,2025,"Hill & Smith, Inc.",Hill & Smith,Other / unclassified,Garland,Dallas,Dallas County,46.0,2025-11-01,52.0,False
 2025-09-17,2025-09,2025,Accelore Group-Amazon Logistics (DDF2-Balch Springs),Amazon,Transportation & logistics,Mesquite,Dallas,Dallas County,107.0,2025-11-01,45.0,False
 2025-09-17,2025-09,2025,Accelore Group-Amazon Logistics (DDA9- Fort Worth),Amazon,Transportation & logistics,Fort Worth,Tarrant,Tarrant County,107.0,2025-11-01,45.0,False
@@ -2101,23 +2101,23 @@ notice_date,month,year,employer,organization,sector,city,county,wda,layoffs,layo
 2025-09-29,2025-09,2025,Texas Instruments (DFAB),Texas Instruments,Manufacturing,Dallas,Dallas,Dallas County,163.0,2025-12-12,74.0,False
 2025-09-30,2025-09,2025,"DTSV, Inc. (ITC Federal)",DTSV,"Government, education & nonprofit",Irving,Dallas,Dallas County,169.0,2025-11-30,61.0,False
 2025-09-30,2025-09,2025,"Seatrium AmFELS, Inc.",Seatrium AmFELS,Other / unclassified,Brownsville,Cameron,Cameron County,91.0,2025-11-28,59.0,False
-2025-09-30,2025-09,2025,Urban Alchemy (8th Street Shelter),Urban Alchemy,Other / unclassified,Austin,Travis,Capital Area,54.0,2025-09-30,0.0,False
 2025-09-30,2025-09,2025,Holiday Inn Club Vacations Incorporated-The Villages Resort,Holiday Inn Club Vacations,Hotels & leisure,Flint,Smith,East Texas,82.0,2025-11-28,59.0,False
+2025-09-30,2025-09,2025,Urban Alchemy (8th Street Shelter),Urban Alchemy,Other / unclassified,Austin,Travis,Capital Area,54.0,2025-09-30,0.0,False
 2025-09-30,2025-09,2025,Urban Alchemy (Arch Shelter),Urban Alchemy,Other / unclassified,Austin,Travis,Capital Area,55.0,2025-09-30,0.0,False
 2025-10-01,2025-10,2025,Yang Ming (America) Corporation,Yang Ming,Other / unclassified,Houston,Harris,Gulf Coast,118.0,2025-10-01,0.0,False
 2025-10-01,2025-10,2025,Memorial Hermann Health System Senior Living Facility,Memorial Hermann Health System Senior Living Facility,Healthcare,Houston,Harris,Gulf Coast,26.0,2025-10-01,0.0,False
 2025-10-02,2025-10,2025,Southwest Key Programs-Houston Headquarters,Southwest Key Programs,"Government, education & nonprofit",Houston,Harris,Gulf Coast,10.0,2025-11-05,34.0,False
-2025-10-02,2025-10,2025,Southwest Key Programs-Casa Nueva Esperanza,Southwest Key Programs,"Government, education & nonprofit",Brownsville,Cameron,Cameron County,8.0,2025-11-05,34.0,False
+2025-10-02,2025-10,2025,Southwest Key Programs-STX Regional Headquarters,Southwest Key Programs,"Government, education & nonprofit",Brownsville,Cameron,Cameron County,12.0,2025-11-05,34.0,False
 2025-10-02,2025-10,2025,Southwest Key Programs-National Headquarters (Austin),Southwest Key Programs,"Government, education & nonprofit",Austin,Travis,Capital Area,3.0,2025-11-05,34.0,False
 2025-10-02,2025-10,2025,Southwest Key Programs-Casa Rio Grande,Southwest Key Programs,"Government, education & nonprofit",San Benito,Cameron,Cameron County,3.0,2025-11-05,34.0,False
 2025-10-02,2025-10,2025,Southwest Key Programs-Casa Quetzal,Southwest Key Programs,"Government, education & nonprofit",Houston,Harris,Gulf Coast,3.0,2025-11-05,34.0,False
-2025-10-02,2025-10,2025,Southwest Key Programs-STX Regional Headquarters,Southwest Key Programs,"Government, education & nonprofit",Brownsville,Cameron,Cameron County,12.0,2025-11-05,34.0,False
+2025-10-02,2025-10,2025,Southwest Key Programs-Casa Nueva Esperanza,Southwest Key Programs,"Government, education & nonprofit",Brownsville,Cameron,Cameron County,8.0,2025-11-05,34.0,False
 2025-10-02,2025-10,2025,Southwest Key Programs-Casa Norma Linda,Southwest Key Programs,"Government, education & nonprofit",Los Fresnos,Cameron,Cameron County,3.0,2025-11-05,34.0,False
-2025-10-02,2025-10,2025,Southwest Key Programs-Casa Houston Reliant,Southwest Key Programs,"Government, education & nonprofit",Houston,Harris,Gulf Coast,1.0,2025-11-05,34.0,False
 2025-10-02,2025-10,2025,Southwest Key Programs-Casita Del Valle,Southwest Key Programs,"Government, education & nonprofit",Clint,El Paso,Borderplex,5.0,2025-11-05,34.0,False
 2025-10-02,2025-10,2025,Southwest Key Programs-Casa Canutillo,Southwest Key Programs,"Government, education & nonprofit",Canutillo,El Paso,Borderplex,2.0,2025-11-05,34.0,False
-2025-10-02,2025-10,2025,Southwest Key Programs-Casa Montezuma,Southwest Key Programs,"Government, education & nonprofit",Channelview,Harris,Gulf Coast,1.0,2025-11-05,34.0,False
 2025-10-02,2025-10,2025,J & J Maintenance,J & J Maintenance,Business & professional services,San Antonio,Bexar,Alamo,279.0,2025-11-30,59.0,False
+2025-10-02,2025-10,2025,Southwest Key Programs-Casa Houston Reliant,Southwest Key Programs,"Government, education & nonprofit",Houston,Harris,Gulf Coast,1.0,2025-11-05,34.0,False
+2025-10-02,2025-10,2025,Southwest Key Programs-Casa Montezuma,Southwest Key Programs,"Government, education & nonprofit",Channelview,Harris,Gulf Coast,1.0,2025-11-05,34.0,False
 2025-10-08,2025-10,2025,"Lion Elastomers Orange, LLC (Orange Plant)",Lion Elastomers Orange,Manufacturing,Orange,Orange,South East Texas,113.0,2025-12-08,61.0,False
 2025-10-08,2025-10,2025,"Meadow Burke, LLC d/b/a Leviat",Meadow Burke,Other / unclassified,Fort Worth,Tarrant,Tarrant County,75.0,2025-12-02,55.0,False
 2025-10-09,2025-10,2025,Creative Testing Solutions,Creative Testing Solutions,"Tech, telecom & BPO",Austin,Travis,Capital Area,91.0,2025-12-12,64.0,False
@@ -2131,13 +2131,13 @@ notice_date,month,year,employer,organization,sector,city,county,wda,layoffs,layo
 2025-10-28,2025-10,2025,Job1 USA (Arlington),Job1,Other / unclassified,Arlington,Tarrant,Tarrant County,31.0,2025-11-15,18.0,False
 2025-10-28,2025-10,2025,"Congo, LLC",Congo,Other / unclassified,Lewisville,Denton,North Central Texas,155.0,2025-12-31,64.0,False
 2025-10-28,2025-10,2025,Job1 USA (Haslet),Job1,Other / unclassified,Haslet,Tarrant,Tarrant County,25.0,2025-11-15,18.0,False
-2025-10-29,2025-10,2025,"Colonial Savings, F.A.","Colonial Savings, F.A",Other / unclassified,Fort Worth,Tarrant,Tarrant County,130.0,2026-01-01,64.0,False
-2025-10-29,2025-10,2025,Wells Fargo & Co. (Lubbock),Wells Fargo,Finance & insurance,Lubbock,Lubbock,South Plains,225.0,2025-10-28,-1.0,False
-2025-10-29,2025-10,2025,"Cherokee Nation System Solutions, LLC",Cherokee Nation System Solutions,"Tech, telecom & BPO",Austin,Travis,Capital Area,87.0,2025-12-19,51.0,False
 2025-10-29,2025-10,2025,Tekni-Plex (Dallas Facility),Tekni,Other / unclassified,Dallas,Dallas,Dallas County,64.0,2025-12-26,58.0,False
-2025-10-30,2025-10,2025,Pure Hothouse Foods LLC,Pure Hothouse Foods,Manufacturing,San Antonio,Bexar,Alamo,80.0,2025-12-31,62.0,False
+2025-10-29,2025-10,2025,"Cherokee Nation System Solutions, LLC",Cherokee Nation System Solutions,"Tech, telecom & BPO",Austin,Travis,Capital Area,87.0,2025-12-19,51.0,False
+2025-10-29,2025-10,2025,Wells Fargo & Co. (Lubbock),Wells Fargo,Finance & insurance,Lubbock,Lubbock,South Plains,225.0,2025-10-28,-1.0,False
+2025-10-29,2025-10,2025,"Colonial Savings, F.A.","Colonial Savings, F.A",Other / unclassified,Fort Worth,Tarrant,Tarrant County,130.0,2026-01-01,64.0,False
 2025-10-30,2025-10,2025,"Firebird Bulk Carriers, Inc. (Bryan)",Firebird Bulk Carriers,Other / unclassified,Bryan,Brazos,Middle Rio Grande,10.0,2025-12-31,62.0,False
 2025-10-30,2025-10,2025,"Firebird Bulk Carriers, Inc. (Carrizo Springs)",Firebird Bulk Carriers,Other / unclassified,Carrizo Springs,Dimmit,Middle Rio Grande,31.0,2025-12-31,62.0,False
+2025-10-30,2025-10,2025,Pure Hothouse Foods LLC,Pure Hothouse Foods,Manufacturing,San Antonio,Bexar,Alamo,80.0,2025-12-31,62.0,False
 2025-10-31,2025-10,2025,"Firebird Bulk Carriers, Inc.(Dilley)",Firebird Bulk Carriers,Other / unclassified,Dilley,Frio,Alamo,6.0,2025-12-31,61.0,False
 2025-10-31,2025-10,2025,"Firebird Bulk Carriers, Inc (Dayton)",Firebird Bulk Carriers,Other / unclassified,Dayton,Liberty,Gulf Coast,2.0,2025-12-31,61.0,False
 2025-10-31,2025-10,2025,"Natura PCR, LLC",Natura PCR,Other / unclassified,Waller,Harris,Gulf Coast,88.0,2025-10-15,-16.0,False
@@ -2159,8 +2159,8 @@ notice_date,month,year,employer,organization,sector,city,county,wda,layoffs,layo
 2025-12-02,2025-12,2025,Yang Ming (America) Corporation Updated,Yang Ming,Other / unclassified,Houston,Harris,Gulf Coast,105.0,2025-11-30,-2.0,True
 2025-12-03,2025-12,2025,Grand Lux Café LLC,Grand Lux Café,Other / unclassified,Houston,Harris,Gulf Coast,83.0,2026-01-24,52.0,False
 2025-12-03,2025-12,2025,"CRST Expedited, Inc. d/b/a CRST The Transportation Solution, Inc.",CRST Expedited,Transportation & logistics,Mansfield,Tarrant,Tarrant County,1.0,2026-02-26,85.0,False
-2025-12-10,2025-12,2025,LeeMAH Electronics. Inc.,LeeMAH Electronics,Other / unclassified,Richardson,Dallas,Dallas County,84.0,2025-12-08,-2.0,False
 2025-12-10,2025-12,2025,S&S Activewear,S&S Activewear,Other / unclassified,Irving,Dallas,Dallas County,146.0,2025-12-04,-6.0,False
+2025-12-10,2025-12,2025,LeeMAH Electronics. Inc.,LeeMAH Electronics,Other / unclassified,Richardson,Dallas,Dallas County,84.0,2025-12-08,-2.0,False
 2025-12-22,2025-12,2025,ABM Texas General Services (SMU),ABM Texas General Services,Business & professional services,Dallas,Dallas,Dallas County,211.0,2025-03-12,-285.0,False
 2025-12-26,2025-12,2025,"Telvista, Inc.",Telvista,"Tech, telecom & BPO",Dallas,Tarrant,Tarrant County,110.0,2026-02-28,64.0,False
 2025-12-29,2025-12,2025,FedEx Corporation Facility (Ft. Worth),FedEx,Transportation & logistics,Fort Worth,Tarrant,North Central Texas,89.0,2026-03-02,63.0,False
@@ -2171,63 +2171,63 @@ notice_date,month,year,employer,organization,sector,city,county,wda,layoffs,layo
 2026-01-20,2026-01,2026,"Sodexo, Inc. and Affiliates",Sodexo,Restaurants & bars,Plano,Collin,North Central Texas,85.0,2027-03-27,431.0,False
 2026-01-21,2026-01,2026,Future Proof Brands LLC (Austin),Future Proof Brands,Manufacturing,Austin,Travis,Capital Area,158.0,2026-02-21,31.0,False
 2026-01-23,2026-01,2026,Power Plug Inc. (Houston Manufacturing Company),Power Plug,Manufacturing,Houston,Harris,Gulf Coast,74.0,2026-01-23,0.0,False
+2026-01-28,2026-01,2026,Cardone Industries-Harlingen,Cardone Industries,Manufacturing,Harlingen,Cameron,Cameron County,41.0,2026-01-26,-2.0,False
 2026-01-28,2026-01,2026,Fresenius USA Manufacturing,Fresenius USA Manufacturing,Manufacturing,Coppell,Dallas,Dallas County,67.0,2026-04-10,72.0,False
 2026-01-28,2026-01,2026,Cardone Industries-Arlington,Cardone Industries,Manufacturing,Arlington,Tarrant,Tarrant County,87.0,2026-01-26,-2.0,False
-2026-01-28,2026-01,2026,Cardone Industries-Harlingen,Cardone Industries,Manufacturing,Harlingen,Cameron,Cameron County,41.0,2026-01-26,-2.0,False
 2026-01-29,2026-01,2026,Compass Connections,Compass Connections,Other / unclassified,Harlingen,Cameron,Cameron County,148.0,2026-03-29,59.0,False
 2026-02-02,2026-02,2026,Janus International Group,Janus International,Other / unclassified,Houston,Harris,Gulf Coast,113.0,2026-04-03,60.0,False
 2026-02-02,2026-02,2026,Helpful Hands Inc. Joint Base San Antonio-Lackland,Helpful Hands Inc. Joint Base San Antonio,Other / unclassified,San Antonio,Bexar,Alamo,96.0,2026-03-31,57.0,False
 2026-02-03,2026-02,2026,Expedia Group Inc. (Austin),Expedia,Other / unclassified,Austin,Travis,Capital Area,100.0,2026-04-01,57.0,False
+2026-02-04,2026-02,2026,"Empower Clinic Services, LLC",Empower Clinic Services,Healthcare,Houston,Harris,Gulf Coast,57.0,2026-02-04,0.0,False
 2026-02-04,2026-02,2026,"First Brands Group, LLC",First Brands,Manufacturing,Arlington,Tarrant,North Central Texas,87.0,2026-01-26,-9.0,False
 2026-02-04,2026-02,2026,HGS Solutions,HGS Solutions,"Tech, telecom & BPO",El Paso,El Paso,Borderplex,92.0,2026-03-31,55.0,False
-2026-02-04,2026-02,2026,"Empower Clinic Services, LLC",Empower Clinic Services,Healthcare,Houston,Harris,Gulf Coast,57.0,2026-02-04,0.0,False
 2026-02-09,2026-02,2026,Randalls #3067,Randalls #3067,Other / unclassified,Houston,Harris,Gulf Coast,94.0,2026-04-18,68.0,False
 2026-02-11,2026-02,2026,Comerica Bank(Frisco Star Tower Facility),Comerica,Finance & insurance,Frisco,Denton,North Central Texas,54.0,2026-04-24,72.0,False
 2026-02-18,2026-02,2026,Walgreens (Greens Rd.),Walgreens,Retail,Houston,Harris,Gulf Coast,159.0,2026-06-01,103.0,False
 2026-02-19,2026-02,2026,Stockyards Hotel and H3 Ranch,Stockyards Hotel and H3 Ranch,Hotels & leisure,Fort Worth,Tarrant,Tarrant County,120.0,2026-04-06,46.0,False
-2026-02-19,2026-02,2026,Bluum USA Inc.,Bluum,Other / unclassified,Irving,Dallas,Dallas County,60.0,2026-04-20,60.0,False
 2026-02-19,2026-02,2026,"Main Street Sports Group, LLC.",Main Street Sports,Other / unclassified,The Woodlands,Montgomery,Gulf Coast,18.0,2026-04-14,54.0,False
+2026-02-19,2026-02,2026,Bluum USA Inc.,Bluum,Other / unclassified,Irving,Dallas,Dallas County,60.0,2026-04-20,60.0,False
 2026-03-03,2026-03,2026,"Campbell Soup Supply Company, LLC",Campbell Soup Supply,Other / unclassified,Paris,Lamar,North East Texas,205.0,2026-05-01,59.0,False
-2026-03-04,2026-03,2026,"First Brands Group, LLC(Billy Mitchell)",First Brands,Manufacturing,Brownsville,Cameron,Cameron County,345.0,2026-04-30,57.0,False
 2026-03-04,2026-03,2026,First Brands Group LLC. (ASC Facility),First Brands,Manufacturing,Brownsville,Cameron,Cameron County,43.0,2026-04-30,57.0,False
 2026-03-04,2026-03,2026,"First Brands Group, LLC. (Titan Dist. Center)",First Brands,Manufacturing,Brownsville,Cameron,Cameron County,183.0,2026-04-30,57.0,False
+2026-03-04,2026-03,2026,"First Brands Group, LLC(Billy Mitchell)",First Brands,Manufacturing,Brownsville,Cameron,Cameron County,345.0,2026-04-30,57.0,False
 2026-03-05,2026-03,2026,Ashley Furniture Industries (Mesquite),Ashley Furniture Industries,Manufacturing,Mesquite,Dallas,Dallas County,266.0,2026-05-07,63.0,False
 2026-03-06,2026-03,2026,Saks & Company LLC (Saks Fifth Avenue - San Antonio),Saks &,Other / unclassified,San Antonio,Bexar,Alamo,71.0,2026-05-06,61.0,False
 2026-03-25,2026-03,2026,Albertsons #4286 (W. Freeway),Albertsons #4286,Other / unclassified,Fort Worth,Tarrant,Tarrant County,56.0,2026-04-25,31.0,False
 2026-03-25,2026-03,2026,Albertsons #106 (Euless),Albertsons #106,Other / unclassified,Euless,Tarrant,Tarrant County,82.0,2026-04-25,31.0,False
+2026-03-26,2026-03,2026,Tempus Holding INC. d/b/a The Lodge Card Club,Tempus,Hotels & leisure,Round Rock,Travis,Rural Capital,144.0,2026-03-24,-2.0,False
 2026-03-26,2026-03,2026,"CPLC Texas, Inc. (Magnolia ORR Site)",CPLC,Other / unclassified,Los Fresnos,Cameron,Cameron County,56.0,2026-03-31,5.0,False
 2026-03-26,2026-03,2026,Endeavors Eagle Lake Children's Center (Eagle Lake),Endeavors Eagle Lake Children's Center,Other / unclassified,Eagle Lake,Colorado,Gulf Coast,88.0,2026-03-24,-2.0,False
-2026-03-26,2026-03,2026,Tempus Holding INC. d/b/a The Lodge Card Club,Tempus,Hotels & leisure,Round Rock,Travis,Rural Capital,144.0,2026-03-24,-2.0,False
 2026-03-31,2026-03,2026,Hyatt Regency (South Congress Hotel),Hyatt,Hotels & leisure,Austin,Travis,Capital Area,126.0,2026-05-31,61.0,False
 2026-03-31,2026-03,2026,"Compass Group USA, Inc. (d/b/a Chartwell's Higher Education (Texas State University)",Compass Group,Restaurants & bars,San Marcos,Hays,Rural Capital,183.0,2026-05-31,61.0,False
 2026-04-01,2026-04,2026,GoldStar Transit (GST) Eagle Mountain/Saginaw Independent School District,GoldStar Transit,Transportation & logistics,Fort Worth,Tarrant,Tarrant County,336.0,2026-05-29,58.0,False
 2026-04-02,2026-04,2026,DSV Contract Logistics (3PL Logistics Facility),DSV Contract Logistics,Transportation & logistics,Wilmer,Dallas,Dallas County,391.0,2026-04-30,28.0,False
-2026-04-06,2026-04,2026,"Sodexo (SDH Services East, LLC) HCA Kingwood",Sodexo,Restaurants & bars,Kingwood,Harris,Gulf Coast,81.0,2026-06-13,68.0,False
 2026-04-06,2026-04,2026,"Sodexo (SDH Services East, LLC) HCA Clear Lake",Sodexo,Restaurants & bars,Webster,Harris,Gulf Coast,86.0,2026-06-13,68.0,False
+2026-04-06,2026-04,2026,"Sodexo (SDH Services East, LLC) HCA Kingwood",Sodexo,Restaurants & bars,Kingwood,Harris,Gulf Coast,81.0,2026-06-13,68.0,False
 2026-04-06,2026-04,2026,"Sodexo (SDH Services East, LLC) HCA Southeast Texas Medical Center",Sodexo,Restaurants & bars,Pasadena,Harris,Gulf Coast,63.0,2026-06-13,68.0,False
 2026-04-06,2026-04,2026,"Sodexo (SDH Services East, LLC) HCA Women's Hospital of Texas",Sodexo,Restaurants & bars,Houston,Harris,Gulf Coast,66.0,2026-06-13,68.0,False
 2026-04-08,2026-04,2026,"Ampac Mobile Holdings, LLC (ProAmpac)",Ampac Mobile,Other / unclassified,Grand Prairie,Tarrant,Tarrant County,52.0,2026-06-07,60.0,False
 2026-04-14,2026-04,2026,"T-Mobile USA, Inc.",T-Mobile,Other / unclassified,Austin,Travis,Capital Area,74.0,2026-06-08,55.0,False
 2026-04-15,2026-04,2026,Saddle Creek Corporation,Saddle Creek,Other / unclassified,New Caney,Montgomery,Gulf Coast,168.0,2026-06-11,57.0,False
 2026-04-21,2026-04,2026,"Southern Mail Service, Inc.",Southern Mail Service,Other / unclassified,Houston,Harris,Gulf Coast,50.0,2026-05-15,24.0,False
+2026-04-23,2026-04,2026,"Republic National Distributing Company, LLC (Reyes Holdings, L.L.C) Austin",Republic National Distributing,Transportation & logistics,Austin,Travis,Capital Area,164.0,2026-06-21,59.0,False
+2026-04-23,2026-04,2026,"Republic National Distributing Company, LLC (Reyes Holdings, L.L.C) Houston",Republic National Distributing,Transportation & logistics,Houston,Harris,Gulf Coast,588.0,2026-06-21,59.0,False
 2026-04-23,2026-04,2026,"Republic National Distributing Company, LLC (Reyes Holdings, L.L.C) Grand Prairie",Republic National Distributing,Transportation & logistics,Grand Prairie,Tarrant,Tarrant County,689.0,2026-06-21,59.0,False
 2026-04-23,2026-04,2026,"National Safety Apparel, LLC",National Safety Apparel,Other / unclassified,San Antonio,Bexar,Alamo,50.0,2026-06-30,68.0,False
-2026-04-23,2026-04,2026,"Republic National Distributing Company, LLC (Reyes Holdings, L.L.C) Houston",Republic National Distributing,Transportation & logistics,Houston,Harris,Gulf Coast,588.0,2026-06-21,59.0,False
-2026-04-23,2026-04,2026,"Republic National Distributing Company, LLC (Reyes Holdings, L.L.C) San Antonio",Republic National Distributing,Transportation & logistics,Schertz,Bexar,Alamo,372.0,2026-06-21,59.0,False
-2026-04-23,2026-04,2026,"Republic National Distributing Company, LLC (Reyes Holdings, L.L.C) Austin",Republic National Distributing,Transportation & logistics,Austin,Travis,Capital Area,164.0,2026-06-21,59.0,False
 2026-04-23,2026-04,2026,"Republic National Distributing Company, LLC (Reyes Holdings, L.L.C) Corpus Christie",Republic National Distributing,Transportation & logistics,Corpus Ch,Nueces,Coastal Bend,90.0,2026-06-21,59.0,False
+2026-04-23,2026-04,2026,"Republic National Distributing Company, LLC (Reyes Holdings, L.L.C) San Antonio",Republic National Distributing,Transportation & logistics,Schertz,Bexar,Alamo,372.0,2026-06-21,59.0,False
 2026-04-27,2026-04,2026,"FreshRealm, Inc.",FreshRealm,Other / unclassified,Lancaster,Dallas,Dallas County,161.0,2026-06-27,61.0,False
 2026-04-27,2026-04,2026,Laurel Ridge Treatment Center (Laurel Ridge),Laurel Ridge Treatment Center,Healthcare,San Antonio,Bexar,Alamo,648.0,2026-06-26,60.0,False
 2026-04-30,2026-04,2026,"Sodexo (SDH Services East, LLC) Fort Worth Independent School District",Sodexo,Restaurants & bars,Fort Worth,Tarrant,Tarrant County,291.0,2026-06-30,61.0,False
 2026-05-01,2026-05,2026,"Amcor Rigid Packaging USA, LLC",Amcor Rigid Packaging,Manufacturing,Fort Worth,Tarrant,Tarrant County,56.0,2026-07-02,62.0,False
-2026-05-02,2026-05,2026,Spirit Airlines (DFW) May 2026,Spirit Airlines,Airlines & aviation,Dallas,Dallas,Dallas County,444.0,2026-05-02,0.0,False
 2026-05-02,2026-05,2026,Spirit Airlines (IAH) May 2026,Spirit Airlines,Airlines & aviation,Houston,Harris,Gulf Coast,515.0,2026-05-02,0.0,False
+2026-05-02,2026-05,2026,Spirit Airlines (DFW) May 2026,Spirit Airlines,Airlines & aviation,Dallas,Dallas,Dallas County,444.0,2026-05-02,0.0,False
 2026-05-14,2026-05,2026,"Compass Group USA, Inc. (d/b/a Chartwell's Higher Education (Texas Southern Univ.)",Compass Group,Restaurants & bars,Houston,Harris,Gulf Coast,88.0,2026-06-12,29.0,False
 2026-05-19,2026-05,2026,"Auzmet Architectural, LLC",Auzmet Architectural,Other / unclassified,Dallas,Dallas,Dallas County,152.0,2026-05-19,0.0,False
 2026-05-29,2026-05,2026,Toshiba International Corporation,Toshiba International,Other / unclassified,Houston,Harris,Gulf Coast,67.0,2026-09-30,124.0,False
 2026-06-04,2026-06,2026,MW Components (Matthew Warren Inc's USA Fastner Facility),MW Components,Other / unclassified,Houston,Harris,Gulf Coast,53.0,2026-08-10,67.0,False
-2026-06-08,2026-06,2026,Alan Ritchey Incorporated,Alan Ritchey,Other / unclassified,Irving,Dallas,Dallas County,232.0,2026-09-14,98.0,False
 2026-06-08,2026-06,2026,El Paso Independent School District,El Paso Independent School District,"Government, education & nonprofit",El Paso,El Paso,Borderplex,250.0,2026-06-19,11.0,False
+2026-06-08,2026-06,2026,Alan Ritchey Incorporated,Alan Ritchey,Other / unclassified,Irving,Dallas,Dallas County,232.0,2026-09-14,98.0,False
 2026-06-09,2026-06,2026,"Remington Lodging and Hospitality, LLC (Hilton Houston NASA Clear Lake)",Hilton,Hotels & leisure,Houston,Harris,Gulf Coast,65.0,2026-07-31,52.0,False
 2026-06-12,2026-06,2026,"Fortrex (John Soules Foods, Inc.)",Fortrex,Manufacturing,Tyler,Smith,East Texas,85.0,2026-06-26,14.0,False
 2026-06-12,2026-06,2026,First Student (DeSoto I.S.D.),First Student,Other / unclassified,De Soto,Dallas,Dallas County,74.0,2026-06-30,18.0,False
@@ -2251,9 +2251,9 @@ notice_date,month,year,employer,organization,sector,city,county,wda,layoffs,layo
 2026-08-04,2026-08,2026,Essendant,Essendant,Other / unclassified,Irving,Dallas,Dallas County,136.0,2026-10-03,60.0,False
 2026-08-05,2026-08,2026,"Revol Greens Tx, LLC",Revol Greens Tx,Other / unclassified,Temple,Bell,Central Texas,115.0,2026-10-15,71.0,False
 2026-08-07,2026-08,2026,"T-Mobile USA, Inc. (Texas Irving Office)",T-Mobile,Other / unclassified,Irving,Dallas,Dallas County,113.0,2026-10-06,60.0,False
-2026-08-11,2026-08,2026,Dylan Logistics LLC (Fort Worth),Dylan Logistics,Transportation & logistics,Fort Worth,Denton,North Central Texas,70.0,2026-10-12,62.0,False
 2026-08-11,2026-08,2026,Dylan Logistics LLC (Lewisville),Dylan Logistics,Transportation & logistics,Lewisville,Denton,North Central Texas,97.0,2026-10-12,62.0,False
 2026-08-11,2026-08,2026,"Postal Center International, Inc",Postal Center International,Other / unclassified,San Antonio,Bexar,Alamo,164.0,2026-08-13,2.0,False
+2026-08-11,2026-08,2026,Dylan Logistics LLC (Fort Worth),Dylan Logistics,Transportation & logistics,Fort Worth,Denton,North Central Texas,70.0,2026-10-12,62.0,False
 2026-08-25,2026-08,2026,"Birchstone Management,LLC",Birchstone Management,Other / unclassified,Dallas,Dallas,Dallas County,55.0,2026-10-31,67.0,False
 2026-08-27,2026-08,2026,"CTI Foods Bean, LLC",CTI Foods Bean,Manufacturing,Saginaw,Tarrant,Tarrant County,66.0,2026-11-09,74.0,False
 2026-08-28,2026-08,2026,MCD Innovations (2026),MCD Innovations,Other / unclassified,Mckinney,Collin,North Central Texas,54.0,2026-09-14,17.0,False
@@ -2272,6 +2272,9 @@ notice_date,month,year,employer,organization,sector,city,county,wda,layoffs,layo
 2026-10-02,2026-10,2026,"Grunt Style, LLC (San Antonio)",Grunt Style,Other / unclassified,San Antonio,Bexar,Alamo,19.0,2026-11-30,59.0,False
 2026-10-06,2026-10,2026,Cayuga Home for Children,Cayuga Home for Children,Other / unclassified,Arlington,Tarrant,Tarrant County,18.0,2027-01-04,90.0,False
 2026-10-07,2026-10,2026,Provider Partner Care Management L.P,Provider Partner Care Management,Healthcare,Fort Worth,Tarrant,Tarrant County,79.0,2026-12-06,60.0,False
-2026-10-27,2026-10,2026,Herzog Contracting Corp,Herzog,Transportation & logistics,Austin,Travis,Capital Area,15.0,2026-12-31,65.0,False
 2026-10-27,2026-10,2026,"Herzog Transit Services , Inc",Herzog,Transportation & logistics,Austin,Travis,Capital Area,84.0,2026-12-31,65.0,False
 2026-10-27,2026-10,2026,"Herzog Technologies, Inc.",Herzog,Transportation & logistics,Austin,Travis,Capital Area,10.0,2026-12-31,65.0,False
+2026-10-27,2026-10,2026,Herzog Contracting Corp,Herzog,Transportation & logistics,Austin,Travis,Capital Area,15.0,2026-12-31,65.0,False
+2026-11-03,2026-11,2026,ECAM Technologies Corp,ECAM Technologies,"Tech, telecom & BPO",San Antonio,Bexar,Alamo,89.0,2026-12-31,58.0,False
+2026-11-03,2026-11,2026,"Family Endeavors, Inc. (“Endeavors”)",Family Endeavors,Other / unclassified,San Antonio,Bexar,Alamo,153.0,2026-12-31,58.0,False
+2026-11-03,2026-11,2026,"MV Transportation, Inc (Corpus Christi)",MV Transportation,Transportation & logistics,Corpus Christi,Nueces,Coastal Bend,96.0,2026-12-31,58.0,False

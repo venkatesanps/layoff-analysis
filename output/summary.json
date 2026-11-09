@@ -1,12 +1,12 @@
 {
  "source": "https://www.twc.texas.gov/data-reports/warn-notice",
- "rows": 2276,
- "employees": 205681,
- "organizations": 1325,
+ "rows": 2279,
+ "employees": 206019,
+ "organizations": 1327,
  "counties": 136,
  "first": "2020-01-03",
- "last": "2026-10-27",
- "ytd_cutoff": "Oct 27",
+ "last": "2026-11-03",
+ "ytd_cutoff": "Nov 03",
  "yearly": [
   {
    "year": 2020,
@@ -15,8 +15,8 @@
    "avg": 75.6,
    "median": 47.0,
    "organizations": 708,
-   "ytd_notices": 1120,
-   "ytd_employees": 84711.0
+   "ytd_notices": 1144,
+   "ytd_employees": 85962.0
   },
   {
    "year": 2021,
@@ -25,8 +25,8 @@
    "avg": 109.0,
    "median": 67.0,
    "organizations": 83,
-   "ytd_notices": 111,
-   "ytd_employees": 11984.0
+   "ytd_notices": 112,
+   "ytd_employees": 12118.0
   },
   {
    "year": 2022,
@@ -35,8 +35,8 @@
    "avg": 84.9,
    "median": 59.5,
    "organizations": 66,
-   "ytd_notices": 74,
-   "ytd_employees": 6162.0
+   "ytd_notices": 75,
+   "ytd_employees": 6212.0
   },
   {
    "year": 2023,
@@ -45,8 +45,8 @@
    "avg": 107.1,
    "median": 65.5,
    "organizations": 142,
-   "ytd_notices": 200,
-   "ytd_employees": 21712.0
+   "ytd_notices": 203,
+   "ytd_employees": 21818.0
   },
   {
    "year": 2024,
@@ -55,8 +55,8 @@
    "avg": 116.6,
    "median": 45.0,
    "organizations": 161,
-   "ytd_notices": 202,
-   "ytd_employees": 25133.0
+   "ytd_notices": 206,
+   "ytd_employees": 25769.0
   },
   {
    "year": 2025,
@@ -65,18 +65,18 @@
    "avg": 92.5,
    "median": 59.5,
    "organizations": 178,
-   "ytd_notices": 252,
-   "ytd_employees": 21151.0
+   "ytd_notices": 266,
+   "ytd_employees": 22110.0
   },
   {
    "year": 2026,
-   "notices": 111,
-   "employees": 15718.0,
-   "avg": 141.6,
-   "median": 88.0,
-   "organizations": 86,
-   "ytd_notices": 111,
-   "ytd_employees": 15718.0
+   "notices": 114,
+   "employees": 16056.0,
+   "avg": 140.8,
+   "median": 89.5,
+   "organizations": 89,
+   "ytd_notices": 114,
+   "ytd_employees": 16056.0
   }
  ],
  "monthly": [
@@ -489,6 +489,11 @@
    "month": "2026-10",
    "notices": 7,
    "employees": 234.0
+  },
+  {
+   "month": "2026-11",
+   "notices": 3,
+   "employees": 338.0
   }
  ],
  "org_top": [
@@ -747,14 +752,14 @@
   },
   {
    "organization": "MV Transportation",
-   "notices": 2,
-   "employees": 1178.0,
-   "years": "2023",
-   "n_years": 1,
-   "sites": 1,
+   "notices": 3,
+   "employees": 1274.0,
+   "years": "2023, 2026",
+   "n_years": 2,
+   "sites": 2,
    "sector": "Transportation & logistics",
    "first": "2023-10-25",
-   "last": "2023-10-25"
+   "last": "2026-11-03"
   },
   {
    "organization": "ExxonMobil",
@@ -824,16 +829,16 @@
    "sector": "Government, education & nonprofit"
   },
   {
+   "organization": "MV Transportation",
+   "notices": 3,
+   "employees": 1274.0,
+   "sector": "Transportation & logistics"
+  },
+  {
    "organization": "Spirit Airlines",
    "notices": 4,
    "employees": 1183.0,
    "sector": "Airlines & aviation"
-  },
-  {
-   "organization": "MV Transportation",
-   "notices": 2,
-   "employees": 1178.0,
-   "sector": "Transportation & logistics"
   },
   {
    "organization": "Accenture",
@@ -1477,10 +1482,10 @@
   },
   {
    "wda": "Alamo",
-   "notices": 232,
-   "employees": 21670.0,
-   "organizations": 191,
-   "share": 10.5
+   "notices": 234,
+   "employees": 21912.0,
+   "organizations": 193,
+   "share": 10.6
   },
   {
    "wda": "Capital Area",
@@ -1582,9 +1587,9 @@
   },
   {
    "wda": "Coastal Bend",
-   "notices": 25,
-   "employees": 1360.0,
-   "organizations": 20,
+   "notices": 26,
+   "employees": 1456.0,
+   "organizations": 21,
    "share": 0.7
   },
   {
@@ -1690,7 +1695,7 @@
    "2023": 2436.0,
    "2024": 2031.0,
    "2025": 1394.0,
-   "2026": 1816.0
+   "2026": 2058.0
   },
   {
    "wda": "Capital Area",
@@ -1774,9 +1779,9 @@
   },
   {
    "county": "Bexar",
-   "notices": 195,
-   "employees": 18842.0,
-   "organizations": 161
+   "notices": 197,
+   "employees": 19084.0,
+   "organizations": 163
   },
   {
    "county": "Travis",
@@ -1893,8 +1898,8 @@
   },
   {
    "city": "San Antonio",
-   "notices": 180,
-   "employees": 17685.0
+   "notices": 182,
+   "employees": 17927.0
   },
   {
    "city": "Fort Worth",
@@ -1961,8 +1966,8 @@
    "2023": 5014.0,
    "2024": 5031.0,
    "2025": 6683.0,
-   "2026": 4133.0,
-   "total": 44606.0
+   "2026": 4286.0,
+   "total": 44759.0
   },
   {
    "sector": "Restaurants & bars",
@@ -1994,8 +1999,8 @@
    "2023": 3892.0,
    "2024": 1198.0,
    "2025": 3619.0,
-   "2026": 3412.0,
-   "total": 18224.0
+   "2026": 3508.0,
+   "total": 18320.0
   },
   {
    "sector": "Hotels & leisure",
@@ -2027,8 +2032,8 @@
    "2023": 4465.0,
    "2024": 2171.0,
    "2025": 2025.0,
-   "2026": 404.0,
-   "total": 13803.0
+   "2026": 493.0,
+   "total": 13892.0
   },
   {
    "sector": "Retail",
@@ -2105,13 +2110,13 @@
   },
   {
    "size_band": "50\u201399",
-   "notices": 670,
-   "employees": 47196.0
+   "notices": 672,
+   "employees": 47381.0
   },
   {
    "size_band": "100\u2013249",
-   "notices": 443,
-   "employees": 66854.0
+   "notices": 444,
+   "employees": 67007.0
   },
   {
    "size_band": "250\u2013499",
@@ -2166,8 +2171,8 @@
    },
    {
     "year": 2026,
-    "median_days": 60.0,
-    "pct_under_60": 49.5
+    "median_days": 59.0,
+    "pct_under_60": 50.9
    }
   ]
  },
@@ -2310,6 +2315,34 @@
  ],
  "latest": [
   {
+   "notice_date": "2026-11-03",
+   "employer": "MV Transportation, Inc (Corpus Christi)",
+   "city": "Corpus Christi",
+   "layoffs": 96.0,
+   "layoff_date": "2026-12-31"
+  },
+  {
+   "notice_date": "2026-11-03",
+   "employer": "Family Endeavors, Inc. (\u201cEndeavors\u201d)",
+   "city": "San Antonio",
+   "layoffs": 153.0,
+   "layoff_date": "2026-12-31"
+  },
+  {
+   "notice_date": "2026-11-03",
+   "employer": "ECAM Technologies Corp",
+   "city": "San Antonio",
+   "layoffs": 89.0,
+   "layoff_date": "2026-12-31"
+  },
+  {
+   "notice_date": "2026-10-27",
+   "employer": "Herzog Contracting Corp",
+   "city": "Austin",
+   "layoffs": 15.0,
+   "layoff_date": "2026-12-31"
+  },
+  {
    "notice_date": "2026-10-27",
    "employer": "Herzog Technologies, Inc.",
    "city": "Austin",
@@ -2321,13 +2354,6 @@
    "employer": "Herzog Transit Services , Inc",
    "city": "Austin",
    "layoffs": 84.0,
-   "layoff_date": "2026-12-31"
-  },
-  {
-   "notice_date": "2026-10-27",
-   "employer": "Herzog Contracting Corp",
-   "city": "Austin",
-   "layoffs": 15.0,
    "layoff_date": "2026-12-31"
   },
   {
@@ -2392,27 +2418,6 @@
    "city": "Houston",
    "layoffs": 121.0,
    "layoff_date": "2026-10-30"
-  },
-  {
-   "notice_date": "2026-09-11",
-   "employer": "4XH Logistics LLC",
-   "city": "San Antonio",
-   "layoffs": 230.0,
-   "layoff_date": "2026-11-06"
-  },
-  {
-   "notice_date": "2026-09-08",
-   "employer": "Eagles Delivery LLC",
-   "city": "Roanoke",
-   "layoffs": 115.0,
-   "layoff_date": "2026-09-12"
-  },
-  {
-   "notice_date": "2026-09-08",
-   "employer": "Texas Family Initiative LLC",
-   "city": "Dallas",
-   "layoffs": 307.0,
-   "layoff_date": "2026-10-31"
   }
  ]
 }
