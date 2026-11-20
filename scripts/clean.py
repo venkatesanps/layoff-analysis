@@ -36,6 +36,7 @@ ALIASES = [
     (r"\bschlumberger\b|\bslb\b", "Schlumberger (SLB)"),
     (r"\bhall?iburton\b", "Halliburton"),
     (r"\bhooters\b", "Hooters"),
+    (r"catholic charities.*galveston", "Catholic Charities Galveston-Houston"),
     (r"^southwest\s*-", "Southwest Airlines"),
     (r"\bpappas\b", "Pappas Restaurants"),
     (r"\bfirst texas hospital\b", "First Texas Hospital"),

@@ -1,12 +1,12 @@
 {
  "source": "https://www.twc.texas.gov/data-reports/warn-notice",
- "rows": 2279,
- "employees": 206019,
+ "rows": 2280,
+ "employees": 206399,
  "organizations": 1327,
  "counties": 136,
  "first": "2020-01-03",
- "last": "2026-11-03",
- "ytd_cutoff": "Nov 03",
+ "last": "2026-11-17",
+ "ytd_cutoff": "Nov 17",
  "yearly": [
   {
    "year": 2020,
@@ -15,8 +15,8 @@
    "avg": 75.6,
    "median": 47.0,
    "organizations": 708,
-   "ytd_notices": 1144,
-   "ytd_employees": 85962.0
+   "ytd_notices": 1150,
+   "ytd_employees": 86356.0
   },
   {
    "year": 2021,
@@ -25,8 +25,8 @@
    "avg": 109.0,
    "median": 67.0,
    "organizations": 83,
-   "ytd_notices": 112,
-   "ytd_employees": 12118.0
+   "ytd_notices": 115,
+   "ytd_employees": 12379.0
   },
   {
    "year": 2022,
@@ -35,8 +35,8 @@
    "avg": 84.9,
    "median": 59.5,
    "organizations": 66,
-   "ytd_notices": 75,
-   "ytd_employees": 6212.0
+   "ytd_notices": 83,
+   "ytd_employees": 6725.0
   },
   {
    "year": 2023,
@@ -45,8 +45,8 @@
    "avg": 107.1,
    "median": 65.5,
    "organizations": 142,
-   "ytd_notices": 203,
-   "ytd_employees": 21818.0
+   "ytd_notices": 212,
+   "ytd_employees": 22662.0
   },
   {
    "year": 2024,
@@ -55,8 +55,8 @@
    "avg": 116.6,
    "median": 45.0,
    "organizations": 161,
-   "ytd_notices": 206,
-   "ytd_employees": 25769.0
+   "ytd_notices": 212,
+   "ytd_employees": 26316.0
   },
   {
    "year": 2025,
@@ -65,18 +65,18 @@
    "avg": 92.5,
    "median": 59.5,
    "organizations": 178,
-   "ytd_notices": 266,
-   "ytd_employees": 22110.0
+   "ytd_notices": 275,
+   "ytd_employees": 22705.0
   },
   {
    "year": 2026,
-   "notices": 114,
-   "employees": 16056.0,
-   "avg": 140.8,
-   "median": 89.5,
-   "organizations": 89,
-   "ytd_notices": 114,
-   "ytd_employees": 16056.0
+   "notices": 115,
+   "employees": 16436.0,
+   "avg": 142.9,
+   "median": 90.0,
+   "organizations": 90,
+   "ytd_notices": 115,
+   "ytd_employees": 16436.0
   }
  ],
  "monthly": [
@@ -492,8 +492,8 @@
   },
   {
    "month": "2026-11",
-   "notices": 3,
-   "employees": 338.0
+   "notices": 4,
+   "employees": 718.0
   }
  ],
  "org_top": [
@@ -1275,6 +1275,11 @@
     "notices": 1
    },
    {
+    "organization": "Catholic Charities Galveston-Houston",
+    "employees": 380.0,
+    "notices": 1
+   },
+   {
     "organization": "GoldStar Transit",
     "employees": 336.0,
     "notices": 1
@@ -1283,11 +1288,6 @@
     "organization": "A Metropolis",
     "employees": 313.0,
     "notices": 4
-   },
-   {
-    "organization": "Texas Family Initiative",
-    "employees": 307.0,
-    "notices": 1
    }
   ]
  },
@@ -1461,10 +1461,10 @@
  "wda": [
   {
    "wda": "Gulf Coast",
-   "notices": 601,
-   "employees": 46076.0,
+   "notices": 602,
+   "employees": 46456.0,
    "organizations": 370,
-   "share": 22.4
+   "share": 22.5
   },
   {
    "wda": "Dallas County",
@@ -1478,7 +1478,7 @@
    "notices": 206,
    "employees": 23806.0,
    "organizations": 146,
-   "share": 11.6
+   "share": 11.5
   },
   {
    "wda": "Alamo",
@@ -1555,7 +1555,7 @@
    "notices": 36,
    "employees": 3194.0,
    "organizations": 30,
-   "share": 1.6
+   "share": 1.5
   },
   {
    "wda": "Cameron County",
@@ -1665,7 +1665,7 @@
    "2023": 1546.0,
    "2024": 4126.0,
    "2025": 5173.0,
-   "2026": 3053.0
+   "2026": 3433.0
   },
   {
    "wda": "Dallas County",
@@ -1761,8 +1761,8 @@
  "county": [
   {
    "county": "Harris",
-   "notices": 430,
-   "employees": 36388.0,
+   "notices": 431,
+   "employees": 36768.0,
    "organizations": 266
   },
   {
@@ -1883,8 +1883,8 @@
  "city": [
   {
    "city": "Houston",
-   "notices": 367,
-   "employees": 32722.0
+   "notices": 368,
+   "employees": 33102.0
   },
   {
    "city": "Austin",
@@ -2076,8 +2076,8 @@
    "2023": 586.0,
    "2024": 1099.0,
    "2025": 3732.0,
-   "2026": 557.0,
-   "total": 6484.0
+   "2026": 937.0,
+   "total": 6864.0
   },
   {
    "sector": "Business & professional services",
@@ -2120,8 +2120,8 @@
   },
   {
    "size_band": "250\u2013499",
-   "notices": 86,
-   "employees": 28520.0
+   "notices": 87,
+   "employees": 28900.0
   },
   {
    "size_band": "500\u2013999",
@@ -2172,7 +2172,7 @@
    {
     "year": 2026,
     "median_days": 59.0,
-    "pct_under_60": 50.9
+    "pct_under_60": 51.3
    }
   ]
  },
@@ -2315,6 +2315,13 @@
  ],
  "latest": [
   {
+   "notice_date": "2026-11-17",
+   "employer": "Catholic Charities of the Archdiocese of Galveston-Houston (Houston)",
+   "city": "Houston",
+   "layoffs": 380.0,
+   "layoff_date": "2027-01-12"
+  },
+  {
    "notice_date": "2026-11-03",
    "employer": "MV Transportation, Inc (Corpus Christi)",
    "city": "Corpus Christi",
@@ -2323,16 +2330,16 @@
   },
   {
    "notice_date": "2026-11-03",
-   "employer": "Family Endeavors, Inc. (\u201cEndeavors\u201d)",
+   "employer": "ECAM Technologies Corp",
    "city": "San Antonio",
-   "layoffs": 153.0,
+   "layoffs": 89.0,
    "layoff_date": "2026-12-31"
   },
   {
    "notice_date": "2026-11-03",
-   "employer": "ECAM Technologies Corp",
+   "employer": "Family Endeavors, Inc. (\u201cEndeavors\u201d)",
    "city": "San Antonio",
-   "layoffs": 89.0,
+   "layoffs": 153.0,
    "layoff_date": "2026-12-31"
   },
   {
@@ -2411,13 +2418,6 @@
    "city": "Arlington",
    "layoffs": 205.0,
    "layoff_date": "2026-11-30"
-  },
-  {
-   "notice_date": "2026-09-11",
-   "employer": "New Tech Global Staffing",
-   "city": "Houston",
-   "layoffs": 121.0,
-   "layoff_date": "2026-10-30"
   }
  ]
 }

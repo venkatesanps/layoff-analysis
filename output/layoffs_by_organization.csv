@@ -66,6 +66,7 @@ FTS International,5,579.0,2020,1,5,Business & professional services,2020-03-17,2
 Vmware Inc. River Place),1,577.0,2023,1,1,"Tech, telecom & BPO",2023-12-01,2023-12-01
 Home Point Financial,2,575.0,2022,1,1,Finance & insurance,2022-08-31,2022-11-18
 Stitch Fix,1,558.0,2023,1,1,Retail,2023-10-02,2023-10-02
+Catholic Charities Galveston-Houston,9,545.0,"2025, 2026",2,2,"Government, education & nonprofit",2025-02-10,2026-11-17
 HMSHost,4,540.0,"2020, 2024",2,4,Airlines & aviation,2020-03-31,2024-01-19
 Live Nation,5,509.0,2020,1,4,Hotels & leisure,2020-09-01,2020-09-01
 Marathon Oil,1,500.0,2024,1,1,Energy & oilfield,2024-10-29,2024-10-29
@@ -178,12 +179,12 @@ F&S Produce West,1,225.0,2025,1,1,Transportation & logistics,2025-05-21,2025-05-
 Flagstone Foods,1,225.0,2025,1,1,Manufacturing,2025-10-22,2025-10-22
 Wells Fargo,1,225.0,2025,1,1,Finance & insurance,2025-10-29,2025-10-29
 US Silica,3,225.0,2020,1,3,Other / unclassified,2020-04-03,2020-04-20
-Tenaris,1,223.0,2020,1,1,Energy & oilfield,2020-03-19,2020-03-19
 Yang Ming,2,223.0,2025,1,1,Other / unclassified,2025-10-01,2025-12-02
+Tenaris,1,223.0,2020,1,1,Energy & oilfield,2020-03-19,2020-03-19
 Meta,4,222.0,2022,1,1,"Tech, telecom & BPO",2022-11-16,2022-11-16
 Fossil,1,222.0,2020,1,1,Retail,2020-03-26,2020-03-26
-Ardagh Glass Packaging,1,220.0,2024,1,1,Manufacturing,2024-06-24,2024-06-24
 Black Bear Diner,4,220.0,2020,1,4,Restaurants & bars,2020-04-09,2020-04-09
+Ardagh Glass Packaging,1,220.0,2024,1,1,Manufacturing,2024-06-24,2024-06-24
 Raices,2,220.0,2025,1,1,"Government, education & nonprofit",2025-02-18,2025-04-08
 Waitr and Bite Squad,1,219.0,2020,1,1,Transportation & logistics,2020-02-03,2020-02-03
 Amazon,2,214.0,2025,1,2,Transportation & logistics,2025-09-17,2025-09-17
@@ -227,8 +228,8 @@ Pappadeaux Seafood Kitchen 16,1,186.0,2020,1,1,Restaurants & bars,2020-03-26,202
 Pappadeaux Seafood Kitchen 09,1,184.0,2020,1,1,Restaurants & bars,2020-03-26,2020-03-26
 Eviti Gaming Headquarters,1,183.0,2020,1,1,Other / unclassified,2020-03-23,2020-03-23
 Texas Instruments,2,182.0,2025,1,2,Manufacturing,2025-09-29,2025-10-15
-Sydell Hotels,1,181.0,2020,1,1,Hotels & leisure,2020-03-20,2020-03-20
 The Woodlands Enterprises,1,181.0,2021,1,1,Other / unclassified,2021-09-09,2021-09-09
+Sydell Hotels,1,181.0,2020,1,1,Hotels & leisure,2020-03-20,2020-03-20
 Kimpton Hotel,1,180.0,2020,1,1,Hotels & leisure,2020-06-25,2020-06-25
 Wood,1,180.0,2025,1,1,Other / unclassified,2025-11-18,2025-11-18
 St. Regis Houston,1,180.0,2020,1,1,Other / unclassified,2020-06-01,2020-06-01
@@ -236,298 +237,297 @@ Pappasito's 23,1,180.0,2020,1,1,Restaurants & bars,2020-03-26,2020-03-26
 Pappadeaux Seafood Kitchen 07,1,180.0,2020,1,1,Restaurants & bars,2020-03-26,2020-03-26
 The James Skinner,1,179.0,2022,1,1,Other / unclassified,2022-09-22,2022-09-22
 Pappadeaux Seafood Kitchen 05,1,178.0,2020,1,1,Restaurants & bars,2020-03-26,2020-03-26
+"ABM Industries, Inc. Flowers Baking",1,176.0,2024,1,1,Retail,2024-01-09,2024-01-09
 Shearer's Foods,1,176.0,2024,1,1,Manufacturing,2024-02-02,2024-02-02
 GDC Technics,2,176.0,2021,1,2,"Tech, telecom & BPO",2021-04-09,2021-04-09
-"ABM Industries, Inc. Flowers Baking",1,176.0,2024,1,1,Retail,2024-01-09,2024-01-09
 Stanley Black & Decker,1,175.0,2023,1,1,Other / unclassified,2023-04-25,2023-04-25
-Dillard's,2,174.0,"2022, 2025",2,2,Retail,2022-05-12,2025-11-08
-Exterran Energy Solutions,1,174.0,2020,1,1,Energy & oilfield,2020-07-16,2020-07-16
 GEO Secure Services,1,174.0,2020,1,1,Business & professional services,2020-08-27,2020-08-27
+Exterran Energy Solutions,1,174.0,2020,1,1,Energy & oilfield,2020-07-16,2020-07-16
+Dillard's,2,174.0,"2022, 2025",2,2,Retail,2022-05-12,2025-11-08
 Fleco Industries,1,174.0,2024,1,1,Manufacturing,2024-08-07,2024-08-07
-Nucor Steel,1,173.0,2023,1,1,Manufacturing,2023-06-14,2023-06-14
 Manpower,1,173.0,2025,1,1,Other / unclassified,2025-01-29,2025-01-29
+Nucor Steel,1,173.0,2023,1,1,Manufacturing,2023-06-14,2023-06-14
 CVS Health,3,171.0,2023,1,2,Healthcare,2023-08-23,2023-11-08
-Trinity Rail,1,170.0,2025,1,1,Other / unclassified,2025-07-30,2025-07-30
 Transform SR,1,170.0,2020,1,1,Other / unclassified,2020-10-20,2020-10-20
-DTSV,1,169.0,2025,1,1,"Government, education & nonprofit",2025-09-30,2025-09-30
+Trinity Rail,1,170.0,2025,1,1,Other / unclassified,2025-07-30,2025-07-30
 Pappasito's 10,1,169.0,2020,1,1,Restaurants & bars,2020-03-26,2020-03-26
-Drive Time,2,169.0,2020,1,2,Other / unclassified,2020-03-30,2020-03-31
+DTSV,1,169.0,2025,1,1,"Government, education & nonprofit",2025-09-30,2025-09-30
 "Catholic Charities, Diocese of Fort Worth",1,169.0,2025,1,1,"Government, education & nonprofit",2025-03-10,2025-03-10
-Laredo Transit Management,1,168.0,2021,1,1,Transportation & logistics,2021-11-30,2021-11-30
-Flixbrewhouse,1,168.0,2020,1,1,Restaurants & bars,2020-03-31,2020-03-31
+Drive Time,2,169.0,2020,1,2,Other / unclassified,2020-03-30,2020-03-31
 Saddle Creek,1,168.0,2026,1,1,Other / unclassified,2026-04-15,2026-04-15
-Pappadeaux Seafood Kitchen 10,1,167.0,2020,1,1,Restaurants & bars,2020-03-26,2020-03-26
+Flixbrewhouse,1,168.0,2020,1,1,Restaurants & bars,2020-03-31,2020-03-31
+Laredo Transit Management,1,168.0,2021,1,1,Transportation & logistics,2021-11-30,2021-11-30
 Dylan Logistics,2,167.0,2026,1,2,Transportation & logistics,2026-08-11,2026-08-11
-SDH Service East,1,166.0,2024,1,1,Other / unclassified,2024-11-25,2024-11-25
+Pappadeaux Seafood Kitchen 10,1,167.0,2020,1,1,Restaurants & bars,2020-03-26,2020-03-26
 80 Acres Farms,1,166.0,2026,1,1,Other / unclassified,2026-08-03,2026-08-03
+SDH Service East,1,166.0,2024,1,1,Other / unclassified,2024-11-25,2024-11-25
 Pappadeaux Seafood Kitchen 21,1,165.0,2020,1,1,Restaurants & bars,2020-03-26,2020-03-26
 ED Tucker Powersports,1,165.0,2023,1,1,Other / unclassified,2023-09-07,2023-09-07
-Catholic Charities Archdiocese Of Galveston,8,165.0,2025,1,2,"Government, education & nonprofit",2025-02-10,2025-04-08
 Pappadeaux Seafood Kitchen 11,1,165.0,2020,1,1,Restaurants & bars,2020-03-26,2020-03-26
 Sheraton Ft. Worth,1,164.0,2020,1,1,Hotels & leisure,2020-03-20,2020-03-20
 Postal Center International,1,164.0,2026,1,1,Other / unclassified,2026-08-11,2026-08-11
 FreshRealm,1,161.0,2026,1,1,Other / unclassified,2026-04-27,2026-04-27
-Interceramic Manufacturing Facility,1,161.0,2023,1,1,Manufacturing,2023-02-28,2023-02-28
 Pappadeaux Seafood Kitchen 29,1,161.0,2020,1,1,Restaurants & bars,2020-03-26,2020-03-26
+Interceramic Manufacturing Facility,1,161.0,2023,1,1,Manufacturing,2023-02-28,2023-02-28
 Pioneer Frozen Foods,2,160.0,2020,1,2,Manufacturing,2020-03-31,2020-04-02
 Kindred Hospital Spring,1,160.0,2020,1,1,Healthcare,2020-01-15,2020-01-15
 Luminant Mining,1,160.0,2021,1,1,Other / unclassified,2021-10-11,2021-10-11
 Walgreens,1,159.0,2026,1,1,Retail,2026-02-18,2026-02-18
 Georgia Pacific Gypsum,1,158.0,2023,1,1,Other / unclassified,2023-02-02,2023-02-02
 Kuehne + Nagel,2,158.0,"2024, 2026",2,1,Other / unclassified,2024-11-12,2026-06-16
-Future Proof Brands,1,158.0,2026,1,1,Manufacturing,2026-01-21,2026-01-21
 ZeniMax MEDIA,2,158.0,2026,1,2,Other / unclassified,2026-07-06,2026-07-06
+Future Proof Brands,1,158.0,2026,1,1,Manufacturing,2026-01-21,2026-01-21
 Arnold Transportation Services,1,157.0,2024,1,1,Transportation & logistics,2024-04-30,2024-04-30
 American Medical Response,1,156.0,2023,1,1,Healthcare,2023-10-09,2023-10-09
 Pappadeaux Seafood Kitchen 08,1,155.0,2020,1,1,Restaurants & bars,2020-03-26,2020-03-26
-Pappadeaux Seafood Kitchen 36,1,154.0,2020,1,1,Restaurants & bars,2020-03-26,2020-03-26
 Equus Workforce Solutions,8,154.0,2025,1,4,"Tech, telecom & BPO",2025-07-31,2025-07-31
-Family Endeavors,1,153.0,2026,1,1,Other / unclassified,2026-11-03,2026-11-03
-Live by Loews,1,153.0,2020,1,1,Other / unclassified,2020-05-29,2020-05-29
+Pappadeaux Seafood Kitchen 36,1,154.0,2020,1,1,Restaurants & bars,2020-03-26,2020-03-26
 Hollingsworth,1,153.0,2024,1,1,Other / unclassified,2024-01-25,2024-01-25
-Hunter Douglas Fabrication,2,153.0,"2023, 2024",2,1,Manufacturing,2023-04-05,2024-06-11
 Methodist Southlake Hospital,1,153.0,2020,1,1,Healthcare,2020-10-20,2020-10-20
+Live by Loews,1,153.0,2020,1,1,Other / unclassified,2020-05-29,2020-05-29
+Hunter Douglas Fabrication,2,153.0,"2023, 2024",2,1,Manufacturing,2023-04-05,2024-06-11
+Family Endeavors,1,153.0,2026,1,1,Other / unclassified,2026-11-03,2026-11-03
 "Penske Logistics, LLC-Keller",1,152.0,2023,1,1,Transportation & logistics,2023-03-20,2023-03-20
 Auzmet Architectural,1,152.0,2026,1,1,Other / unclassified,2026-05-19,2026-05-19
-Johnson Controls,1,151.0,2021,1,1,"Tech, telecom & BPO",2021-01-14,2021-01-14
 Constellis,2,151.0,2025,1,1,Other / unclassified,2025-03-12,2025-03-12
 Pappasito's 08,1,151.0,2020,1,1,Restaurants & bars,2020-03-26,2020-03-26
-Hyliion,1,150.0,2023,1,1,Other / unclassified,2023-11-10,2023-11-10
-Probe Group North America,1,150.0,2021,1,1,Other / unclassified,2021-05-25,2021-05-25
-Pappasito's 06,1,150.0,2020,1,1,Restaurants & bars,2020-03-26,2020-03-26
+Johnson Controls,1,151.0,2021,1,1,"Tech, telecom & BPO",2021-01-14,2021-01-14
 Louisiana,1,150.0,2026,1,1,Other / unclassified,2026-09-01,2026-09-01
+Probe Group North America,1,150.0,2021,1,1,Other / unclassified,2021-05-25,2021-05-25
 BoomerangTube,1,150.0,2020,1,1,Manufacturing,2020-12-22,2020-12-22
-Manitou Equipment America,1,149.0,2020,1,1,Other / unclassified,2020-12-14,2020-12-14
+Pappasito's 06,1,150.0,2020,1,1,Restaurants & bars,2020-03-26,2020-03-26
+Hyliion,1,150.0,2023,1,1,Other / unclassified,2023-11-10,2023-11-10
 Morrison Healthcare,1,149.0,2020,1,1,Healthcare,2020-12-08,2020-12-08
+Manitou Equipment America,1,149.0,2020,1,1,Other / unclassified,2020-12-14,2020-12-14
 Compass Connections,1,148.0,2026,1,1,Other / unclassified,2026-01-29,2026-01-29
 Kirchhoff Automotive,1,148.0,2020,1,1,Other / unclassified,2020-03-26,2020-03-26
 Mule Restaurant,1,147.0,2020,1,1,Restaurants & bars,2020-03-20,2020-03-20
 At Home Corporate,1,147.0,2020,1,1,Other / unclassified,2020-04-13,2020-04-13
 Pappadeaux Seafood Kitchen 06,1,146.0,2020,1,1,Restaurants & bars,2020-03-26,2020-03-26
 S&S Activewear,1,146.0,2025,1,1,Other / unclassified,2025-12-10,2025-12-10
-Chalk Mountain Services,3,145.0,"2020, 2023, 2025",3,2,Business & professional services,2020-03-23,2025-01-21
+Animal Supply,1,145.0,2025,1,1,Other / unclassified,2025-02-11,2025-02-11
 Change Healthcare Operations,1,145.0,2021,1,1,Restaurants & bars,2021-12-06,2021-12-06
 Step Energy Services,2,145.0,2020,1,2,Energy & oilfield,2020-03-31,2020-04-09
-Animal Supply,1,145.0,2025,1,1,Other / unclassified,2025-02-11,2025-02-11
-Tempus,1,144.0,2026,1,1,Hotels & leisure,2026-03-26,2026-03-26
-Collins Aerospace,1,144.0,2020,1,1,Other / unclassified,2020-05-29,2020-05-29
+Chalk Mountain Services,3,145.0,"2020, 2023, 2025",3,2,Business & professional services,2020-03-23,2025-01-21
 Vallourec Sta,1,144.0,2020,1,1,Other / unclassified,2020-04-06,2020-04-06
-Jostens,1,142.0,2020,1,1,Other / unclassified,2020-03-24,2020-03-24
-Pappasito's 04,1,142.0,2020,1,1,Restaurants & bars,2020-04-14,2020-04-14
+Collins Aerospace,1,144.0,2020,1,1,Other / unclassified,2020-05-29,2020-05-29
+Tempus,1,144.0,2026,1,1,Hotels & leisure,2026-03-26,2026-03-26
 Wyndham,2,142.0,2020,1,1,Hotels & leisure,2020-07-30,2020-10-13
+Jostens,1,142.0,2020,1,1,Other / unclassified,2020-03-24,2020-03-24
 Securitas Critical Infrastructure Services,1,142.0,2020,1,1,Business & professional services,2020-10-05,2020-10-05
-National Credit Services,1,141.0,2020,1,1,Finance & insurance,2020-04-03,2020-04-03
+Pappasito's 04,1,142.0,2020,1,1,Restaurants & bars,2020-04-14,2020-04-14
 Wonderful Citrus Packing,1,141.0,2021,1,1,Other / unclassified,2021-03-05,2021-03-05
-SouthState Bank,1,141.0,2025,1,1,Finance & insurance,2025-03-26,2025-03-26
-Schulte Companies,8,141.0,2020,1,3,Other / unclassified,2020-03-16,2020-03-23
 Wyndham San Antonio Riverwalk,1,141.0,2020,1,1,Other / unclassified,2020-03-21,2020-03-21
-Pappadeaux Seafood Kitchen 37,1,140.0,2020,1,1,Restaurants & bars,2020-03-26,2020-03-26
-Eddy Foods,1,140.0,2023,1,1,Manufacturing,2023-02-02,2023-02-02
+Schulte Companies,8,141.0,2020,1,3,Other / unclassified,2020-03-16,2020-03-23
+SouthState Bank,1,141.0,2025,1,1,Finance & insurance,2025-03-26,2025-03-26
+National Credit Services,1,141.0,2020,1,1,Finance & insurance,2020-04-03,2020-04-03
 Tenneco,1,140.0,2024,1,1,Manufacturing,2024-12-27,2024-12-27
-Hector Garza Center,1,140.0,2020,1,1,Other / unclassified,2020-07-23,2020-07-23
+Pappadeaux Seafood Kitchen 37,1,140.0,2020,1,1,Restaurants & bars,2020-03-26,2020-03-26
 TechnipFMC,1,140.0,2020,1,1,"Tech, telecom & BPO",2020-04-29,2020-04-29
+Hector Garza Center,1,140.0,2020,1,1,Other / unclassified,2020-07-23,2020-07-23
+Eddy Foods,1,140.0,2023,1,1,Manufacturing,2023-02-02,2023-02-02
 RateGenius Loan Services,1,139.0,2023,1,1,Finance & insurance,2023-01-12,2023-01-12
 Hilite Industries,1,139.0,2020,1,1,Manufacturing,2020-11-24,2020-11-24
 DENNIS Uniform,1,139.0,2024,1,1,Other / unclassified,2024-10-22,2024-10-22
-Hard Rock Café-San Antonio,1,138.0,2020,1,1,Other / unclassified,2020-06-29,2020-06-29
 Triumph Hospital,1,138.0,2020,1,1,Healthcare,2020-01-08,2020-01-08
 BIMBO Bakeries,1,138.0,2024,1,1,Other / unclassified,2024-07-26,2024-07-26
 VillaSport,3,138.0,2020,1,3,Other / unclassified,2020-10-27,2020-10-27
-Diversified Technical Services,1,137.0,2023,1,1,"Tech, telecom & BPO",2023-05-30,2023-05-30
+Hard Rock Café-San Antonio,1,138.0,2020,1,1,Other / unclassified,2020-06-29,2020-06-29
 Pappasito's 11,1,137.0,2020,1,1,Restaurants & bars,2020-03-25,2020-03-25
-Mittera,1,136.0,2023,1,1,Other / unclassified,2023-10-10,2023-10-10
-Pappasito's 15,1,136.0,2020,1,1,Restaurants & bars,2020-03-26,2020-03-26
-Essendant,1,136.0,2026,1,1,Other / unclassified,2026-08-04,2026-08-04
+Diversified Technical Services,1,137.0,2023,1,1,"Tech, telecom & BPO",2023-05-30,2023-05-30
 Jabil,1,136.0,2024,1,1,Other / unclassified,2024-10-10,2024-10-10
+Pappasito's 15,1,136.0,2020,1,1,Restaurants & bars,2020-03-26,2020-03-26
 S&B Fabrication Services,2,136.0,2022,1,1,Manufacturing,2022-07-06,2022-09-09
-Saint Arnold Brewing,1,135.0,2020,1,1,Restaurants & bars,2020-03-25,2020-03-25
+Essendant,1,136.0,2026,1,1,Other / unclassified,2026-08-04,2026-08-04
+Mittera,1,136.0,2023,1,1,Other / unclassified,2023-10-10,2023-10-10
 Pappasito's 03,1,135.0,2020,1,1,Restaurants & bars,2020-03-26,2020-03-26
-Hill Defense and Federal Solutions,1,134.0,2022,1,1,"Tech, telecom & BPO",2022-10-11,2022-10-11
-CalFrac Well Services,1,134.0,2020,1,1,Energy & oilfield,2020-04-15,2020-04-15
+Saint Arnold Brewing,1,135.0,2020,1,1,Restaurants & bars,2020-03-25,2020-03-25
+Pinnacle Logistics,1,134.0,2020,1,1,Transportation & logistics,2020-03-27,2020-03-27
+Odle Management,1,134.0,2021,1,1,Other / unclassified,2021-10-29,2021-10-29
+InterContinental,2,134.0,"2020, 2021",2,1,Other / unclassified,2020-03-31,2021-09-30
 The Children's Shelter,2,134.0,2021,1,1,Other / unclassified,2021-05-14,2021-09-22
 Renaissance Dallas Addison Hotel,1,134.0,2021,1,1,Hotels & leisure,2021-03-18,2021-03-18
-Odle Management,1,134.0,2021,1,1,Other / unclassified,2021-10-29,2021-10-29
-Pinnacle Logistics,1,134.0,2020,1,1,Transportation & logistics,2020-03-27,2020-03-27
-InterContinental,2,134.0,"2020, 2021",2,1,Other / unclassified,2020-03-31,2021-09-30
+Hill Defense and Federal Solutions,1,134.0,2022,1,1,"Tech, telecom & BPO",2022-10-11,2022-10-11
+CalFrac Well Services,1,134.0,2020,1,1,Energy & oilfield,2020-04-15,2020-04-15
 Rooster Teeth Production,1,133.0,2024,1,1,Energy & oilfield,2024-03-11,2024-03-11
-Windhaven Insurance,2,131.0,2020,1,2,Finance & insurance,2020-02-25,2020-02-26
 Freeman,3,131.0,2020,1,2,Other / unclassified,2020-09-18,2020-09-18
+Windhaven Insurance,2,131.0,2020,1,2,Finance & insurance,2020-02-25,2020-02-26
 LX Pantos America,1,131.0,2025,1,1,Other / unclassified,2025-02-05,2025-02-05
 "Colonial Savings, F.A",1,130.0,2025,1,1,Other / unclassified,2025-10-29,2025-10-29
 Harland Clarke,1,130.0,2023,1,1,Other / unclassified,2023-08-23,2023-08-23
 Schenker,2,130.0,2022,1,1,Other / unclassified,2022-06-06,2022-06-06
 Scholastic Book Fairs,2,128.0,2020,1,2,Other / unclassified,2020-04-06,2020-04-06
-Holiday Inn,2,128.0,2020,1,2,Hotels & leisure,2020-03-23,2020-03-31
 Pappasito's 09,1,128.0,2020,1,1,Restaurants & bars,2020-03-26,2020-03-26
+Holiday Inn,2,128.0,2020,1,2,Hotels & leisure,2020-03-23,2020-03-31
 Pappasito's 14,1,128.0,2020,1,1,Restaurants & bars,2020-03-26,2020-03-26
 Pappasito's 12,1,128.0,2020,1,1,Restaurants & bars,2020-03-26,2020-03-26
-Stanley Black and Decker,1,127.0,2024,1,1,Other / unclassified,2024-03-14,2024-03-14
 David McDavid,3,127.0,2020,1,3,Other / unclassified,2020-04-03,2020-04-03
-Pappasito's 16,1,127.0,2020,1,1,Restaurants & bars,2020-03-26,2020-03-26
 Tincup Water Solutions,1,127.0,2020,1,1,"Tech, telecom & BPO",2020-03-26,2020-03-26
+Stanley Black and Decker,1,127.0,2024,1,1,Other / unclassified,2024-03-14,2024-03-14
+Pappasito's 16,1,127.0,2020,1,1,Restaurants & bars,2020-03-26,2020-03-26
 Attala Steele Industries,1,126.0,2023,1,1,Manufacturing,2023-06-01,2023-06-01
-Yazaki North America,2,126.0,2020,1,1,Other / unclassified,2020-04-10,2020-04-13
 Bellaire Medical Center,1,126.0,2020,1,1,Healthcare,2020-02-25,2020-02-25
 United Supermarkets,1,126.0,2025,1,1,Other / unclassified,2025-11-19,2025-11-19
-State Farm,1,125.0,2023,1,1,Finance & insurance,2023-01-24,2023-01-24
-Pappadeaux Seafood Kitchen 03,1,125.0,2020,1,1,Restaurants & bars,2020-03-26,2020-03-26
-ION Geophysical,1,125.0,2022,1,1,Other / unclassified,2022-07-19,2022-07-19
-Cameron Mitchell Restaurants,1,125.0,2020,1,1,Restaurants & bars,2020-03-24,2020-03-24
-Kroger,2,125.0,2024,1,2,Retail,2024-03-26,2024-03-27
+Yazaki North America,2,126.0,2020,1,1,Other / unclassified,2020-04-10,2020-04-13
 VF's Dickies Headquarters,1,125.0,2025,1,1,Other / unclassified,2025-03-26,2025-03-26
+State Farm,1,125.0,2023,1,1,Finance & insurance,2023-01-24,2023-01-24
+ION Geophysical,1,125.0,2022,1,1,Other / unclassified,2022-07-19,2022-07-19
+Kroger,2,125.0,2024,1,2,Retail,2024-03-26,2024-03-27
 HII Mission Technologies,2,125.0,"2022, 2024",2,1,"Tech, telecom & BPO",2022-12-21,2024-06-20
+Cameron Mitchell Restaurants,1,125.0,2020,1,1,Restaurants & bars,2020-03-24,2020-03-24
+Pappadeaux Seafood Kitchen 03,1,125.0,2020,1,1,Restaurants & bars,2020-03-26,2020-03-26
 Autobahn Imports,1,124.0,2020,1,1,Other / unclassified,2020-03-24,2020-03-24
-Westin Stonbriar Hotel,1,123.0,2020,1,1,Hotels & leisure,2020-03-27,2020-03-27
-Pappadeaux Seafood Kitchen 39,1,123.0,2020,1,1,Restaurants & bars,2020-03-26,2020-03-26
 Vectrus Systems,1,123.0,2024,1,1,"Tech, telecom & BPO",2024-07-17,2024-07-17
-Crothall Healthcare,2,122.0,"2021, 2025",2,2,Healthcare,2021-07-27,2025-01-08
-ACCC Insurance,1,122.0,2020,1,1,Finance & insurance,2020-12-21,2020-12-21
+Pappadeaux Seafood Kitchen 39,1,123.0,2020,1,1,Restaurants & bars,2020-03-26,2020-03-26
+Westin Stonbriar Hotel,1,123.0,2020,1,1,Hotels & leisure,2020-03-27,2020-03-27
 Devereux Advanced Behavioral Health,1,122.0,2022,1,1,Healthcare,2022-03-28,2022-03-28
 LegalZoom.com,1,122.0,2023,1,1,Other / unclassified,2023-10-12,2023-10-12
+Crothall Healthcare,2,122.0,"2021, 2025",2,2,Healthcare,2021-07-27,2025-01-08
+ACCC Insurance,1,122.0,2020,1,1,Finance & insurance,2020-12-21,2020-12-21
+Misfits Market Technologies,1,121.0,2023,1,1,Transportation & logistics,2023-02-07,2023-02-07
 "Fresenius Health Partners, I c",1,121.0,2021,1,1,Healthcare,2021-03-31,2021-03-31
+Cognizant,2,121.0,2023,1,1,"Tech, telecom & BPO",2023-06-23,2023-11-27
 New Tech Global Staffing,1,121.0,2026,1,1,"Tech, telecom & BPO",2026-09-11,2026-09-11
 Encino Energy,1,121.0,2025,1,1,Energy & oilfield,2025-06-18,2025-06-18
-Misfits Market Technologies,1,121.0,2023,1,1,Transportation & logistics,2023-02-07,2023-02-07
 Pappasito's 13,1,121.0,2020,1,1,Restaurants & bars,2020-03-26,2020-03-26
-Cognizant,2,121.0,2023,1,1,"Tech, telecom & BPO",2023-06-23,2023-11-27
+Pappadeaux Seafood Kitchen 33,1,120.0,2020,1,1,Restaurants & bars,2020-04-13,2020-04-13
+XTO Energy,7,120.0,2023,1,5,Energy & oilfield,2023-10-20,2023-10-23
 Stockyards Hotel and H3 Ranch,1,120.0,2026,1,1,Hotels & leisure,2026-02-19,2026-02-19
+Boston Scientific,1,120.0,2023,1,1,Other / unclassified,2023-02-23,2023-02-23
 Management Training,1,120.0,2023,1,1,Other / unclassified,2023-06-29,2023-06-29
 Envision Physician Services,1,120.0,2025,1,1,Business & professional services,2025-04-02,2025-04-02
-XTO Energy,7,120.0,2023,1,5,Energy & oilfield,2023-10-20,2023-10-23
-Pappadeaux Seafood Kitchen 33,1,120.0,2020,1,1,Restaurants & bars,2020-04-13,2020-04-13
-Boston Scientific,1,120.0,2023,1,1,Other / unclassified,2023-02-23,2023-02-23
 Garland Behvaioral Hospital,1,119.0,2021,1,1,Healthcare,2021-08-09,2021-08-09
-Interceramic Corporate Office and Distribution Center,1,118.0,2023,1,1,Transportation & logistics,2023-02-27,2023-02-27
 Legend Energy Service,1,118.0,2021,1,1,Energy & oilfield,2021-05-12,2021-05-12
-Pappasito's 21,1,117.0,2020,1,1,Restaurants & bars,2020-03-26,2020-03-26
-Merit Medical Systems,1,117.0,2022,1,1,Healthcare,2022-08-25,2022-08-25
+Interceramic Corporate Office and Distribution Center,1,118.0,2023,1,1,Transportation & logistics,2023-02-27,2023-02-27
 Pappasito's 22,1,117.0,2020,1,1,Restaurants & bars,2020-03-26,2020-03-26
-"Cosmax Nbt Usa, Inc #1",2,116.0,"2022, 2025",2,1,Other / unclassified,2022-11-11,2025-01-14
-Khoros,1,116.0,2025,1,1,Other / unclassified,2025-06-18,2025-06-18
+Merit Medical Systems,1,117.0,2022,1,1,Healthcare,2022-08-25,2022-08-25
+Pappasito's 21,1,117.0,2020,1,1,Restaurants & bars,2020-03-26,2020-03-26
 Neilsen and Bainbridge,1,116.0,2023,1,1,Other / unclassified,2023-06-15,2023-06-15
+Khoros,1,116.0,2025,1,1,Other / unclassified,2025-06-18,2025-06-18
 Pappasito's 05,1,116.0,2020,1,1,Restaurants & bars,2020-03-26,2020-03-26
-TATA Consultancy Services Limited 2024,2,115.0,2024,1,2,Business & professional services,2024-05-02,2024-05-02
-S&B Industry,1,115.0,2023,1,1,Other / unclassified,2023-07-05,2023-07-05
+"Cosmax Nbt Usa, Inc #1",2,116.0,"2022, 2025",2,1,Other / unclassified,2022-11-11,2025-01-14
 ABM,5,115.0,2024,1,3,Business & professional services,2024-08-08,2024-08-08
+S&B Industry,1,115.0,2023,1,1,Other / unclassified,2023-07-05,2023-07-05
 Fifth Third Bank,1,115.0,2026,1,1,Finance & insurance,2026-07-10,2026-07-10
 Revol Greens Tx,1,115.0,2026,1,1,Other / unclassified,2026-08-05,2026-08-05
-Eagles Delivery,1,115.0,2026,1,1,Transportation & logistics,2026-09-08,2026-09-08
 Pearl South Padre Island Hotel and Resort,1,115.0,2022,1,1,Hotels & leisure,2022-07-19,2022-07-19
 Benchmark Hospitality of Corpus Christi,1,115.0,2020,1,1,Healthcare,2020-03-20,2020-03-20
-ICON Technology,1,114.0,2025,1,1,"Tech, telecom & BPO",2025-01-07,2025-01-07
+Eagles Delivery,1,115.0,2026,1,1,Transportation & logistics,2026-09-08,2026-09-08
+TATA Consultancy Services Limited 2024,2,115.0,2024,1,2,Business & professional services,2024-05-02,2024-05-02
 The Expo,1,114.0,2020,1,1,Transportation & logistics,2020-09-29,2020-09-29
-Borusan Mannesmann Pipe U.S,1,114.0,2020,1,1,Other / unclassified,2020-07-08,2020-07-08
 Planned Parenthood Gulf Coast,1,114.0,2025,1,1,Other / unclassified,2025-07-31,2025-07-31
+Borusan Mannesmann Pipe U.S,1,114.0,2020,1,1,Other / unclassified,2020-07-08,2020-07-08
 West Texas Medical Associates,1,114.0,2021,1,1,Healthcare,2021-02-25,2021-02-25
 Denbury,2,114.0,2024,1,1,Other / unclassified,2024-02-29,2024-05-02
-PV Fluid Products,1,113.0,2020,1,1,Other / unclassified,2020-06-25,2020-06-25
+ICON Technology,1,114.0,2025,1,1,"Tech, telecom & BPO",2025-01-07,2025-01-07
 Pappadeaux Seafood Kitchen 41,1,113.0,2020,1,1,Restaurants & bars,2020-03-26,2020-03-26
-Janus International,1,113.0,2026,1,1,Other / unclassified,2026-02-02,2026-02-02
 Warwick Melrose Hotel,1,113.0,2020,1,1,Hotels & leisure,2020-03-20,2020-03-20
-Reata Pharmaceuticals,1,113.0,2023,1,1,Healthcare,2023-10-09,2023-10-09
-Pappadeaux Seafood Kitchen 42,1,113.0,2020,1,1,Restaurants & bars,2020-03-26,2020-03-26
 Lion Elastomers Orange,1,113.0,2025,1,1,Manufacturing,2025-10-08,2025-10-08
+Reata Pharmaceuticals,1,113.0,2023,1,1,Healthcare,2023-10-09,2023-10-09
+PV Fluid Products,1,113.0,2020,1,1,Other / unclassified,2020-06-25,2020-06-25
+Pappadeaux Seafood Kitchen 42,1,113.0,2020,1,1,Restaurants & bars,2020-03-26,2020-03-26
+Janus International,1,113.0,2026,1,1,Other / unclassified,2026-02-02,2026-02-02
 Job1,5,112.0,2025,1,5,Other / unclassified,2025-10-23,2025-10-28
 Cygnus Home Services,12,112.0,"2023, 2024",2,12,Business & professional services,2023-10-26,2024-09-23
 EnerVest,1,111.0,2021,1,1,Other / unclassified,2021-04-29,2021-04-29
 The Sheraton Arlington Hotel,1,110.0,2025,1,1,Hotels & leisure,2025-12-02,2025-12-02
-Rabalais I & E,1,110.0,2020,1,1,Other / unclassified,2020-03-23,2020-03-23
-Captel Service Specialists,1,110.0,2022,1,1,Other / unclassified,2022-07-20,2022-07-20
-Railcrew Express,1,110.0,2020,1,1,Transportation & logistics,2020-02-12,2020-02-12
-Telvista,1,110.0,2025,1,1,"Tech, telecom & BPO",2025-12-26,2025-12-26
 Transocean Deepwater,1,110.0,2020,1,1,Other / unclassified,2020-07-07,2020-07-07
 Sumitomo Electric Wiring Systems,1,110.0,2023,1,1,"Tech, telecom & BPO",2023-01-20,2023-01-20
+Telvista,1,110.0,2025,1,1,"Tech, telecom & BPO",2025-12-26,2025-12-26
 Whole Food Market,1,110.0,2023,1,1,Other / unclassified,2023-11-08,2023-11-08
-Urban Alchemy,2,109.0,2025,1,1,Other / unclassified,2025-09-30,2025-09-30
-Little Pappasito's,1,109.0,2020,1,1,Restaurants & bars,2020-03-26,2020-03-26
-IPC Industries,1,109.0,2020,1,1,Manufacturing,2020-04-28,2020-04-28
-Herzog,3,109.0,2026,1,1,Transportation & logistics,2026-10-27,2026-10-27
+Captel Service Specialists,1,110.0,2022,1,1,Other / unclassified,2022-07-20,2022-07-20
+Railcrew Express,1,110.0,2020,1,1,Transportation & logistics,2020-02-12,2020-02-12
+Rabalais I & E,1,110.0,2020,1,1,Other / unclassified,2020-03-23,2020-03-23
 Master Brand Home Products,1,109.0,2022,1,1,Other / unclassified,2022-03-08,2022-03-08
-Jumbo Beverages,1,109.0,2024,1,1,Other / unclassified,2024-01-17,2024-01-17
+IPC Industries,1,109.0,2020,1,1,Manufacturing,2020-04-28,2020-04-28
 Signal Peak Silica,2,109.0,2020,1,2,Other / unclassified,2020-04-14,2020-04-23
+Jumbo Beverages,1,109.0,2024,1,1,Other / unclassified,2024-01-17,2024-01-17
+Little Pappasito's,1,109.0,2020,1,1,Restaurants & bars,2020-03-26,2020-03-26
+Urban Alchemy,2,109.0,2025,1,1,Other / unclassified,2025-09-30,2025-09-30
+Herzog,3,109.0,2026,1,1,Transportation & logistics,2026-10-27,2026-10-27
 Signify North America,1,109.0,2024,1,1,Other / unclassified,2024-03-14,2024-03-14
-Tinseltown USA El Paso,1,108.0,2020,1,1,Other / unclassified,2020-03-26,2020-03-26
 Mattison Pathology,2,108.0,"2021, 2024",2,1,Other / unclassified,2021-06-01,2024-02-01
 Joyson Safety Systems,1,108.0,2024,1,1,"Tech, telecom & BPO",2024-04-17,2024-04-17
+Tinseltown USA El Paso,1,108.0,2020,1,1,Other / unclassified,2020-03-26,2020-03-26
 True Value,1,107.0,2024,1,1,Other / unclassified,2024-10-23,2024-10-23
 STG International,1,107.0,2024,1,1,Other / unclassified,2024-07-18,2024-07-18
 Rarefied Atmosphere,1,106.0,2024,1,1,Other / unclassified,2024-05-14,2024-05-14
 Pappasito's 02,1,106.0,2020,1,1,Restaurants & bars,2020-03-26,2020-03-26
-The Pearl South Padre,1,105.0,2020,1,1,Other / unclassified,2020-03-26,2020-03-26
 Trellis,1,105.0,2023,1,1,Other / unclassified,2023-03-14,2023-03-14
-VT Industries,1,104.0,2021,1,1,Manufacturing,2021-01-06,2021-01-06
-EVO Transportation,1,104.0,2020,1,1,Transportation & logistics,2020-12-15,2020-12-15
+The Pearl South Padre,1,105.0,2020,1,1,Other / unclassified,2020-03-26,2020-03-26
 Compass United,1,104.0,2023,1,1,Other / unclassified,2023-09-19,2023-09-19
+EVO Transportation,1,104.0,2020,1,1,Transportation & logistics,2020-12-15,2020-12-15
+VT Industries,1,104.0,2021,1,1,Manufacturing,2021-01-06,2021-01-06
 Waco Family Medicine,2,104.0,2025,1,1,Other / unclassified,2025-03-26,2025-03-26
+Off Lease,1,103.0,2023,1,1,Other / unclassified,2023-09-19,2023-09-19
+Shell,1,103.0,2024,1,1,Energy & oilfield,2024-10-16,2024-10-16
 ECFMG-Clinical Skills Exam,1,103.0,2020,1,1,Healthcare,2020-05-27,2020-05-27
 Watson & Chalin Manufacturing,1,103.0,2020,1,1,Manufacturing,2020-04-02,2020-04-02
-Shell,1,103.0,2024,1,1,Energy & oilfield,2024-10-16,2024-10-16
-Off Lease,1,103.0,2023,1,1,Other / unclassified,2023-09-19,2023-09-19
 Covenant Aviation Security,2,103.0,2023,1,1,Airlines & aviation,2023-11-27,2023-11-27
-Randalls Store #1041,1,102.0,2025,1,1,Retail,2025-06-11,2025-06-11
 Cypress Creek Emergency Medical Services,1,102.0,2021,1,1,Healthcare,2021-11-13,2021-11-13
-Diamond Offshore Drilling Corporate,1,102.0,2020,1,1,Energy & oilfield,2020-04-15,2020-04-15
-Eden Green Technology,1,102.0,2025,1,1,"Tech, telecom & BPO",2025-10-15,2025-10-15
-CWT,1,102.0,2020,1,1,Other / unclassified,2020-07-28,2020-07-28
 Intrepid U.S.A,1,102.0,2024,1,1,Other / unclassified,2024-06-10,2024-06-10
 Electronic Transaction Consultants,2,102.0,"2020, 2021",2,1,Business & professional services,2020-11-12,2021-06-07
+Diamond Offshore Drilling Corporate,1,102.0,2020,1,1,Energy & oilfield,2020-04-15,2020-04-15
+Randalls Store #1041,1,102.0,2025,1,1,Retail,2025-06-11,2025-06-11
+Eden Green Technology,1,102.0,2025,1,1,"Tech, telecom & BPO",2025-10-15,2025-10-15
+CWT,1,102.0,2020,1,1,Other / unclassified,2020-07-28,2020-07-28
 CarOffer,1,101.0,2025,1,1,Other / unclassified,2025-08-13,2025-08-13
 Interfaith Ministries Of Greater Houston,1,101.0,2025,1,1,"Government, education & nonprofit",2025-03-11,2025-03-11
-Pappadeaux Seafood Kitchen 02,1,100.0,2020,1,1,Restaurants & bars,2020-03-26,2020-03-26
-Sable Permian Resources Operating,1,100.0,2020,1,1,Other / unclassified,2020-12-04,2020-12-04
 Wix.com,1,100.0,2023,1,1,Other / unclassified,2023-02-21,2023-02-21
-Four Seasons Resort,1,100.0,2020,1,1,Hotels & leisure,2020-03-17,2020-03-17
-TPC Group's,1,100.0,2020,1,1,Other / unclassified,2020-02-25,2020-02-25
-Transocean Offshore Deepwater Drilling,1,100.0,2020,1,1,Energy & oilfield,2020-10-15,2020-10-15
 Pappadeaux Seafood Kitchen 04,1,100.0,2020,1,1,Restaurants & bars,2020-03-16,2020-03-16
-Embassy Suites,2,99.0,2020,1,2,Hotels & leisure,2020-03-21,2020-04-09
-Sheraton Austin,1,99.0,2020,1,1,Hotels & leisure,2020-05-22,2020-05-22
-Hollywood,2,99.0,2020,1,2,Other / unclassified,2020-03-26,2020-03-26
+Transocean Offshore Deepwater Drilling,1,100.0,2020,1,1,Energy & oilfield,2020-10-15,2020-10-15
+Pappadeaux Seafood Kitchen 02,1,100.0,2020,1,1,Restaurants & bars,2020-03-26,2020-03-26
+TPC Group's,1,100.0,2020,1,1,Other / unclassified,2020-02-25,2020-02-25
+Sable Permian Resources Operating,1,100.0,2020,1,1,Other / unclassified,2020-12-04,2020-12-04
+Four Seasons Resort,1,100.0,2020,1,1,Hotels & leisure,2020-03-17,2020-03-17
 National Fire & Safety,1,99.0,2024,1,1,Other / unclassified,2024-10-16,2024-10-16
 Raytheon Technologies,3,99.0,2023,1,1,"Tech, telecom & BPO",2023-09-12,2023-11-06
-Pappadeaux Seafood Kitchen 22,1,99.0,2020,1,1,Restaurants & bars,2020-03-26,2020-03-26
+Sheraton Austin,1,99.0,2020,1,1,Hotels & leisure,2020-05-22,2020-05-22
+Hollywood,2,99.0,2020,1,2,Other / unclassified,2020-03-26,2020-03-26
+Embassy Suites,2,99.0,2020,1,2,Hotels & leisure,2020-03-21,2020-04-09
 Lucite International,1,99.0,2021,1,1,Other / unclassified,2021-01-25,2021-01-25
+Pappadeaux Seafood Kitchen 22,1,99.0,2020,1,1,Restaurants & bars,2020-03-26,2020-03-26
 Tinseltown USA Pflugerville,1,97.0,2020,1,1,Other / unclassified,2020-03-26,2020-03-26
-Arkane Studios,1,96.0,2024,1,1,Other / unclassified,2024-05-07,2024-05-07
-Gibraltar,1,96.0,2021,1,1,Other / unclassified,2021-01-21,2021-01-21
 Adeputs Health,1,96.0,2020,1,1,Healthcare,2020-06-15,2020-06-15
+Arkane Studios,1,96.0,2024,1,1,Other / unclassified,2024-05-07,2024-05-07
 Helpful Hands Inc. Joint Base San Antonio,1,96.0,2026,1,1,Other / unclassified,2026-02-02,2026-02-02
-Ovintive,1,95.0,2021,1,1,Other / unclassified,2021-03-25,2021-03-25
-St Edwards University,1,95.0,2020,1,1,"Government, education & nonprofit",2020-05-14,2020-05-14
-Aryzta,1,95.0,2020,1,1,Other / unclassified,2020-03-06,2020-03-06
-Texas Capital Bank,1,95.0,2021,1,1,Finance & insurance,2021-04-23,2021-04-23
+Gibraltar,1,96.0,2021,1,1,Other / unclassified,2021-01-21,2021-01-21
 "Energy Transfer, LP-SEC Energy Products",1,95.0,2020,1,1,Energy & oilfield,2020-04-21,2020-04-21
-Target,1,95.0,2024,1,1,Healthcare,2024-06-13,2024-06-13
-Dyn365,1,95.0,2020,1,1,Restaurants & bars,2020-03-23,2020-03-23
-Pappasito's 07,1,95.0,2020,1,1,Restaurants & bars,2020-03-26,2020-03-26
-Southeast Service Corporation Services For Education,1,95.0,2024,1,1,Business & professional services,2024-06-25,2024-06-25
-Pappadeaux Seafood Kitchen 1,1,95.0,2020,1,1,Restaurants & bars,2020-03-26,2020-03-26
-CEC Entertainment,1,95.0,2020,1,1,Hotels & leisure,2020-08-28,2020-08-28
+St Edwards University,1,95.0,2020,1,1,"Government, education & nonprofit",2020-05-14,2020-05-14
 Patrician Window Coverings,1,95.0,2020,1,1,Other / unclassified,2020-12-10,2020-12-10
-Southern Star Express,2,94.0,2022,1,2,Other / unclassified,2022-08-24,2022-08-24
+Texas Capital Bank,1,95.0,2021,1,1,Finance & insurance,2021-04-23,2021-04-23
+Target,1,95.0,2024,1,1,Healthcare,2024-06-13,2024-06-13
+Ovintive,1,95.0,2021,1,1,Other / unclassified,2021-03-25,2021-03-25
+Pappadeaux Seafood Kitchen 1,1,95.0,2020,1,1,Restaurants & bars,2020-03-26,2020-03-26
+Dyn365,1,95.0,2020,1,1,Restaurants & bars,2020-03-23,2020-03-23
+Aryzta,1,95.0,2020,1,1,Other / unclassified,2020-03-06,2020-03-06
+Southeast Service Corporation Services For Education,1,95.0,2024,1,1,Business & professional services,2024-06-25,2024-06-25
+CEC Entertainment,1,95.0,2020,1,1,Hotels & leisure,2020-08-28,2020-08-28
+Pappasito's 07,1,95.0,2020,1,1,Restaurants & bars,2020-03-26,2020-03-26
 ABM Industries Groups,4,94.0,2022,1,1,Transportation & logistics,2022-03-15,2022-03-15
-Select Specialty Hospital Longview,1,94.0,2024,1,1,Healthcare,2024-05-02,2024-05-02
-Babylon,1,94.0,2023,1,1,Other / unclassified,2023-08-08,2023-08-08
-Scentsy,1,94.0,2025,1,1,Other / unclassified,2025-01-09,2025-01-09
-Randalls #3067,1,94.0,2026,1,1,Other / unclassified,2026-02-09,2026-02-09
 Bob Evans Foods,1,94.0,2023,1,1,Manufacturing,2023-07-14,2023-07-14
+Scentsy,1,94.0,2025,1,1,Other / unclassified,2025-01-09,2025-01-09
+Select Specialty Hospital Longview,1,94.0,2024,1,1,Healthcare,2024-05-02,2024-05-02
+Southern Star Express,2,94.0,2022,1,2,Other / unclassified,2022-08-24,2022-08-24
+Randalls #3067,1,94.0,2026,1,1,Other / unclassified,2026-02-09,2026-02-09
+Babylon,1,94.0,2023,1,1,Other / unclassified,2023-08-08,2023-08-08
 Kohler,1,93.0,2024,1,1,Other / unclassified,2024-04-16,2024-04-16
-GXO Logistics of Texas Supply Chain,1,92.0,2023,1,1,Transportation & logistics,2023-08-31,2023-08-31
-Seville Farms @ Los Fresnos,1,92.0,2022,1,1,Other / unclassified,2022-07-25,2022-07-25
-HGS Solutions,1,92.0,2026,1,1,"Tech, telecom & BPO",2026-02-04,2026-02-04
-Unity Technologies,1,92.0,2024,1,1,"Tech, telecom & BPO",2024-01-12,2024-01-12
 Essendant Management Services,1,92.0,2025,1,1,Business & professional services,2025-09-04,2025-09-04
+Seville Farms @ Los Fresnos,1,92.0,2022,1,1,Other / unclassified,2022-07-25,2022-07-25
+Unity Technologies,1,92.0,2024,1,1,"Tech, telecom & BPO",2024-01-12,2024-01-12
+GXO Logistics of Texas Supply Chain,1,92.0,2023,1,1,Transportation & logistics,2023-08-31,2023-08-31
 Matheson Flight Extenders,1,92.0,2023,1,1,Other / unclassified,2023-12-04,2023-12-04
-Creative Testing Solutions,1,91.0,2025,1,1,"Tech, telecom & BPO",2025-10-09,2025-10-09
+HGS Solutions,1,92.0,2026,1,1,"Tech, telecom & BPO",2026-02-04,2026-02-04
 Seatrium AmFELS,1,91.0,2025,1,1,Other / unclassified,2025-09-30,2025-09-30
 Pappasito's 20,1,91.0,2020,1,1,Restaurants & bars,2020-03-26,2020-03-26
 NOV,1,91.0,2020,1,1,Energy & oilfield,2020-04-17,2020-04-17
+Creative Testing Solutions,1,91.0,2025,1,1,"Tech, telecom & BPO",2025-10-09,2025-10-09
 Alta Mesa Services,1,91.0,2020,1,1,Business & professional services,2020-02-18,2020-02-18
 Southeast Service,1,91.0,2023,1,1,"Government, education & nonprofit",2023-06-15,2023-06-15
 ATCO Structures,1,90.0,2020,1,1,Other / unclassified,2020-04-22,2020-04-22
 Brennan's of Houston,1,90.0,2020,1,1,Other / unclassified,2020-07-27,2020-07-27
-GSC Wholesale,1,90.0,2020,1,1,Transportation & logistics,2020-07-03,2020-07-03
 Food City Supermarkets,1,90.0,2022,1,1,Other / unclassified,2022-07-19,2022-07-19
+GSC Wholesale,1,90.0,2020,1,1,Transportation & logistics,2020-07-03,2020-07-03
 Pappadeaux Seafood Kitchen 18,1,90.0,2020,1,1,Restaurants & bars,2020-03-26,2020-03-26
 Scribe Media,1,90.0,2023,1,1,Other / unclassified,2023-05-25,2023-05-25
 Liberty Oilfield,1,89.0,2020,1,1,Energy & oilfield,2020-04-24,2020-04-24
